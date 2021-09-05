@@ -11,7 +11,7 @@ The visual workflow allows the user to develop apps "live", using a powerful and
 
 [LiveCode Ltd.](http://livecode.com/), based in Edinburgh, UK, coordinates development of LiveCode and has run the open source project since LiveCode Community was first released in April 2013.
 
-You can download pre-compiled versions of the LiveCode Community development environment from the [Archive.org](https://archive.org/search.php?query=creator%3A%22LiveCode%2C+Inc.%22).
+You can download pre-compiled versions of the LiveCode Community development environment from the [Archive.org](https://archive.org/search.php?query=creator%3A%22LiveCode%2C+Inc.%22) collection, kindly set up by a forum user.
 
 ## Overview
 
