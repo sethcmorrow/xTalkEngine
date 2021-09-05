@@ -1,6 +1,5 @@
 # LiveCode Community Edition
 
-![LiveCode Community Logo](http://livecode.com/wp-content/uploads/2015/02/livecode-logo.png)
 
 Copyright © 2003-2019 LiveCode Ltd., Edinburgh, UK
 
@@ -12,7 +11,7 @@ The visual workflow allows the user to develop apps "live", using a powerful and
 
 [LiveCode Ltd.](http://livecode.com/), based in Edinburgh, UK, coordinates development of LiveCode and has run the open source project since LiveCode Community was first released in April 2013.
 
-You can download pre-compiled versions of the LiveCode Community development environment from the [LiveCode download centre](http://downloads.livecode.com/livecode/).
+You can download pre-compiled versions of the LiveCode Community development environment from the [Archive.org](https://archive.org/search.php?query=creator%3A%22LiveCode%2C+Inc.%22).
 
 ## Overview
 
