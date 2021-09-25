@@ -5,9 +5,9 @@ Synonyms: application
 Type: glossary
 
 Description:
-The program that's currently running: either the LiveCode 
+The program that's currently running: either the OpenXTalk 
 <development environment>, or a <standalone application> created with 
-LiveCode.
+OpenXTalk.
 
 References: development environment (glossary),
 standalone application (glossary)

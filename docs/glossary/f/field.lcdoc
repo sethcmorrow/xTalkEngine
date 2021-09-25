@@ -5,7 +5,7 @@ Synonyms: field
 Type: glossary
 
 Description:
-An <object(glossary)> that contains text. LiveCode fields can be
+An <object(glossary)> that contains text. OpenXTalk fields can be
 editable or <lock|locked>, and include rectangular fields, scrolling
 fields, and clickable <list field|list fields>.
 

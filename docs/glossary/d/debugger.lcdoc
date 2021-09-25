@@ -6,7 +6,7 @@ script debug mode, script debugging mode
 Type: glossary
 
 Description:
-A feature of LiveCode that helps you check <script|scripts> for
+A feature of OpenXTalk that helps you check <script|scripts> for
 <error|errors>. 
 
 To use the debugger, you click "Debug" in the error window.

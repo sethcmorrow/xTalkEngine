@@ -8,7 +8,7 @@ Type: glossary
 
 Description:
 A remark placed in a <script> to explain the <script> or part of it.
-LiveCode ignores comments when <execute|executing> a <handler>.
+OpenXTalk ignores comments when <execute|executing> a <handler>.
 
 References: execute (glossary), handler (glossary), script (glossary)
 

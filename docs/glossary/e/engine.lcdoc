@@ -5,14 +5,14 @@ Synonyms: engine
 Type: glossary
 
 Description:
-The back-end software that powers the LiveCode 
+The back-end software that powers the OpenXTalk 
 <development environment>, as well as 
-<standalone application|standalone applications> created with LiveCode.
+<standalone application|standalone applications> created with OpenXTalk.
 
-The engine includes the <LiveCode> <compile|compiler>, the 
+The engine includes the <OpenXTalk> <compile|compiler>, the 
 <object hierarchy>, and <object(glossary)> display routines.
 
-References: object hierarchy (glossary), LiveCode (glossary),
+References: object hierarchy (glossary), OpenXTalk (glossary),
 standalone application (glossary), compile (glossary),
 development environment (glossary), object (glossary)
 

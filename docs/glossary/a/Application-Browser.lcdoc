@@ -7,7 +7,7 @@ app browser, app browser window
 Type: glossary
 
 Description:
-Part of the LiveCode <development environment>. In the Application
+Part of the OpenXTalk <development environment>. In the Application
 Browser, you can see a list of all open <stack|stacks>, and all
 <object|objects> in your <stack|stacks>--hidden or visible--and change
 their properties.

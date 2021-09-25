@@ -5,7 +5,7 @@ Synonyms: color specifier, color reference, color descriptor
 Type: glossary
 
 Description:
-Any valid way of describing a particular color that LiveCode can
+Any valid way of describing a particular color that OpenXTalk can
 understand. 
 
 Colors can be referred to by color name, <HTML> -style specification, or
