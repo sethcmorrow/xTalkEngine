@@ -8,7 +8,7 @@ Description:
 A category of <object(glossary)>; a set of objects that all have the
 same general properties.
 
-In LiveCode, the object types are <stack|stacks>, <card|cards>,
+In OpenXTalk, the object types are <stack|stacks>, <card|cards>,
 <group|groups>, <button|buttons>, <field|fields>, <image|images>,
 <graphic|graphics>, <EPS|EPS objects>, <scrollbar|scrollbars>,
 <player|players>, <audio clip|audio clips>, and <video clip|video

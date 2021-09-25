@@ -8,7 +8,7 @@ control reference
 Type: glossary
 
 Description:
-Any valid way of describing an <object(glossary)> that LiveCode can
+Any valid way of describing an <object(glossary)> that OpenXTalk can
 understand. <object|Objects> can be referred to by <name>, <number>, or
 <ID>. 
 

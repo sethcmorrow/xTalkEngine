@@ -8,10 +8,10 @@ Type: library
 Associations: profile library
 
 Description:
-The <LiveCode custom library|LiveCode custom library> that supports
+The <OpenXTalk custom library|OpenXTalk custom library> that supports
 <property profile|property profiles>. The <property profile|profile>
 <property> is part of the Profile library.
 
 References: property (glossary), property profile (glossary),
-LiveCode custom library (glossary)
+OpenXTalk custom library (glossary)
 

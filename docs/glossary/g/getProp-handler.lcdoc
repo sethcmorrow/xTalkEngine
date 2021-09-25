@@ -5,11 +5,11 @@ Synonyms: getprop handler
 Type: glossary
 
 Description:
-A <LiveCode> <handler> you write that defines optional actions when a
+A <OpenXTalk> <handler> you write that defines optional actions when a
 <custom property's> <value> is requested. GetProp <handler|handlers>
 begin with the <getProp> <control structure>.
 
 References: getProp (control structure), handler (glossary),
-LiveCode (glossary), value (glossary), control structure (glossary),
+OpenXTalk (glossary), value (glossary), control structure (glossary),
 custom property (property)
 

@@ -5,7 +5,7 @@ Synonyms: navigation message
 Type: glossary
 
 Description:
-One of the <built-in message|built-in messages> LiveCode sends
+One of the <built-in message|built-in messages> OpenXTalk sends
 automatically when going from <card> to <card> or <stack> to <stack>.
 Navigation messages include <openCard>, <closeBackground>,
 <preOpenCard>, and similar <message|messages>.

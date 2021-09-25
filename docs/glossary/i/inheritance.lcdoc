@@ -8,7 +8,7 @@ Description:
 The structure under which some <object|objects> can use the behavior
 defined for other <object|objects>.
 
-In LiveCode, <object|objects> inherit some of the properties of their
+In OpenXTalk, <object|objects> inherit some of the properties of their
 <owner>. For example, all the <object|objects> on a <card> inherit the
 <card|card's> <handler|handlers>.
 

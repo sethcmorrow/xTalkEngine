@@ -5,8 +5,8 @@ Synonyms: object
 Type: glossary
 
 Description:
-A LiveCode module capable of receiving <message|messages>. One of the
-building blocks of a LiveCode application. Objects include: 
+A OpenXTalk module capable of receiving <message|messages>. One of the
+building blocks of a OpenXTalk application. Objects include: 
 -  <stack|stacks>
 -  <card|cards>
 -  <control|controls>

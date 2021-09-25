@@ -5,11 +5,11 @@ Synonyms: keyword
 Type: glossary
 
 Description:
-A word that is part of the <LiveCode> language, but is not a built-in
+A word that is part of the <OpenXTalk> language, but is not a built-in
 <command>, <function>, <property>, or <message> name, a 
 <control structure>, <operator>, or <object(glossary)> type.
 
-References: property (glossary), LiveCode (glossary), operator (glossary),
+References: property (glossary), OpenXTalk (glossary), operator (glossary),
 message (glossary), control structure (glossary), function (glossary),
 command (glossary), object (glossary)
 

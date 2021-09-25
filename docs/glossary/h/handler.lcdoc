@@ -5,12 +5,12 @@ Synonyms: handler
 Type: glossary
 
 Description:
-A group of <LiveCode> <statement|statements> that begin with an <on>,
+A group of <OpenXTalk> <statement|statements> that begin with an <on>,
 <function>, <setProp>, or <getProp> <statement> and end with an <end>
-<statement>. The basic unit of the <LiveCode|LiveCode> language.
+<statement>. The basic unit of the <OpenXTalk|OpenXTalk> language.
 
 References: on (control structure), setProp (control structure),
-getProp (control structure), statement (glossary), LiveCode (glossary),
+getProp (control structure), statement (glossary), OpenXTalk (glossary),
 function (glossary), end (keyword)
 
 Tags: messages

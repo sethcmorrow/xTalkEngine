@@ -6,7 +6,7 @@ Type: glossary
 
 Description:
 An attribute of an <object(glossary)>, or a <global> attribute of the
-LiveCode environment.
+OpenXTalk environment.
 
 An <object|object's> <property|properties> consist of its <built-in
 property|built-in properties>, plus any <custom property|custom
