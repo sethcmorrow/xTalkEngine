@@ -5,8 +5,8 @@ Synonyms: standalone, standalone application, exe, .exe, executable
 Type: glossary
 
 Description:
-An application <build|built> with LiveCode that can run on its own,
-without needing the LiveCode <development environment>.
+An application <build|built> with OpenXTalk that can run on its own,
+without needing the OpenXTalk <development environment>.
 
 References: development environment (glossary), build (glossary)
 

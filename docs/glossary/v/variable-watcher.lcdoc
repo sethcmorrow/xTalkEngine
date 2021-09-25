@@ -5,7 +5,7 @@ Synonyms: variable watcher, variable window
 Type: glossary
 
 Description:
-Part of the LiveCode <development environment>, a pane that displays the
+Part of the OpenXTalk <development environment>, a pane that displays the
 current values of <variable|variables> during script
 <execute|execution>. 
 

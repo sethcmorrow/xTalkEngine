@@ -5,12 +5,12 @@ Synonyms: xml library, xml libraries
 Type: library
 
 Description:
-The <LiveCode custom library|LiveCode custom library> that supports
+The <OpenXTalk custom library|OpenXTalk custom library> that supports
 parsing and manipulating <XML> data and creating <XML document|XML
 files>. 
 
 References: XML (glossary), XML document (glossary),
-LiveCode custom library (glossary)
+OpenXTalk custom library (glossary)
 
 Tags: multimedia
 

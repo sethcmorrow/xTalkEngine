@@ -8,7 +8,7 @@ Description:
 A set of program <statement|statements>, with a name, that performs a
 particular task. The subroutine can be called from other routines.
 
-In <LiveCode>, routines are called <handler|handlers>.
+In <OpenXTalk>, routines are called <handler|handlers>.
 
-References: statement (glossary), LiveCode (glossary), handler (glossary)
+References: statement (glossary), OpenXTalk (glossary), handler (glossary)
 

@@ -8,7 +8,7 @@ Type: glossary
 Description:
 A feature of some operating systems that allows the computer to speak a
 phrase in a human-sounding synthesized voice. Text to speech is
-supported in LiveCode with the <Speech library>.
+supported in OpenXTalk with the <Speech library>.
 
 References: Speech library (library)
 

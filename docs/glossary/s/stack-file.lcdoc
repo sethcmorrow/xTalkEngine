@@ -5,7 +5,7 @@ Synonyms: stack file, stackfile
 Type: glossary
 
 Description:
-A LiveCode <file>, containing a <main stack> and (optionally) one or
+A OpenXTalk <file>, containing a <main stack> and (optionally) one or
 more <substack|substacks>. A stack file is either binary, or a text 
 file (a <script only stack>).
 

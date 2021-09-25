@@ -6,9 +6,9 @@ Type: glossary
 
 Description:
 When saving a binary <stack> using the <save> <command>, it is possible 
-to save with a specific version of LiveCode's stack <file> format. This 
+to save with a specific version of OpenXTalk's stack <file> format. This 
 is useful when saving a binary stack so that it can be saved in an older
-<version|version of LiveCode>, but it should be used with caution.
+<version|version of OpenXTalk>, but it should be used with caution.
 
 **Warning:** Using a non-default <stack version> could result in data
 being lost when stacks are saved. In particular, any features that are
@@ -17,15 +17,15 @@ not present in the target version may be lost. For example, using a
 to be lost.
 
 These are the <stack version|stack file format versions> that can be
-used with the <save> command, and the versions of LiveCode that they are
+used with the <save> command, and the versions of OpenXTalk that they are
 compatible with:
 
-* "8.1": (Default) LiveCode 8.1.0 and later
-* "8.0": LiveCode 8.0.0 up to LiveCode 8.1.0
-* "7.0": LiveCode 7.0.0 up to LiveCode 8.0.0
-* "5.5": LiveCode 5.5.0 up to LiveCode 7.0
-* "2.7": LiveCode 2.6.1 up to LiveCode 5.5.0
-* "2.4": LiveCode older than 2.6.1
+* "8.1": (Default) OpenXTalk 8.1.0 and later
+* "8.0": OpenXTalk 8.0.0 up to OpenXTalk 8.1.0
+* "7.0": OpenXTalk 7.0.0 up to OpenXTalk 8.0.0
+* "5.5": OpenXTalk 5.5.0 up to OpenXTalk 7.0
+* "2.7": OpenXTalk 2.6.1 up to OpenXTalk 5.5.0
+* "2.4": OpenXTalk older than 2.6.1
 
 When saving in the **8.0 format** paragraphs will be truncated where
 length exceeds 32767 characters.
