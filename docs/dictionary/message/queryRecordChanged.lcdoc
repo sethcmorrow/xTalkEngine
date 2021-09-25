@@ -43,7 +43,7 @@ when any of following events occur:
 
 The queryRecordChanged message is only sent to stacks that contain 
 query objects. For more information about query objects and how to 
-create and use them see section 8.5 of the LiveCode User's Guide. 
+create and use them see section 8.5 of the OpenXTalk User's Guide. 
 
 References: revBrowserSet (command), revBrowserNavigate (command),
 browserDownloadRequest (message)

@@ -42,7 +42,7 @@ with between 1 and 3 digits.
 
 Description:
 Use the <hostAddress> <function> to find the <IP address> of the
-computer that LiveCode is running on.
+computer that OpenXTalk is running on.
 
 The socket must be open. If the specified socket has not been opened,
 the <hostAddress> <function> <return|returns> "not an open socket". If

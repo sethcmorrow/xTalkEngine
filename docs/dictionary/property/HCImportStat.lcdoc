@@ -27,7 +27,7 @@ Use the <HCImportStat> <property> to check the status of a <HyperCard>
 stack that's being <import|imported>.
 
 To import a HyperCard stack, use the <go> <command> to open the <stack>.
-LiveCode automatically converts it to a LiveCode <stack>.
+OpenXTalk automatically converts it to a OpenXTalk <stack>.
 
 If no stack has been imported during the current session, the
 <HCImportStat> <property> reports empty.

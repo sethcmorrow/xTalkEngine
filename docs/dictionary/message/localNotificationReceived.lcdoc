@@ -38,8 +38,8 @@ or open the login screen to inform the user that an application has
 information for them. Android can create an application icon in the
 status bar. The user can then decide whether or not to open the
 application. If the application is opened as a result of the
-notification, then LiveCode can handle the message. If an application is
-currently running when it receives a notification, then LiveCode can
+notification, then OpenXTalk can handle the message. If an application is
+currently running when it receives a notification, then OpenXTalk can
 handle the message and process it as required.
 
 If a badge number is received with the notification, then that badge

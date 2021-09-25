@@ -35,7 +35,7 @@ used to indent the list line(s).
 
 Description:
 Use the <listIndent> property to control the size of the margins used by
-LiveCode when indenting lists.
+OpenXTalk when indenting lists.
 
 References: borderWidth (property), vgrid (property),
 textAlign (property), dontWrap (property), formattedText (property),

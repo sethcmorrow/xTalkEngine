@@ -48,7 +48,7 @@ A string specifying the mode of the object.
 
 Description:
 Use the layerMode property to specify if an object is static or dynamic.
-The LiveCode engine uses this to optimize rendering performance by
+The OpenXTalk engine uses this to optimize rendering performance by
 caching objects that are moving or changing regularly.
 
 If you specify the effective keyword, getting the <layerMode> returns

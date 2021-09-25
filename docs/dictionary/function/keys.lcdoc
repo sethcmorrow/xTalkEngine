@@ -46,11 +46,11 @@ perform some action on each <element> in an <array>.
     sort lines of myVariable
 
 
->*Note:*  Arrays in LiveCode are associative (also known as hash
+>*Note:*  Arrays in OpenXTalk are associative (also known as hash
 > tables). This means that the keys of an array are strings which
-> LiveCode uses to "look up" the array elements rather than numeric
+> OpenXTalk uses to "look up" the array elements rather than numeric
 > indices as in C, Pascal and other languages. Of course it is possible
-> to use numeric values for array keys, but LiveCode will internally
+> to use numeric values for array keys, but OpenXTalk will internally
 > convert these into strings before retrieving the array elements.
 
 References: combine (command), split (command), sort (command),

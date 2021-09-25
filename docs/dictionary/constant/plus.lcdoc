@@ -26,7 +26,7 @@ The following two statements are equivalent:
     set the cursor to 12
 
 
-However, the first is easier to read and understand in LiveCode.
+However, the first is easier to read and understand in OpenXTalk.
 
 >*Important:*  If you use the <plus> <cursor(property)> or other
 > standard <cursor(glossary)|cursors> in your application, you must

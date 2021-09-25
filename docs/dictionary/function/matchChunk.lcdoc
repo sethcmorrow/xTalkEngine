@@ -75,7 +75,7 @@ matched substrings in the optional <positionVarsList> variables, while
 the <matchText> <function(control structure)> records the substrings
 themselves. 
 
->*Tip:* LiveCode implements <regular expression|regular expressions>
+>*Tip:* OpenXTalk implements <regular expression|regular expressions>
 > compatible with the PCRE library. For detailed information about
 > <regular expression> elements you can use with this
 > <function(control structure)>, see the PCRE pattern documentation at

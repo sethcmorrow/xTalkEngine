@@ -38,7 +38,7 @@ the system's default printer is returned.
 
 Description:
 Use the <printerName> property to determine or set the printer that will
-be used by LiveCode.
+be used by OpenXTalk.
 
 Setting the <printerName> to empty will reset the printer to the system
 default, and all printer settings to the default for that printer.

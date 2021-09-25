@@ -44,7 +44,7 @@ revXMLRPC_CreateRequest (function), return (glossary), host (glossary),
 XML-RPC (glossary), Standalone Application Settings (glossary),
 IP address (glossary), standalone application (glossary),
 XML-RPC document (glossary), function (glossary), domain name (glossary),
-LiveCode custom library (glossary), XML-RPC library (library),
+OpenXTalk custom library (glossary), XML-RPC library (library),
 revXMLRPC_Execute (function)
 
 Tags: networking

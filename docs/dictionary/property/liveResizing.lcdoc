@@ -30,7 +30,7 @@ false.
 
 Description:
 **Note:** The <liveResizing> property is deprecated, since it has no
-effect on any operating system currently supported by LiveCode. Its
+effect on any operating system currently supported by OpenXTalk. Its
 value is always treated as true.
 
 Use the <liveResizing> property to create a smooth visual appearance

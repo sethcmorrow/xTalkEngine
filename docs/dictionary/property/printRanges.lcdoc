@@ -36,7 +36,7 @@ Description:
 Use the <printRanges> property to specify ranges of pages to be
 printed. 
 
-If the <printRanges> is set to a list of ranges, LiveCode will
+If the <printRanges> is set to a list of ranges, OpenXTalk will
 automatically skip pages not in the range. Otherwise it is up to the
 application to print the appropriate pages.
 
@@ -44,7 +44,7 @@ If an application wishes to handle the skipping of pages, it can do so
 by setting the <printRanges> property to "all" before starting the
 printing loop.
 
->*Note:* LiveCode automatically handles coalescing overlapping ranges,
+>*Note:* OpenXTalk automatically handles coalescing overlapping ranges,
 > e.g. 1-10,5-25,23 will result in the range being 1-25.
 
 To have an effect, this property must be set before calling 

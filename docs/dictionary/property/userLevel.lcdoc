@@ -5,7 +5,7 @@ Type: property
 Syntax: set the userLevel to <number>
 
 Summary:
-Has no effect and is included in <LiveCode> for compatibility with
+Has no effect and is included in <OpenXTalk> for compatibility with
 imported <HyperCard> stacks.
 
 Introduced: 1.0
@@ -14,7 +14,7 @@ Platforms: desktop, server
 
 Description:
 In HyperCard, the <userLevel> <property> determines what actions the
-user can perform. In LiveCode, there are no separate user levels.
+user can perform. In OpenXTalk, there are no separate user levels.
 
 By default, the <userLevel> <property> is set to 8. (This is greater
 than any of the <value|values> permitted in HyperCard for the
@@ -27,7 +27,7 @@ A handler can set the <userLevel> to any number without causing a
 changed. 
 
 References: edit (command), choose (command), stacks (function),
-property (glossary), LiveCode (glossary), behavior (glossary),
+property (glossary), OpenXTalk (glossary), behavior (glossary),
 value (glossary), error (glossary), import (glossary),
 HyperCard (glossary), application (glossary), cantModify (property)
 

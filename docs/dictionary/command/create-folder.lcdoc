@@ -47,7 +47,7 @@ To create a file, use the open file <command>.
 > available as discrete files in the native filesystem. In order to
 > manage this the engine essentially 'virtualizes' the asset files you
 > include, allowing (read-only) manipulation with all the standard
-> LiveCode file and folder handling syntax.
+> OpenXTalk file and folder handling syntax.
 
 References: create alias (command), revDeleteFolder (command),
 tempName (function), specialFolderPath (function), files (function),

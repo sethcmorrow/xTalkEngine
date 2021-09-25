@@ -85,7 +85,7 @@ substrings in the optional <foundTextVarsList>, which the <matchChunk>
 <function(control structure)> records the character positions of the
 matched substrings.
 
->*Tip:* LiveCode implements <regular expression|regular expressions>
+>*Tip:* OpenXTalk implements <regular expression|regular expressions>
 > compatible with the PCRE library. For detailed information about
 > <regular expression> elements you can use with this
 > <function(control structure)>, see the PCRE pattern documentation at

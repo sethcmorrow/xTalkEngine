@@ -39,7 +39,7 @@ is, and is equal to the vertical distance in <pixels> between the
 baseline of one line and the baseline of the next. The minimum
 <textHeight> is 4 <pixels>.
 
->*Note:* If you change the field's textSize, LiveCode automatically sets
+>*Note:* If you change the field's textSize, OpenXTalk automatically sets
 > the <textHeight> to trunc(4/3 * the textSize of <field>). For example,
 > if the textSize is set to 12, the <textHeight> is set to 16 by
 > <default>. If the textSize is set to 14, the <textHeight> is set

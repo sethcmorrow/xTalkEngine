@@ -32,7 +32,7 @@ Use the <printCommand> <property> to control which program is used to
 print on <Unix|Unix systems>.
 
 The value of the <printCommand> must be a valid <Unix> <command line>.
-The <string> "%s" is a placeholder for the print file name LiveCode
+The <string> "%s" is a placeholder for the print file name OpenXTalk
 sends to the printing command.
 
 The setting of this property has no effect on Mac OS or Windows systems.

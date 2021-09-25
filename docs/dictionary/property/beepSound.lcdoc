@@ -45,7 +45,7 @@ Description:
 Use the <beepSound> property to change the sound made when the beep
 command is used.
 
-When the beep command is executed, LiveCode makes a sound using the
+When the beep command is executed, OpenXTalk makes a sound using the
 method specified by the <beepSound> property.
 
 >*Note:* Setting the <beepSound> property only has an effect on the

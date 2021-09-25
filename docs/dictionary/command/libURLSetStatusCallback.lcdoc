@@ -136,7 +136,7 @@ messages> so that updating the <URLStatus> <function> does not send any
 >*Important:* The <libURLSetStatusCallback> <command> is part of the 
 > <Internet library>. To ensure that the <command> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the "Internet" 
 > script library is selected.
@@ -145,7 +145,7 @@ References: libURLSetStatusCallback (command), put (command),
 load (command), group (command), libURLftpUploadFile (command),
 libURLftpUpload (command), libURLDownloadToFile (command),
 function (control structure), switch (control structure),
-URLStatus (function), LiveCode custom library (glossary),
+URLStatus (function), OpenXTalk custom library (glossary),
 application (glossary), standalone application (glossary),
 evaluate (glossary), message (glossary), URL (glossary),
 callback (glossary), command (glossary), control structure (glossary),

@@ -7,7 +7,7 @@ Syntax: the stackSpace
 Syntax: stackSpace()
 
 Summary:
-Does not <return> a meaningful <value> and is included in <LiveCode> for
+Does not <return> a meaningful <value> and is included in <OpenXTalk> for
 compatibility with imported <HyperCard> stacks.
 
 Introduced: 1.0
@@ -16,11 +16,11 @@ Platforms: desktop, server
 
 Description:
 In HyperCard, the <stackSpace> function <return(glossary)|returns> the
-disk size of the <current stack>. In LiveCode, this <function> does not
+disk size of the <current stack>. In OpenXTalk, this <function> does not
 <return(constant)> a meaningful <value>.
 
 References: return (constant), function (control structure),
 heapSpace (function), hasMemory (function), value (function),
-diskSpace (function), current stack (glossary), LiveCode (glossary),
+diskSpace (function), current stack (glossary), OpenXTalk (glossary),
 HyperCard (glossary), return (glossary)
 

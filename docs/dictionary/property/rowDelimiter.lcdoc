@@ -28,7 +28,7 @@ Example:
 set the rowDelimiter to ";;"
 
 Value:
-From LiveCode 7.0, <rowDelimiter> can be a string of one or several
+From OpenXTalk 7.0, <rowDelimiter> can be a string of one or several
 <character|characters>. By default, the rowDelimiter is set to return.
 
 Description:
@@ -36,7 +36,7 @@ Use the <rowDelimiter> property in conjunction with the <split> <command>
 to divide text into an array of rows or with the <combine> <command> to
 combine an array of rows into a string.
 
-From LiveCode 7.0, <rowDelimiter> can be a string of one or several
+From OpenXTalk 7.0, <rowDelimiter> can be a string of one or several
 <character|characters>. 
 
 Since the <rowDelimiter> is a local property, its value is reset to

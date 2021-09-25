@@ -16,7 +16,7 @@ OS: mac, windows, linux
 Platforms: desktop, server
 
 Example:
-get the sha1Digest of "LiveCode"
+get the sha1Digest of "OpenXTalk"
 
 Example:
 put textEncode("Message to verify", "UTF-8") into tMessage

@@ -24,7 +24,7 @@ setResource(it,"ICON",128,,,getResource(it,"ICON",130))
 Parameters:
 destinationFile:
 The location and name of the file that contains the resource you want to
-set. If you specify a name but not a location, LiveCode assumes the file
+set. If you specify a name but not a location, OpenXTalk assumes the file
 is in the defaultFolder.
 
 resourceType:

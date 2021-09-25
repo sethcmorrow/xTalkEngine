@@ -51,7 +51,7 @@ The pathName specifies the name and location of the file you want to
 write to. It must be the same as the path you used with the open file
 command. The pathName is case-sensitive, even on platforms where file
 names are not case-sensitive. If you specify the name of a serial port
-on Mac OS or Windows systems, LiveCode writes to the specified port. The
+on Mac OS or Windows systems, OpenXTalk writes to the specified port. The
 names of serial ports end in a colon (:).
 
 start (enum):

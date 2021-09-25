@@ -5,7 +5,7 @@ Type: property
 Syntax: set the resizeQuality of <image> to <qualityValue>
 
 Summary:
-Specifies which method LiveCode should use to scale an image.
+Specifies which method OpenXTalk should use to scale an image.
 
 Associations: image
 

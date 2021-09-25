@@ -30,7 +30,7 @@ and possible screen flashing when the <bit depth> of the screen is 8
 
 If the <lockColorMap> <property> is set to false, newly-displayed
 <image(object)|images>, <video clip|videoclips>, and
-<player(object)|players> can change the <color table> used by LiveCode.
+<player(object)|players> can change the <color table> used by OpenXTalk.
 This displays the colors in <image(object)|images> and movies more
 accurately, but can cause screen flashing. (To minimize screen flashing
 when the <lockColorMap> is false, go to the <card> containing the

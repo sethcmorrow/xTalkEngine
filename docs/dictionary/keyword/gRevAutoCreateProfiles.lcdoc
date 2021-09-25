@@ -37,7 +37,7 @@ be created.
 The <gRevAutoCreateProfiles> <global|global variable> can also be
 changed in the Preferences dialog box:
 
-1. Choose LiveCode → Preferences from the menubar.
+1. Choose OpenXTalk → Preferences from the menubar.
 2. Choose "Property Profiles" from the menu at the top.
 3. Click "Create profiles automatically".
 

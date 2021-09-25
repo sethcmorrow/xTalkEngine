@@ -25,8 +25,8 @@ Handle the <undoKey> message if you want to change the normal <Undo>
 process, or prevent use of the <Undo> <keyboard equivalent> without
 changing the menu.
 
-The LiveCode development environment traps the <undoKey> <message>,
-unless "Suspend LiveCode UI" is turned on in the Development <menu>.
+The OpenXTalk development environment traps the <undoKey> <message>,
+unless "Suspend OpenXTalk UI" is turned on in the Development <menu>.
 This means that the <undoKey> <message> is not received by a <stack> if
 it's running in the <development environment>.
 

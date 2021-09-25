@@ -29,7 +29,7 @@ Unicode paragraph separator (0x2029).
 
 >*Note:*  The paragraph chunk is identical to the line chunk, except
 > that it is also delimited by the paragraph separator character. This
-> reflects the paragraph breaking exhibited by LiveCode fields.
+> reflects the paragraph breaking exhibited by OpenXTalk fields.
 
 References: paragraph (keyword)
 

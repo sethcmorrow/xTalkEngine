@@ -30,7 +30,7 @@ Description:
 The <scrollerDidScroll> message is sent when the scroll properties of a
 scroller control created using the <mobileControlCreate> command change.
 
-Handle the <scrollerDidScroll> message if you want to move LiveCode
+Handle the <scrollerDidScroll> message if you want to move OpenXTalk
 controls, make changes to the interface or set the appropriate scroll
 properties of groups and fields to get a native scrolling effect.
 

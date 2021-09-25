@@ -18,7 +18,7 @@ Example:
 unlock cursor
 
 Description:
-Use the <unlock cursor> <command> to allow LiveCode to change the
+Use the <unlock cursor> <command> to allow OpenXTalk to change the
 <cursor> rather than retaining the <cursor> you set.
 
 The <unlock cursor> <command> sets the <lockCursor> <property> to false.

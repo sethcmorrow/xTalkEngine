@@ -32,7 +32,7 @@ Use the <passKey> <property> to unlock a <password> -protected <stack>.
 If a stack has been locked against modification with a password, you can
 set the <passKey> <property> of the stack to the correct <password> to
 <unlock> the <stack>. Setting the <passKey> <property> is the <script>
-equivalent of typing the <password> into LiveCode's <password> <dialog
+equivalent of typing the <password> into OpenXTalk's <password> <dialog
 box>. Use this <property> if you want to perform <password>
 authentication in a <handler>.
 
@@ -44,9 +44,9 @@ authentication in a <handler>.
     set the password of stack "Secrets" to field "Password"
 
 >**Note:** Setting the <passKey> of a <stack> is only supported in 
-> *LiveCode Indy* and *LiveCode Business*. In *LiveCode Community* and
-> *LiveCode Community Plus* setting the <passKey> of a <stack> will
-> result in an execution error, however, *LiveCode Community Plus* does
+> *OpenXTalk Indy* and *OpenXTalk Business*. In *OpenXTalk Community* and
+> *OpenXTalk Community Plus* setting the <passKey> of a <stack> will
+> result in an execution error, however, *OpenXTalk Community Plus* does
 > support using <password> protected <stack|stacks>.
     
 References: stacks (function), property (glossary), unlock (glossary),

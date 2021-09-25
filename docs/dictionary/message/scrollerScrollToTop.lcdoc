@@ -22,7 +22,7 @@ Description:
 The <scrollerScrollToTop> message is sent when a UIScrollView scroller
 control is scrolled to the top when you touch the status bar.
 
-Handle the <scrollerScrollToTop> message if you want to move LiveCode
+Handle the <scrollerScrollToTop> message if you want to move OpenXTalk
 controls, make changes to the interface or set the appropriate scroll
 properties of groups and fields to get a native scrolling effect.
 

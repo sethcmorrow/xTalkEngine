@@ -83,7 +83,7 @@ On other systems, the as sheet form has no effect and the dialog box
 appears normally. Attempting to open a sheet from within another sheet
 displays the second stack as a <modal dialog box> instead.
 
-If the systemFileSelector <property> is set to false, LiveCode's
+If the systemFileSelector <property> is set to false, OpenXTalk's
 built-in <dialog box> is used instead of the operating system's 
 <file dialog box|standard file dialog>.
 

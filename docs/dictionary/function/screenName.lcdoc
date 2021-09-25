@@ -26,12 +26,12 @@ The <screenName> <function> <return|returns> a <string>.
 
 Description:
 Use the <screenName> <function> to control where applications that
-LiveCode starts up should appear.
+OpenXTalk starts up should appear.
 
 On Unix systems, the <screenName> function <return|returns> the <string>
 provided by the XDisplayName <function call>. When starting a <process>
 with the <open process> <command> or the <shell> <function>, if you want
-the <process> to appear on the same screen as LiveCode, use the <value>
+the <process> to appear on the same screen as OpenXTalk, use the <value>
 <return|returned> by the <screenName> as the <argument> to the -d
 option. 
 

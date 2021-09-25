@@ -37,7 +37,7 @@ zero and 100 indicate levels of partial translucency.
 > blendlevel of the stack will be interpolated between its new and old
 > values during the action of the lifetime of the effect.
 
->*Note:* In previous versions of LiveCode setting the blendLevel of an
+>*Note:* In previous versions of OpenXTalk setting the blendLevel of an
 > image would automatically set the ink to blend. This no longer happens
 > and the blendLevel applies regardless of the setting of the ink. For
 > backwards compatibility, when a pre-2.7 stackfile is imported, all

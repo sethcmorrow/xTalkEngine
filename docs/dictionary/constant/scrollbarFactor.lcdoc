@@ -17,7 +17,7 @@ Example:
 get scrollbarFactor
 
 Description:
-This constant is obsolete and no longer used in LiveCode.
+This constant is obsolete and no longer used in OpenXTalk.
 
 References: endValue (property), vScroll (property),
 startValue (property), hScroll (property)

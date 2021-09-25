@@ -5,7 +5,7 @@ Type: property
 Syntax: set the screenNoPixmaps to {true | false}
 
 Summary:
-Specifies whether LiveCode creates a data structure to hold the screen
+Specifies whether OpenXTalk creates a data structure to hold the screen
 image of each window.
 
 Introduced: 1.0
@@ -25,7 +25,7 @@ Description:
 Use the <screenNoPixmaps> <property> to trade off lower memory usage for
 possible screen flashing.
 
-If the <screenNoPixmaps> <property> is set to false, LiveCode creates a
+If the <screenNoPixmaps> <property> is set to false, OpenXTalk creates a
 <pixmap> data <control structure|structure> for each of its windows.
 Changes to the appearance of the window are created in this offscreen
 image, then drawn to the actual window all at once. This minimizes

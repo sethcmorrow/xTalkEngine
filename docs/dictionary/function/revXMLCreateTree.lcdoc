@@ -70,7 +70,7 @@ error, it <return|returns> an error message starting with "xmlerr".
 >*Important:*  The <revXMLCreateTree> <function> is part of the 
 > <XML library>. To ensure that the <function> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the "XML" 
 > checkbox is checked.
@@ -78,7 +78,7 @@ error, it <return|returns> an error message starting with "xmlerr".
 References: revXMLDeleteAllTrees (command), revXMLMoveNode (command),
 revXMLAppend (command), function (control structure),
 revXMLValidateDTD (function), revXMLTrees (function),
-LiveCode custom library (glossary), return (glossary),
+OpenXTalk custom library (glossary), return (glossary),
 XML tree (glossary), Standalone Application Settings (glossary),
 message (glossary), standalone application (glossary), XML (glossary),
 function (glossary), command (glossary), integer (keyword),

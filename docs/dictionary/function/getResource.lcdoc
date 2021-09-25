@@ -22,7 +22,7 @@ getResource(it,"BNDL","Application")
 Parameters:
 filePath:
 The location and name of the file that holds the resource you want. If
-you specify a name but not a location, LiveCode assumes the file is in
+you specify a name but not a location, OpenXTalk assumes the file is in
 the defaultFolder.
 
 resourceType:

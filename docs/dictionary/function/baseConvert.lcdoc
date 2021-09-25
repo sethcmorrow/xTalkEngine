@@ -61,7 +61,7 @@ If the base is greater than 10, then digits greater than 9 are expressed
 as capital letters: A is the digit ten, B is the digit eleven, and so
 on. 
 
-LiveCode always does math in base 10, so if you want to perform
+OpenXTalk always does math in base 10, so if you want to perform
 mathematical calculations such as addition on a number in another base,
 you must first convert the number to base 10, do the calculation, then
 convert back to the original base. Here is an example:

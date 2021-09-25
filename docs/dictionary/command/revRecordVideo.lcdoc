@@ -29,7 +29,7 @@ revRecordVideo theFileName
 Parameters:
 filePath:
 The name and location of the file that will hold the recorded video
-data. If you specify a name but not a location, LiveCode assumes the
+data. If you specify a name but not a location, OpenXTalk assumes the
 file is in the defaultFolder.
 
 Description:
@@ -49,20 +49,20 @@ To stop recording the video input, use the <revStopRecordingVideo>
 >*Important:*  The <revRecordVideo> <command> is part of the 
 > <Video library>. To ensure that the <command> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the
 > "Video Grabber" 
 > library checkbox is checked.
 
 Changes:
-The use of <QuickTime> was deprecated in version 8.1 of LiveCode with
+The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk with
 new defaults for <dontUseQT> and <dontUseQTEffects> as true on all
-systems apart from pre OS X 10.8. The Windows build of LiveCode no
+systems apart from pre OS X 10.8. The Windows build of OpenXTalk no
 longer supports any <QuickTime> features and setting the <dontUseQT> and
 <dontUseQTEffects> will have no effect.
 
-Support for the "Video Grabber" library on Mac OS X ended in LiveCode
+Support for the "Video Grabber" library on Mac OS X ended in OpenXTalk
 9.0.
 
 References: revVideoGrabIdle (command), revPreviewVideo (command),
@@ -71,7 +71,7 @@ revVideoFrameImage (command), format (function), movie (function),
 execute (glossary), AVI (glossary),
 Standalone Application Settings (glossary), QuickTime (glossary),
 standalone application (glossary), video grabber (glossary),
-command (glossary), LiveCode custom library (glossary),
+command (glossary), OpenXTalk custom library (glossary),
 Video library (library), dontUseQT (property), 
 dontUseQTEffects (property)
 

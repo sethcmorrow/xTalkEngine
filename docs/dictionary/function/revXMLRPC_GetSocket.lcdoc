@@ -45,7 +45,7 @@ References: revXMLRPC_SetSocket (command), post command (command),
 function (control structure), return (glossary), host (glossary),
 XML-RPC (glossary), Standalone Application Settings (glossary),
 socket (glossary), standalone application (glossary), function (glossary),
-LiveCode custom library (glossary), XML-RPC library (library),
+OpenXTalk custom library (glossary), XML-RPC library (library),
 revXMLRPC_CreateRequest (function), revXMLRPC_Execute (function)
 
 Tags: networking

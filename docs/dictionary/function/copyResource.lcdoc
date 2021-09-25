@@ -29,7 +29,7 @@ get copyResource(field "Source",currentFile,nextResource,200)
 Parameters:
 file:
 The name and location of the file containing the resource. If you
-specify a name but not a location, LiveCode assumes the file is in the
+specify a name but not a location, OpenXTalk assumes the file is in the
 defaultFolder. 
 
 destinationFile:
@@ -72,8 +72,8 @@ resource ID of the original <resource> in the <file>; it only affects
 the copy in the <destinationFile>.
 
 Changes:
-The <copyResource> function was deprecated in LiveCode 8.1, since the
-versions of MacOS supported by LiveCode no longer support resource
+The <copyResource> function was deprecated in OpenXTalk 8.1, since the
+versions of MacOS supported by OpenXTalk no longer support resource
 forks.  It should not be used in any new code.
 
 References: copy (command), function (control structure),

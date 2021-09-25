@@ -32,7 +32,7 @@ to close.
 
 The <closeStackRequest> message is only sent if the request to close a
 stack is initiated by the user (eg by clicking file -&gt; close in the
-LiveCode menu). If the request is initiated from a script (eg
+OpenXTalk menu). If the request is initiated from a script (eg
 "close this stack" ) then the <closeStackRequest> message is not sent.
 
 References: close (command), pass (control structure), object (glossary),

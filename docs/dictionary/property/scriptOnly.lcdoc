@@ -35,12 +35,12 @@ if the scriptOnly of stack theStack then
   set the password of stack theStack to uuid()
   put the filename of stack theStack into theFilename
   set the itemDelimiter to "."
-  put "livecode" into the last item of theFilename
+  put "OpenXTalk" into the last item of theFilename
   set the filename of stack theStack to theFilename
   save stack theStack
   set the password of stack theStack to empty
   set the scriptOnly of stack theStack to true
-  put "livecodescript" into the last item of theFilename
+  put "OpenXTalkscript" into the last item of theFilename
 end if
 
 Parameters:

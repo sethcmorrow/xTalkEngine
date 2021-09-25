@@ -31,7 +31,7 @@ The second <item> is the height of the group in pixels.
 If you change the <backSize> of a group, the position of its top left
 corner remains unchanged.
 
-This property is included in LiveCode for compatibility with imported
+This property is included in OpenXTalk for compatibility with imported
 SuperCard projects.
 
 References: group (command), property (glossary), background (glossary),

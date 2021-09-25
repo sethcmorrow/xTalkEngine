@@ -28,7 +28,7 @@ Use the <pixmapID> <property> to pass to an <external> that needs to
 manipulate the window.
 
 >*Important:*  The pixmapID property is not supported in version 2.7 of
-> LiveCode and always returns 0.
+> OpenXTalk and always returns 0.
 
 The pixmap ID is provided by the operating system.
 

@@ -39,7 +39,7 @@ Use <revXMLRPC_DeleteParam> to delete a single parameter from an XML-RPC
 documents structure.
 
 References: revXMLRPC_DeleteAllDocuments (command), result (function),
-LiveCode custom library (glossary),
+OpenXTalk custom library (glossary),
 Standalone Application Settings (glossary),
 standalone application (glossary), command (glossary), XML-RPC (glossary),
 XML-RPC document (glossary), XML-RPC library (library),

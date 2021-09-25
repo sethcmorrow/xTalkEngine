@@ -40,7 +40,7 @@ specific <command> for information about whether it sets the <result>
 
 If a command fails because of an operating-system error (such as a file 
 not being available), the <sysError> <function> returns the error 
-message that the operating system reported to LiveCode. In this case, 
+message that the operating system reported to OpenXTalk. In this case, 
 you can use the <sysError> <function> to get additional information 
 about the error if the <result> is not empty.
 

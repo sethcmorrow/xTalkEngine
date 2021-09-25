@@ -214,7 +214,7 @@ uses a system-supplied audio session or not. This is a boolean value.
 - ~~"shouldAutoplay" (iOS Only): Determines whether the playback of
 network-based content begins automatically when there is enough buffered
 data to ensure uninterrupted playback. This is a boolean value.~~
-*Note*: removed in LiveCode 9.6
+*Note*: removed in OpenXTalk 9.6
 
 - "allowsAirPlay" (iOS Only): Determines whether a control should be
 presented to allow the user to choose AirPlay-enabled hardware for

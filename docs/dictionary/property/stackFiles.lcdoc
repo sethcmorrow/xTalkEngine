@@ -17,7 +17,7 @@ OS: mac, windows, linux, ios, android
 Platforms: desktop, server, mobile
 
 Example:
-set the stackFiles of this stack to "My Dialog,Custom Dialogs.livecode"
+set the stackFiles of this stack to "My Dialog,Custom Dialogs.OpenXTalk"
 
 Value:
 The <stackFiles> of a <stack> is a list of stack references, one per
@@ -36,16 +36,16 @@ By default, the stackFiles property of newly created stacks is set to
 empty. 
 
 When a handler or object refers to an object in a stack other than the
-current stack, LiveCode checks all stacks that are loaded into memory
+current stack, OpenXTalk checks all stacks that are loaded into memory
 (and their substacks) to find the referenced stack. If the stack cannot
-be found, LiveCode checks the current stack's <stackFiles> <property> to
+be found, OpenXTalk checks the current stack's <stackFiles> <property> to
 locate the <stack> being referenced, and <loaded into memory|loads it
 into memory> so that its <properties> and the <object|objects> in it can
 be used.
 
 For example, if your stack contains a statement like this, the stack
 "Customers" must either be loaded into memory, or be listed in the
-<stackFiles>, in order for LiveCode to know where it is:
+<stackFiles>, in order for OpenXTalk to know where it is:
 
     get the width of field "Text" of card "Data" of stack "Customers" 
 
@@ -55,7 +55,7 @@ In this example, if the "Customers" stack is not open and isn't in the
 <name>, including its <file path>:
 
     get the width of field "Text" of card "Data" of stack "Customers" \
-       of stack "/Volumes/Data/Business.livecode" 
+       of stack "/Volumes/Data/Business.OpenXTalk" 
 
 
 Using the <stackFiles> lets you simply specify the <stack|stack's> name,
@@ -64,13 +64,13 @@ instead of including its <file path> everywhere you refer to an
 
 The <stackFiles> of a <main stack> is inherited by its <substacks>: if
 a <handler> in a <substack> refers to a <stack> that's not
-<load|loaded>, LiveCode checks the <stackFiles> of both the <substack>
+<load|loaded>, OpenXTalk checks the <stackFiles> of both the <substack>
 and its <main stack>.
 
 >*Important:*  <relative file path|Relative file paths> in the
 > <stackFiles> start from the <folder> that the <stack> is in, rather
 > than starting from the <defaultFolder> as with other 
-> <relative file path|relative paths> in <LiveCode>.
+> <relative file path|relative paths> in <OpenXTalk>.
 
 Placing a stack in the <stackFiles> lets <handler|handlers> in your
 <stack> refer to <object|objects> in the referenced <stack>, but does
@@ -84,7 +84,7 @@ References: call (glossary), command (glossary),
 defaultFolder (property), file path (glossary), 
 filename of stack (property), folder (glossary), handler (glossary), 
 insert script (command), library (library), line (keyword), 
-LiveCode (glossary), load (glossary), loaded into memory (glossary), 
+OpenXTalk (glossary), load (glossary), loaded into memory (glossary), 
 long (keyword), main stack (glossary), mainStack (property), 
 mainStacks (function), name (property), object (glossary), 
 properties (property), property (glossary), 

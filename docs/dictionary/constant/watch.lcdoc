@@ -29,7 +29,7 @@ The following two statements are equivalent:
     set the cursor to 14
 
 
-However, the first is easier to read and understand in LiveCode.
+However, the first is easier to read and understand in OpenXTalk.
 
 >*Important:*  If you use the <watch> <cursor(property)> or other
 > standard <cursor(glossary)|cursors> in your application, you must

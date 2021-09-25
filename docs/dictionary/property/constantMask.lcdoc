@@ -44,7 +44,7 @@ necessary.
 > portion of a <frame> may unexpectedly send <message|messages> such as
 > <mouseUp> to the <image(keyword)>, instead of the <object(glossary)>
 > underneath the <image(keyword)>. This is because when deciding whether
-> the user has clicked a transparent <pixel>, LiveCode uses the
+> the user has clicked a transparent <pixel>, OpenXTalk uses the
 > <mask|masks> for all the <frame|frames>, rather than for the current
 > <frame>, if the <constantMask> is true.
 

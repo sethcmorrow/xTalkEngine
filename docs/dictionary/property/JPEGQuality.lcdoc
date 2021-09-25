@@ -6,7 +6,7 @@ Syntax: set the JPEGQuality to <qualityNumber>
 
 Summary:
 Specifies the quality level of <JPEG> <image|images> created by
-LiveCode. 
+OpenXTalk. 
 
 Introduced: 1.1
 

@@ -7,7 +7,7 @@ Type: object
 Syntax: stack
 
 Summary:
-The basic LiveCode <object(glossary)>: a window.
+The basic OpenXTalk <object(glossary)>: a window.
 
 Introduced: 1.0
 
@@ -25,7 +25,7 @@ Description:
 Use the <stack> <object type> to display a window, <palette>, or 
 <dialog box>.
 
-A stack corresponds to a single window. Each LiveCode file contains one 
+A stack corresponds to a single window. Each OpenXTalk file contains one 
 or more stacks. The first stack in a stack file is called the main 
 stack; any other stacks in the stack file are called substacks of the 
 main stack.

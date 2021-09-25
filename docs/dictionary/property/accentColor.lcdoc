@@ -42,7 +42,7 @@ This property is used only when the lookAndFeel <property> is set to
 "Appearance Manager" or "Motif", the <accentColor> has no effect.
 
 The <accentColor> <property> is copied from the system settings every
-time LiveCode starts up, but can be changed by a <handler>.
+time OpenXTalk starts up, but can be changed by a <handler>.
 
 References: hilite (command), property (glossary), highlight (glossary),
 menu item (glossary), handler (glossary), color reference (glossary),

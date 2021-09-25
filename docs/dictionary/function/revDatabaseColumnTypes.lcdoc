@@ -68,7 +68,7 @@ should not attempt to display it in a <field>.
 >*Important:*  The <revDatabaseColumnTypes> <function> is part of the 
 > <Database library>. To ensure that the <function> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure both the 
 > "Database" library checkbox and those of the database drivers you are 
@@ -79,7 +79,7 @@ The revDatabaseColumnTypes synonym was added in version 2.0.
 
 References: function (control structure),
 revDatabaseColumnNames (function), revDatabaseColumnLengths (function),
-revDatabaseType (function), LiveCode custom library (glossary),
+revDatabaseType (function), OpenXTalk custom library (glossary),
 return (glossary), binary file (glossary),
 record set (glossary),
 Standalone Application Settings (glossary),

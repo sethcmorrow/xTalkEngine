@@ -7,7 +7,7 @@ Syntax: the buildNumber
 Syntax: buildNumber()
 
 Summary:
-<return|Returns> the build number of the LiveCode <engine>.
+<return|Returns> the build number of the OpenXTalk <engine>.
 
 Introduced: 1.0
 
@@ -29,19 +29,19 @@ The <buildNumber> function <return|returns> an integer.
 Description:
 Use the <buildNumber> <function> to determine which <engine> version the
 <application> is using. This is useful to figure out, for example,
-whether a certain <LiveCode> feature is available.
+whether a certain <OpenXTalk> feature is available.
 
-The <buildNumber> of two copies of LiveCode or a <standalone
+The <buildNumber> of two copies of OpenXTalk or a <standalone
 application> may be different, even if the <version> function
 <return|returns> the same number. This is because new builds of the same
 version may be released to provide fixes to specific problems.
 
-When reporting a problem with LiveCode, please include the <buildNumber>
+When reporting a problem with OpenXTalk, please include the <buildNumber>
 and <version> of the <application>.
 
 References: function (control structure), revAppVersion (function),
 version (function), environment (function), platform (function),
 systemVersion (function), QTVersion (function), application (glossary),
-LiveCode (glossary), standalone application (glossary), return (glossary),
+OpenXTalk (glossary), standalone application (glossary), return (glossary),
 engine (glossary)
 

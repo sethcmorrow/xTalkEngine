@@ -30,7 +30,7 @@ reading from it prevents the engine's automatic processing of such
 information. 
 
 When you use the <read from file> <command> with the <stdin> <keyword>,
-LiveCode reads data from the <standard input>.
+OpenXTalk reads data from the <standard input>.
 
 Support for using <stdin> on Server was added in version 4.6.3.
 

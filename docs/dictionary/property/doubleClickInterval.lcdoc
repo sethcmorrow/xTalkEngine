@@ -38,7 +38,7 @@ and second click, no <mouseDoubleDown> or <mouseDoubleUp> <message> is
 sent to the clicked <object(glossary)>.
 
 On Mac OS systems, the <doubleClickInterval> is set to the current
-setting (in the Mouse control panel) when LiveCode starts up. Normally,
+setting (in the Mouse control panel) when OpenXTalk starts up. Normally,
 you should not change the <doubleClickInterval> setting, since doing so
 may discombobulate the user.
 

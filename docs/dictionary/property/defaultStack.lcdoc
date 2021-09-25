@@ -28,7 +28,7 @@ Use the <defaultStack> <property> to ensure that actions are performed
 on the correct <stack>.
 
 If no stack is specified in a statement that applies to a stack,
-LiveCode assumes the <defaultStack> is the <stack> meant. For example,
+OpenXTalk assumes the <defaultStack> is the <stack> meant. For example,
 the following <statement> causes the <defaultStack> to move to its next
 <card> :
 
@@ -55,7 +55,7 @@ but the following statements are correct:
 The <defaultStack> <property> is particularly useful in <stacks> opened
 in a mode other than an <editable window> (such as <stacks> that are
 being used as <dialog box|dialog boxes>, <palette|palettes>, or
-<menus>). LiveCode's <message box> and editing <palette|palettes> set
+<menus>). OpenXTalk's <message box> and editing <palette|palettes> set
 the <defaultStack> <property> to the <value> <return|returned> by the
 <topStack> <function> before performing a stack action.
 

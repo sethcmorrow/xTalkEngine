@@ -29,11 +29,11 @@ Value:
 The <backgroundPattern> of an <object(glossary)> is a pattern specifier.
 A <patternNumber> is a built-in pattern number between 1 and 164. These
 patterns are provided for compatability with patterns available in
-MetaCard and correspond to LiveCode's built in image id 137 to 300. As
+MetaCard and correspond to OpenXTalk's built in image id 137 to 300. As
 with MetaCard pattern numbers 105 to 114 and 146 and above are 
 unavailable.
 
-An <imageID> is the ID of an <image> to use for a pattern. LiveCode
+An <imageID> is the ID of an <image> to use for a pattern. OpenXTalk
 looks for the specified <image> first in the <current stack>, then in
 other open <stacks>.
 
@@ -48,7 +48,7 @@ Pattern images can be color or black-and-white.
 
 >*Cross-platform note:*  To be used as a pattern on <Mac OS|Mac OS systems>,
 > an <image> must be 128x128 <pixels> or less, and both its
-> <height> and <width> must be a power of 2, however, in LiveCode
+> <height> and <width> must be a power of 2, however, in OpenXTalk
 > version 2.7, this restriction was partially lifted and the engine will
 > tile rectangular regions correctly with arbitrarily sized background
 > patterns.To be used on <Windows> and <Unix|Unix systems>, <height> and
@@ -97,7 +97,7 @@ depending on the <object type>:
 > "Appearance Manager", standard and rectangle <button(object)|buttons>
 > are drawn by the operating system if the <backgroundColor> and
 > <backgroundPattern> of the <button(keyword)> is empty. Otherwise, the
-> <button(keyword)> is drawn by LiveCode. If the <lookAndFeel> is
+> <button(keyword)> is drawn by OpenXTalk. If the <lookAndFeel> is
 > "Appearance Manager", <button menu|button menus> whose <menuMode> is
 > set to "option" or "comboBox" are always drawn by the operating
 > system, and the setting of the <backgroundPattern> does not affect

@@ -31,17 +31,17 @@ drag-and-drop clipboard. It should only be accessed during drag-and-drop
 operations. The keys for the <fullDragData> are:
 
   - "text": plain text
-  - "rtftext": LiveCode rich text format data
-  - "htmltext": LiveCode HTML text
-  - "styledtext": array of LiveCode styled text
+  - "rtftext": OpenXTalk rich text format data
+  - "htmltext": OpenXTalk HTML text
+  - "styledtext": array of OpenXTalk styled text
   - "image": any of PNG, GIF or JPEG image
   - "png": PNG image
   - "gif": GIF image
   - "jpeg": JPEG image
   - "rtf": Rich Text Format data
   - "html": HTML
-  - "styles": LiveCode styled text data
-  - "objects": LiveCode objects
+  - "styles": OpenXTalk styled text data
+  - "objects": OpenXTalk objects
   - "files": List of newline-separated file paths
   - "private": available for in-app use
 
@@ -58,7 +58,7 @@ to. If you want to do this explicitly, use ``set the fullDragData to
 empty``. 
 
 The ``text``, ``rtftext``, ``htmltext``, ``styles`` and ``styledtext``
-properties are handled specially by LiveCode: adding any one of them
+properties are handled specially by OpenXTalk: adding any one of them
 will cause the rest to be automatically generated and added.
 
 If you require lower-level access to the drag-and-drop clipboard, see

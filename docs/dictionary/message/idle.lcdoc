@@ -47,7 +47,7 @@ only needs to handle a single message every sixty seconds:
         send "updateClock" to me in 60 seconds
     end updateClock
 
-Executing an <idle> <handler> slows down other LiveCode actions, so
+Executing an <idle> <handler> slows down other OpenXTalk actions, so
 <handle> the <idle> <message> only in the rare cases where the <send>
 <command> cannot be used instead.
 

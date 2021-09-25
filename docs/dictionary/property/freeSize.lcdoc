@@ -5,7 +5,7 @@ Type: property
 Syntax: get the freeSize of <stack>
 
 Summary:
-Always reports zero and is included in <LiveCode> for compatibility with
+Always reports zero and is included in <OpenXTalk> for compatibility with
 imported <HyperCard> <stacks>.
 
 Associations: stack
@@ -18,9 +18,9 @@ Platforms: desktop, server, mobile
 
 Description:
 In HyperCard, the <freeSize> <property> reports the amount of wasted
-space in a <stack>. In LiveCode, this <property> always reports zero.
+space in a <stack>. In OpenXTalk, this <property> always reports zero.
 
 References: stacks (function), diskSpace (function), hasMemory (function),
-property (glossary), LiveCode (glossary), HyperCard (glossary),
+property (glossary), OpenXTalk (glossary), HyperCard (glossary),
 stack (object)
 

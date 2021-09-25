@@ -45,7 +45,7 @@ function <return|returns> the result of the <evaluate|evaluation>:.
 
 Description:
 Use the <value> <function> to <evaluate> an <expression>, or to force
-LiveCode to <evaluate> an <expression> within a <statement>.
+OpenXTalk to <evaluate> an <expression> within a <statement>.
 
     ask "What do you want to compute?"
     answer it && "equals" && the value of it
@@ -59,7 +59,7 @@ example, "button 3" refers to button 3 on the <current card>, not the
 <card> where the <object(glossary)> is located.
 
 If the <expression> is a single <string>, then even if it is enclosed in
-quotes, LiveCode attempts to <evaluate> its contents instead of treating
+quotes, OpenXTalk attempts to <evaluate> its contents instead of treating
 it as a <literal string|string literal>. This means that you must be
 careful about <literal string|string literals> that contain
 <operator|operators> such as "and".

@@ -23,13 +23,13 @@ Example:
 if the width of this stack &gt; 100 then revUpdateGeometry
 
 Description:
-The LiveCode development environment automatically executes the
+The OpenXTalk development environment automatically executes the
 <revUpdateGeometry> <command> when a <resizeStack> <message> is sent.
 Use the <revUpdateGeometry> <command> if your stack <handle|handles> the
 <resizeStack> <message> without passing it.
 
 Normally, you do not need to use the <revUpdateGeometry> <command> at
-all, since LiveCode automatically updates geometry when a <stack> is
+all, since OpenXTalk automatically updates geometry when a <stack> is
 resized. Use it only if both the following conditions are true:
 
 1. Your stack uses the Geometry pane of the property inspector to
@@ -48,13 +48,13 @@ Geometry tasks.
 >*Important:*  The <revCacheGeometry> <command> is part of the 
 > <Geometry library>. To ensure that the <command> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the "Geometry" 
 > library checkbox is checked.
 
 References: revCacheGeometry (command), lock messages (command),
-object (glossary), LiveCode custom library (glossary),
+object (glossary), OpenXTalk custom library (glossary),
 main stack (glossary), handler (glossary), handle (glossary),
 message (glossary), group (glossary), standalone application (glossary),
 Standalone Application Settings (glossary), command (glossary),

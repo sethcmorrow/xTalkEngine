@@ -30,7 +30,7 @@ The <openStacks> <function> <return|returns> a list with the short
 Description:
 Use the <openStacks> <function> to determine which <stacks> are open.
 
-The list includes stacks that are part of the LiveCode development
+The list includes stacks that are part of the OpenXTalk development
 environment (such as the message box and menu bar).
 
 The list also includes open stacks that cannot be seen because their

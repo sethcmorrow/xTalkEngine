@@ -37,7 +37,7 @@ Description:
 Use the <revMailUnicode> command to create an email message from within
 a stack.
 
-When LiveCode executes the <revMailUnicode> command, the user's email
+When OpenXTalk executes the <revMailUnicode> command, the user's email
 program is opened (if necessary) and a new email message with the
 specified parameters is created. The user can change any of the settings
 before sending the message, and the message is not sent automatically:

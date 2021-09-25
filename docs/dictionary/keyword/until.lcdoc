@@ -21,13 +21,13 @@ Description:
 Use the <until> <keyword> to repeat a sequence of <statement|statements>
 until a condition becomes true.
 
-LiveCode evaluates the condition each time the loop repeats, at the top
+OpenXTalk evaluates the condition each time the loop repeats, at the top
 of the loop (before the statements in the <repeat> <control
 structure|structure> are <execute|executed>). If the condition is true,
 the <loop> is skipped and <execute|execution> resumes with the
 <statement> after the <end repeat> statement.
 
-If the condition is already true when LiveCode reaches the <repeat>
+If the condition is already true when OpenXTalk reaches the <repeat>
 <statement>, the <loop> is not <execute|executed> at all.
 
 References: repeat (control structure), keyword (glossary),

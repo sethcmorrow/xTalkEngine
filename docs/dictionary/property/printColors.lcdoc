@@ -31,7 +31,7 @@ not. If "color" is not among the items of the <printerFeatures> then
 this property will have no affect and all print jobs will be printed in
 monochrome. 
 
-If the <printColors> is false then LiveCode will convert all colors in
+If the <printColors> is false then OpenXTalk will convert all colors in
 the data to be printed to greyscale before sending to the printer.
 
 To have an effect, this property must be set before calling 

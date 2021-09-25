@@ -24,10 +24,10 @@ local savedName
 if the effective filename of this stack is savedName then beep
 
 Example:
-set the filename of this stack to "Test.livecode"
+set the filename of this stack to "Test.OpenXTalk"
 
 Example:
-set the filename of this stack to "/Volumes/Lizards/Godzilla.livecode"
+set the filename of this stack to "/Volumes/Lizards/Godzilla.OpenXTalk"
 
 Example:
 # set the defaultFolder to the folder containing the stackfile
@@ -39,7 +39,7 @@ set the defaultFolder to item 1 to -2 of it
 Value:
 The <filename of stack> of a <stack> specifies the <file path|name and
 location> of the <stack file>. If you specify a name but not a location,
-LiveCode assumes the <file> is in the <defaultFolder>. By default, the
+OpenXTalk assumes the <file> is in the <defaultFolder>. By default, the
 <filename of stack> <property> of newly created <stacks> is set to
 <empty>. 
 

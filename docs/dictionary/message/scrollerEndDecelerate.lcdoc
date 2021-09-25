@@ -22,7 +22,7 @@ Description:
 The <scrollerEndDecelerate> message is sent when a UIScrollView scroller
 control has finished decelerating.
 
-Handle the <scrollerEndDecelerate> message if you want to move LiveCode
+Handle the <scrollerEndDecelerate> message if you want to move OpenXTalk
 controls, make changes to the interface or set the appropriate scroll
 properties of groups and fields to get a native scrolling effect.
 

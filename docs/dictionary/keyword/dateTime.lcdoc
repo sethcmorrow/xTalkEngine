@@ -24,11 +24,11 @@ of a <container> that is a date or time.
 Alphabetical sorting does not take the special format of dates and times
 into account. For example, a normal sort places 11:30 AM after 2:00 AM,
 because 2 is greater than 1. The <dateTime> <keyword> recognizes all
-<LiveCode|LiveCode's> date and time <format|formats> and <sort|sorts>
+<OpenXTalk|OpenXTalk's> date and time <format|formats> and <sort|sorts>
 them in time order, rather than alphabetical or numeric order.
 
 References: sort (command), sort container (command), keyword (glossary),
-LiveCode (glossary), command (glossary), container (glossary),
+OpenXTalk (glossary), command (glossary), container (glossary),
 format (glossary), sort (glossary), field (keyword), text (keyword)
 
 Tags: math

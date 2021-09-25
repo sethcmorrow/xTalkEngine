@@ -22,13 +22,13 @@ revMoveFolder "My App Prefs",specialFolderPath("Preferences")
 Parameters:
 folderToMove:
 The folderToMove specifies the name and location of the folder. If you
-specify a name but not a location, LiveCode assumes the folder is in the
+specify a name but not a location, OpenXTalk assumes the folder is in the
 defaultFolder. 
 
 destinationFolder:
 The destinationFolder specifies the name and location of the folder
 where the folder should be placed. If you specify a name but not a
-location, LiveCode assumes the destination folder is in the
+location, OpenXTalk assumes the destination folder is in the
 defaultFolder. 
 
 The result:

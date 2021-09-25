@@ -56,7 +56,7 @@ Fetching data will retrieve the last record.
 >*Important:*  The <revCurrentRecord> <command> is part of the 
 > <Database library>. To ensure that the <command> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure both the 
 > "Database" library checkbox and those of the database drivers you are 
@@ -69,7 +69,7 @@ References: revMoveToNextRecord (command), function (control structure),
 revQueryIsAtStart (function), revdb_movefirst (function),
 revdb_moveprev (function), revdb_movelast (function),
 revDatabaseColumnNumbered (function), revdb_movenext (function),
-LiveCode custom library (glossary),
+OpenXTalk custom library (glossary),
 Standalone Application Settings (glossary), record (glossary),
 standalone application (glossary),
 record set (glossary), return (glossary),

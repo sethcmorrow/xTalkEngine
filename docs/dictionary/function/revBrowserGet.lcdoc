@@ -81,8 +81,8 @@ The name of the property to retrieve, see below for a full list.
 -   "version": The version of the browser external. If propertyName is
     set to "version" then the instanceId is ignored. This property is
     deprecated and is only available when using the XBrowser_Get
-    synonym. The browser external is now part of LiveCode and its
-    version is the same as LiveCode's version.
+    synonym. The browser external is now part of OpenXTalk and its
+    version is the same as OpenXTalk's version.
 -   "htmlimage": The image data of what is being displayed in the
     browser. This property is deprecated and is only available when
     using the XBrowser_Get synonym. To get a snapshot from the browser

@@ -29,7 +29,7 @@ Use the <mobileGetDeviceToken> function to return the Device Token that
 is used by the Push Notification Server to identify to which device to
 send a notification.
 
-LiveCode registers for push notifications with the operating system when
+OpenXTalk registers for push notifications with the operating system when
 your application starts. The operating system sends a callback message
 <pushNotificationRegistered> to your application once registration is
 complete. 

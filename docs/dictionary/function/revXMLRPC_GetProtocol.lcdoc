@@ -44,7 +44,7 @@ If the <revXMLRPC_GetProtocol> <function> encounters an error, it
 References: revXMLRPC_SetProtocol (command), function (control structure),
 Standalone Application Settings (glossary), host (glossary),
 standalone application (glossary), return (glossary), function (glossary),
-XML-RPC (glossary), LiveCode custom library (glossary),
+XML-RPC (glossary), OpenXTalk custom library (glossary),
 https (keyword), http (keyword), XML-RPC library (library),
 revXMLRPC_CreateRequest (function), revXMLRPC_Execute (function)
 

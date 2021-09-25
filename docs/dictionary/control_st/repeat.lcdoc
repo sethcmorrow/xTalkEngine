@@ -65,7 +65,7 @@ end repeat
 
 Parameters:
 statementList:
-One or more LiveCode statements, and can also include `if`, `switch`,
+One or more OpenXTalk statements, and can also include `if`, `switch`,
 `try`, or `repeat` <control structure|control structures>.
 
 condition (bool):
@@ -149,7 +149,7 @@ If no <loopForm> is specified, the `forever` form is used.
 #####<until|Until> and <while>
 The `until` <conditional|condition> and `while` <conditional|condition>
 forms repeat the <statementList> as long as the <conditional|condition>
-is false or as long as it is true, respectively. LiveCode re-evaluates
+is false or as long as it is true, respectively. OpenXTalk re-evaluates
 the <conditional|condition> before each <iteration>.
 
 Use the `until `*`condition`* or `while `*`condition`* form if you want

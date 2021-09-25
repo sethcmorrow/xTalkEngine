@@ -31,7 +31,7 @@ The <colorMap> <property> contains the number of lines <return|returned>
 by the <screenColors> <function>.
 
 Description:
-Use the <colorMap> <property> to specify what colors LiveCode uses to
+Use the <colorMap> <property> to specify what colors OpenXTalk uses to
 draw its windows when the <bit depth> of the screen is 8 <bit|bits> or
 less. 
 

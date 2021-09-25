@@ -14,7 +14,7 @@ OS: mac, windows, linux
 Platforms: desktop, server
 
 Description:
-The <scriptTextFont> property is present in LiveCode for compatibility
+The <scriptTextFont> property is present in OpenXTalk for compatibility
 with scripts imported from HyperCard and should not be used in new code.
 It will be removed entirely in a future release.
 

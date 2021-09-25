@@ -50,7 +50,7 @@ client is configured.
 
 >*Note:* On Android, the text messaging application can be a user
 > preferred application that allows multiple text massages to be sent.
-> LiveCode only receives cancel. The success of text deliveries is not
+> OpenXTalk only receives cancel. The success of text deliveries is not
 > returned in these cases.
 
 References: mobileCanComposeTextMessage (function)

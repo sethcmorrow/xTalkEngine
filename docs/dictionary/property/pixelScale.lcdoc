@@ -36,9 +36,9 @@ intention of higher density is not to provide the developer with more
 screen real estate to work with, but rather to make text and other
 assets appear crisper.
 
-LiveCode reports the <screenRect> of both iPad and iPad retina in
+OpenXTalk reports the <screenRect> of both iPad and iPad retina in
 logical pixels (1024x768). When your app runs on the iPad Retina,
-LiveCode renders text, graphics and image assets according to the
+OpenXTalk renders text, graphics and image assets according to the
 pixelScale. 
 
 The <pixelScale> property enables you to change the standard behavior

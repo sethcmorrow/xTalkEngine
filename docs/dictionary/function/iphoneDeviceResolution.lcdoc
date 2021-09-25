@@ -30,7 +30,7 @@ device's screen in pixels.
 The new iPhone 4 has a display with double the resolution in both
 horizontal and vertical directions. By default, iOS handles this by
 mapping one logical 'point' to two physical 'pixels' with applications
-(LiveCode included) interpreting everything in terms of logical points.
+(OpenXTalk included) interpreting everything in terms of logical points.
 This means that apps targetted for older devices will run identically on
 the newer iPhone 4 devices.
 

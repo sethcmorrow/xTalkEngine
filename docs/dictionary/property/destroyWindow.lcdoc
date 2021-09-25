@@ -34,7 +34,7 @@ If a stack's <destroyWindow> <property> is set to true, closing the
 External commands and external functions are removed from memory only
 when the stack controlling them is removed from memory. When you install
 a new external, or replace it with a new version while debugging,
-LiveCode cannot use it until you either quit LiveCode and then reopen
+OpenXTalk cannot use it until you either quit OpenXTalk and then reopen
 the stack, or close the stack (after setting its <destroyWindow> to
 true) and then reopen it.
 

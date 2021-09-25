@@ -94,7 +94,7 @@ the color specified by <backgroundColor>. The setting of the
 > <backgroundPattern> of the <button(keyword)> is empty. (In this case,
 > none of the <button(object)|button's> color <property|properties> have
 > an effect except for the <foregroundColor> or <foregroundPattern>.)
-> Otherwise, the <button(keyword)> is drawn by LiveCode. If the
+> Otherwise, the <button(keyword)> is drawn by OpenXTalk. If the
 > <lookAndFeel> is "Appearance Manager", <button menu|button menus>
 > whose <menuMode> is set to "option" or "comboBox" are always drawn by
 > the operating system, and the setting of the <backgroundColor> does

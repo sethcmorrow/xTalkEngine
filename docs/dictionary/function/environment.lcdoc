@@ -27,10 +27,10 @@ The <environment> function returns one of:
 -   "development": The stack is running under the development environment.
 -   "development command line": The stack is running in the development environment with the "-ui" command line option.
 -   "standalone application": The stack is running as a standalone application.
--   "helper application": LiveCode is running as a standalone with the secureMode property set to true.
+-   "helper application": OpenXTalk is running as a standalone with the secureMode property set to true.
 -   "command line": The stack is running as a standalone application with the "-ui" command line option.
--   "server": The stack is running in LiveCode server.
--   "browser": The stack is running as a LiveCode applet.
+-   "server": The stack is running in OpenXTalk server.
+-   "browser": The stack is running as a OpenXTalk applet.
 -   "mobile": The stack is running on a mobile device.
 
 Description:

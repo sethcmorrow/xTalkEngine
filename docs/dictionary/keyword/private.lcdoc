@@ -37,7 +37,7 @@ to the object whose script it is in and stop it being directly called
 by any other objects.
 
 Whenever an implicit handler call is made (ie calling the handler
-simply by its name as opposed to using send or call), LiveCode will
+simply by its name as opposed to using send or call), OpenXTalk will
 check the current script for a private handler before allowing the call
 to pass through the message path. If a private handler is found in the
 current script, it will be directly called.

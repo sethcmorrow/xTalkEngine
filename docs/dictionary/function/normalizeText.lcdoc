@@ -55,7 +55,7 @@ generally useful otherwise.
 > nonetheless completely different characters (a prime example of this is
 > M and U+2164 ROMAN NUMERAL ONE THOUSAND).
 
-Unless the <formSensitive> <property> is set to true, LiveCode ignores
+Unless the <formSensitive> <property> is set to true, OpenXTalk ignores
 text normalization when performing comparisons.
 
 References: textDecode (function), textEncode (function),

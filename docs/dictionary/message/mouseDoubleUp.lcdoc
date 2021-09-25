@@ -44,7 +44,7 @@ If a tool other than the <Browse tool> is being used, no <mouseDoubleUp>
 <mouse button> 1 or 2, no <mouseDoubleUp> <message> is sent.
 
 The <doubleClickInterval> and <doubleClickDelta> <properties> determine
-what LiveCode accepts as a <double-click|double click>.
+what OpenXTalk accepts as a <double-click|double click>.
 
 >*Note:*  If the user clicks a transparent <pixel> in an <image>,
 > the <mouseDoubleUp> <message> is sent to the <object(glossary)> behind

@@ -30,10 +30,10 @@ located on the user's system. The <file> is specified by either a
 
 A URL container can be used anywhere another container type is used.
 
-When you put data into a <binfile> <URL> or get data from it, LiveCode
+When you put data into a <binfile> <URL> or get data from it, OpenXTalk
 does not translate <end-of-line marker|end-of-line markers> (<ASCII> 10
 and <ASCII> 13) between the current <platform|platform's> standard and
-LiveCode's internal standard of a linefeed. This ensures that 
+OpenXTalk's internal standard of a linefeed. This ensures that 
 <binary file|binary data>, which may contain such characters, is not
 accidentally corrupted.
 

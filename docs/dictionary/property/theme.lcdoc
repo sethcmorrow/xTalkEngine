@@ -26,7 +26,7 @@ or control. It can be set on any object, including cards, stacks and
 controls. The currently supported values are "native" and "legacy". For
 an appearance that matches native apps for the platform an app is
 running on, use "native". The "legacy" setting preserves the appearance
-of older versions of LiveCode and is provided for
+of older versions of OpenXTalk and is provided for
 backwards-compatibility. 
 
 References: themeClass (property)

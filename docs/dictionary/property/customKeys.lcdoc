@@ -54,7 +54,7 @@ If you set the <customKeys> of an <object(glossary)>, and the
 <propertiesList> contains a <custom property> that the
 <object(glossary)> doesn't have, a <custom property> with that name is
 created. (A property name can be up to 255 characters long. The number
-of property names is limited only by LiveCode's total memory space.) The
+of property names is limited only by OpenXTalk's total memory space.) The
 value of a newly-created custom property is empty.
 
 If you set the <customKeys> of an <object(glossary)> and do not include

@@ -34,7 +34,7 @@ An item is a string of characters delimited by a single comma (or a
 single one of the <itemDelimiter> <character>). A single <item> can
 contain multiple <characters>, multiple <words>, and multiple <lines>.
 
->*Note:* In LiveCode, if the last character of a string is the
+>*Note:* In OpenXTalk, if the last character of a string is the
 > itemDelimiter, then this character is ignored by the <item> keyword.
 > For example the last item of the string "1,2,3," is "3" (assuming
 > comma is the itemDelimiter)

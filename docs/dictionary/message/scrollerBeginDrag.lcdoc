@@ -23,7 +23,7 @@ The <scrollerBeginDrag> message is sent when scrolling is initiated by
 dragging on a scroller control created using the <mobileControlCreate>
 command. 
 
-Handle the <scrollerBeginDrag> message if you want to move LiveCode
+Handle the <scrollerBeginDrag> message if you want to move OpenXTalk
 controls, make changes to the interface or set the appropriate scroll
 properties of groups and fields to get a native scrolling effect.
 

@@ -31,7 +31,7 @@ The <substacks> of a <stack> is a list of <stacks>, one per <line>.
 Description:
 Use the <substacks> <property> to organize <stacks> in <files>.
 
-Each LiveCode file contains either a single main stack, or a main stack
+Each OpenXTalk file contains either a single main stack, or a main stack
 and one or more substacks. The <substacks> <property> reports on the
 <substacks> of a <main stack>.
 

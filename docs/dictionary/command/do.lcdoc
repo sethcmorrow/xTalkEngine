@@ -25,11 +25,11 @@ do "select" && line 3 of field "Objects"
 
 Parameters:
 statementList:
-A LiveCode statement, a container with one or more statements, or a
+A OpenXTalk statement, a container with one or more statements, or a
 string that evaluates to a statement.
 
 The result:
-The <result> is affected by the LiveCode commands and functions in the 
+The <result> is affected by the OpenXTalk commands and functions in the 
 script in the normal way.
 
 Description:
@@ -49,7 +49,7 @@ To see how to create a numbered set of variables see the dictionary
 entry for the <local> <command>.
 
 You can use the <do as alternateLanguage> variant of the <do> command
-to evaluate a <statementList> written in a non-LiveCode programming
+to evaluate a <statementList> written in a non-OpenXTalk programming
 language.
 
 References: debugDo (command), breakpoint (command), local (command),

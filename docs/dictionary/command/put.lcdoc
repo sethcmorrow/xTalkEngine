@@ -84,7 +84,7 @@ the <value> before or after the current contents of the <container>. If
 you do not specify a <container>, the <put> <command> puts the value
 into the <message box>.
 
-If you put a <value> into a nonexistent <container>, LiveCode assumes it
+If you put a <value> into a nonexistent <container>, OpenXTalk assumes it
 is a <variable> name, and initializes the <container> as a 
 <local variable>. This is the most common way to create a local 
 <variable>.  You can also explicitly <declare> 
@@ -128,7 +128,7 @@ URL:
 Then you can use the <put> <command> with a <resfile> <URL> type to
 create the <resource fork>.
 
->*Important:* The syntax for file URLs with LiveCode's <URL(keyword)>
+>*Important:* The syntax for file URLs with OpenXTalk's <URL(keyword)>
 >does not conform to [RFC 1738](https://tools.ietf.org/html/rfc1738).
 >To ensure proper operation on all platforms make sure you use
 >`file:path` rather than `file://path`.
@@ -140,7 +140,7 @@ create the <resource fork>.
 
 
 >*Note:* <upload|Uploading> a <URL> by putting a <value> into it is a
-> <blocking> operation: that is, the <handler> pauses until LiveCode is
+> <blocking> operation: that is, the <handler> pauses until OpenXTalk is
 > finished <upload|Uploading> the <value>. Since contacting a <server>
 > may take some time due to network lag, <URL> operations may take long
 > enough to be noticeable to the user. To <upload> without <blocking>,

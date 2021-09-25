@@ -38,7 +38,7 @@ it or writing to it.
 
 The list of file paths is in the same order that the files were opened.
 
-Open files that were not opened by LiveCode are not included in the list
+Open files that were not opened by OpenXTalk are not included in the list
 returned by the <openFiles> <function>.
 
 References: close file (command), open file (command),

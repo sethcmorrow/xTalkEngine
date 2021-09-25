@@ -11,7 +11,7 @@ Configures the type of return key displayed on the keyboard.
 
 Introduced: 4.5.3
 
-Changes: LiveCode 9.5 added support for android
+Changes: OpenXTalk 9.5 added support for android
 
 OS: ios, android
 

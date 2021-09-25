@@ -33,16 +33,16 @@ Any object reference.
 
 filePath:
 The filePath specifies the name and location of a file you want to
-check. If you specify a name but not a location, LiveCode looks for the
+check. If you specify a name but not a location, OpenXTalk looks for the
 file in the defaultFolder.
 
 folderPath:
 The folderPath specifies the name and location of a folder you want to
-check. If you specify a name but not a location, LiveCode looks for the
+check. If you specify a name but not a location, OpenXTalk looks for the
 folder in the defaultFolder.
 
 procName:
-The name of any process that LiveCode started.
+The name of any process that OpenXTalk started.
 
 Description:
 Use the <there is no> <operator> to make sure an <object(glossary)> or

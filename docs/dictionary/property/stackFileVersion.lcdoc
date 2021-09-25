@@ -26,7 +26,7 @@ the <stack version> directly, as an optional parameter of the <save>
 <command>. 
 
 Use the <stackFileVersion> to obtain or change the default stack file
-format version LiveCode uses when saving stacks.
+format version OpenXTalk uses when saving stacks.
 
 Setting the <stackFileVersion> to something less than the newest 
 <stack version> could result in data being lost when stacks are saved. For
@@ -38,15 +38,15 @@ if your stack will lose data when <save|saved> with a particular
 <stackFileVersion>.
 
 Remember to set the <stackFileVersion> back to its previous value after
-changing it, otherwise LiveCode may save your stacks in unexpected
+changing it, otherwise OpenXTalk may save your stacks in unexpected
 formats. 
 
 There is no need to use the <stackFileVersion> when saving a stack using
-the IDE. Instead, open the stack in the current version of LiveCode and
+the IDE. Instead, open the stack in the current version of OpenXTalk and
 select "Save As" from the "File" menu, then choose
-"Legacy LiveCode Stack" from the drop down box for the file type. If you
+"Legacy OpenXTalk Stack" from the drop down box for the file type. If you
 do not wish to do this every time, there is a setting in the
-"Files  Memory" section of the preferences that causes LiveCode to
+"Files  Memory" section of the preferences that causes OpenXTalk to
 preserve the stack file version of legacy stacks.
 
 Changes:

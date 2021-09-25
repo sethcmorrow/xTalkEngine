@@ -25,13 +25,13 @@ revCopyFile the sourceFile of this card, it
 Parameters:
 fileToCopy:
 The fileToCopy specifies the name and location of the file. If you
-specify a name but not a location, LiveCode assumes the file is in the
+specify a name but not a location, OpenXTalk assumes the file is in the
 defaultFolder. 
 
 folderToCopyTo:
 The folderToCopyTo specifies the name and location of the folder where
 the copied file should be placed. If you specify a name but not a
-location, LiveCode assumes the destination folder is in the
+location, OpenXTalk assumes the destination folder is in the
 defaultFolder. 
 
 The result:

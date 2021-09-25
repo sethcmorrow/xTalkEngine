@@ -37,14 +37,14 @@ There is no special significance to the version number returned by
 >*Important:* The <libURLVersion> <function> is part of the 
 > <Internet library>. To ensure that the <function> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the "Internet" 
 > script library is selected.
 
 References: function (control structure), version (function),
 revAppVersion (function), systemVersion (function),
-LiveCode custom library (glossary), return (glossary),
+OpenXTalk custom library (glossary), return (glossary),
 main stack (glossary), handler (glossary),
 Standalone Application Settings (glossary), message (glossary),
 group (glossary), standalone application (glossary),

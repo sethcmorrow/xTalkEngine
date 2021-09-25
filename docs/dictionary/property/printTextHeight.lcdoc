@@ -5,7 +5,7 @@ Type: property
 Syntax: set the printTextHeight to <lineHeight>
 
 Summary:
-Has no effect and is included in <LiveCode> for compatibility with
+Has no effect and is included in <OpenXTalk> for compatibility with
 imported <HyperCard> <stacks>.
 
 Introduced: 1.0
@@ -16,7 +16,7 @@ Security: printing
 
 Description:
 In HyperCard, the <printTextHeight> <property> specifies the vertical
-spacing of printed text. In LiveCode, only <card(object)|cards> can be
+spacing of printed text. In OpenXTalk, only <card(object)|cards> can be
 printed, and the vertical spacing of text on the <card(keyword)> is
 determined by the <card(keyword)> layout and the <properties> of its
 <object|objects>. 
@@ -25,7 +25,7 @@ By default, the value of <printTextHeight> is 18. A <handler> can set
 the <property>, but the new setting has no effect.
 
 References: print (command), stacks (function), property (glossary),
-handler (glossary), LiveCode (glossary), HyperCard (glossary),
+handler (glossary), OpenXTalk (glossary), HyperCard (glossary),
 object (glossary), card (keyword), card (object), textHeight (property),
 properties (property)
 

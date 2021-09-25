@@ -62,13 +62,13 @@ the record sound command. These capabilities are now available using the
 answer record command and the recordRate and recordCompression
 properties. 
 
-The use of <QuickTime> was deprecated in version 8.1 of LiveCode with
+The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk with
 new defaults for <dontUseQT> and <dontUseQTEffects> as true on all
-systems apart from pre OS X 10.8. The Windows build of LiveCode no
+systems apart from pre OS X 10.8. The Windows build of OpenXTalk no
 longer supports any <QuickTime> features and setting the <dontUseQT> and
 <dontUseQTEffects> will have no effect. Additionally <QuickTime> does 
 not include 64 bit support and therefore can not be supported on OS X 64
-bit builds of LiveCode.
+bit builds of OpenXTalk.
 
 References: play (command), stop recording (command), recordLoudness (function),
 format (function), recordCompressionTypes (function), property (glossary),

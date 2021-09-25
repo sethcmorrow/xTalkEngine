@@ -41,7 +41,7 @@ released.
 
 If a <control> is hidden (by changing its visible <property> to false or
 using the <hide> <command>), and the <mouse pointer> is over the
-<control> when it is hidden, LiveCode sends a <mouseLeave> <message> to
+<control> when it is hidden, OpenXTalk sends a <mouseLeave> <message> to
 the <control>.
 
 >*Note:* Take care when using both <mouseEnter> and <mouseLeave> in the

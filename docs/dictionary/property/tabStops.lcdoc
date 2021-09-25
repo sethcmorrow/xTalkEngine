@@ -64,7 +64,7 @@ measured relative to the previous tab stop. For example, if the
 
 If the <tabStops> does not define tabs for the entire width of the
 <field(object)>, or if the <field(object)|field's> <dontWrap>
-<property> is true, LiveCode creates implicit <tab stop|tab stops>
+<property> is true, OpenXTalk creates implicit <tab stop|tab stops>
 across the entire <field(object)>. (For example, if a
 <field(object)|field's> <tabStops> is 10, the <field(object)> has a
 <tab stop> every 10 <pixels>.) If the <tabStops> <property> defines more

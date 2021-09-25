@@ -21,7 +21,7 @@ set the armedIcon of button "Trigger" to 2245
 
 Value:
 The <armedIcon> <property> is the <ID> or <name> of an <image> to use
-for an icon. LiveCode looks for the specified <image> first in the
+for an icon. OpenXTalk looks for the specified <image> first in the
 <current stack>, then in other open <stacks>. By default, the
 <armedIcon> <property> of newly created <button|buttons> is set to zero.
 

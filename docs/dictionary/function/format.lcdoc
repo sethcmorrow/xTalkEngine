@@ -162,7 +162,7 @@ character:
 - \xnn character whose ASCII value is the hex number represented by nn
 
 > *Note:* Transformation of values in <valuesList> uses the standard 
-> LiveCode conversion rules. For example, if empty is passed for a numeric
+> OpenXTalk conversion rules. For example, if empty is passed for a numeric
 > incantation it will be taken as the value 0.
 
 References: function (control structure), binaryEncode (function),

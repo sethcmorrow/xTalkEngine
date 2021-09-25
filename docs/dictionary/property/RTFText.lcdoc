@@ -56,11 +56,11 @@ achieved with both TextEdit (and other Cocoa applications) on Mac, and
 Word and WordPad on Windows.
 >*Note:* Unfortunately, OpenOffice does not have particularly good rtf
 > import / export capabilities (it doesn't even round-trip correctly
-> through itself!) and thus copying / pasting of lists between LiveCode
+> through itself!) and thus copying / pasting of lists between OpenXTalk
 > and OpenOffice will not work reliably or correctly.
 
 >*Important:* Because the RTF standard does not include the box,
-> threeDbox, and link styles supported by LiveCode, the <RTFText>
+> threeDbox, and link styles supported by OpenXTalk, the <RTFText>
 > property does not necessarily include all information necessary to
 > reproduce the style information in a chunk. To export and re-import
 > field information without losing any style information, use the

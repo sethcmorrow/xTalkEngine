@@ -24,7 +24,7 @@ computer.
 
 Description:
 Use the <hostName> <function> to find the <domain name> of the computer
-that LiveCode is running on.
+that OpenXTalk is running on.
 
 The <hostName> <function> does a reverse <DNS> lookup on the
 <hostAddress> in order to find the <domain name>. This means that the

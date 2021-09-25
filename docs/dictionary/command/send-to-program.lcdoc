@@ -14,7 +14,7 @@ OS: mac
 Platforms: desktop, server
 
 Example:
-send "message" to program "Corporate Zone:Other Mac:LiveCode"
+send "message" to program "Corporate Zone:Other Mac:OpenXTalk"
 
 Example:
 send field "output" to application "FileMaker" without reply
@@ -38,7 +38,7 @@ can omit both the zone and the computer name.
 
 classID (string):
 A string consisting of the 4-character Apple event class and the
-4-character event ID. If you don't specify a classID, LiveCode uses "" :
+4-character event ID. If you don't specify a classID, OpenXTalk uses "" :
 theclass and the event.
 
 The result:

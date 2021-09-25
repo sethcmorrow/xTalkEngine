@@ -70,13 +70,13 @@ will return an "empty" form which can be added to using this function.
 >*Important:* The <libURLMultipartFormAddPart> <function> is part of the
 > <Internet library>. To ensure that the <function> works in a
 > <standalone application>, you must include this
-> <LiveCode custom library|custom library> when you create your
+> <OpenXTalk custom library|custom library> when you create your
 > <standalone application|standalone>. In the Inclusions pane of the
 > <Standalone Application Settings> window, make sure the "Internet"
 > script library is selected.
 
 References: post (command), libURLMultipartFormData (function),
-libURLFormData (function), LiveCode custom library (glossary),
+libURLFormData (function), OpenXTalk custom library (glossary),
 main stack (glossary), handler (glossary),
 Standalone Application Settings (glossary), message (glossary),
 group (glossary), standalone application (glossary), keyword (glossary),

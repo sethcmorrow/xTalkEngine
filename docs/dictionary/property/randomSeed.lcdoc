@@ -36,7 +36,7 @@ set the <randomSeed> back to its original <value(function)> and
 <call(command)> the <random> function five more times, the list of five
 numbers is the same as the first list you generated.
 
-LiveCode uses a new <randomSeed> every time the <application> is started
+OpenXTalk uses a new <randomSeed> every time the <application> is started
 up. 
 
 References: call (command), random (function), value (function),

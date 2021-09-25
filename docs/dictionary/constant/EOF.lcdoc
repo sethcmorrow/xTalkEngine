@@ -25,7 +25,7 @@ from a <process>.
 The <EOF> <constant> signifies the end of a <file>.
 
 When used with the <read from process> or <read from file> <command>,
-the <EOF> <constant> causes LiveCode to keep reading data until no more
+the <EOF> <constant> causes OpenXTalk to keep reading data until no more
 data remains to be read.
 
 References: constant (command), read from process (command),

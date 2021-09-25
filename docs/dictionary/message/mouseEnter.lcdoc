@@ -42,7 +42,7 @@ while the pointer is still in the <control>.
 
 If a <control> is shown (by changing its visible <property> to true or
 using the <show> <command>), and the <mouse pointer> is over the
-<control> when it is shown, LiveCode sends a <mouseEnter> <message> to
+<control> when it is shown, OpenXTalk sends a <mouseEnter> <message> to
 the <control>.
 
 >*Note:* Take care when using both <mouseEnter> and <mouseLeave> in the

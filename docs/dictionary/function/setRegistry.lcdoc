@@ -58,9 +58,9 @@ Use the <setRegistry> <function> to change the <behavior> of <Windows>.
 The first part of the <keyPath> should be one of the predefined handle
 values. If the <keyPath> ends in "\", the new setting becomes the
 <default> value. For example, if you want <file|files> ending in ".rev"
-to automatically launch LiveCode, use the following <command> :
+to automatically launch OpenXTalk, use the following <command> :
 
-    get setRegistry("HKEY_CLASSES_ROOT\.rev\", "LiveCode")
+    get setRegistry("HKEY_CLASSES_ROOT\.rev\", "OpenXTalk")
 
 
 If the key doesn't exist, the <setRegistry> <function> creates it in the

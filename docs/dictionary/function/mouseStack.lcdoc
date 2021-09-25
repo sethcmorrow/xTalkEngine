@@ -30,7 +30,7 @@ Use the <mouseStack> <function> to determine which window the mouse is
 over, or, in conjunction with the <mouseControl>, <mouseLine>, or
 <mouseChunk>, to determine which <field> the mouse is over.
 
-If the mouse is not over any LiveCode window, the <mouseStack>
+If the mouse is not over any OpenXTalk window, the <mouseStack>
 <return|returns> empty.
 
 If the mouse is over a stack's title bar or border, the  <mouseStack>

@@ -29,7 +29,7 @@ Use the <menubar> <property> to specify which <menus> appear in the
 
 On Mac OS systems, the menu bar appears at the top of the screen. On
 Unix and Windows systems, the menu bar appears at the top of the stack
-window. (LiveCode menus are created with buttons. Each menu is a button
+window. (OpenXTalk menus are created with buttons. Each menu is a button
 whose menuMode <property> is set to "pulldown" ; these <button|buttons>
 are then grouped to form a <menu bar>.)
 

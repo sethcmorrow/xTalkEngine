@@ -45,7 +45,7 @@ which method is being called specifically within that resource.
 
 References: revXMLRPC_SetMethod (command), revXMLRPC_GetPath (function),
 result (function), revXMLRPC_CreateRequest (function),
-LiveCode custom library (glossary),
+OpenXTalk custom library (glossary),
 Standalone Application Settings (glossary),
 standalone application (glossary), command (glossary),
 XML-RPC document (glossary), XML-RPC library (library)

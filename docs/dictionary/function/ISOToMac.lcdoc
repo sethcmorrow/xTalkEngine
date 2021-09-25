@@ -39,7 +39,7 @@ Description:
 Use the <ISOToMac> <function> to translate data that was created on a
 <Unix> or <Windows|Windows system> to the <Mac OS> <character set>.
 
-LiveCode automatically translates text in fields and scripts, as well as
+OpenXTalk automatically translates text in fields and scripts, as well as
 the names of custom properties, into the appropriate character set when
 you move a stack from one platform to another. It is therefore not
 necessary to translate them. However, the contents of custom properties,

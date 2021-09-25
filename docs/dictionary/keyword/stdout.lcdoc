@@ -30,7 +30,7 @@ On a server in CGI mode, writing to <stdout> for the first time triggers
 any headers to be generated.
 
 When you use the <write to file> <command> with the <stdout> <keyword>,
-LiveCode writes data to the <standard output>.
+OpenXTalk writes data to the <standard output>.
 
 >*Note:* On <OS X|OS X systems>, the <standard output> is the Console
 > window, not the Terminal window.

@@ -57,7 +57,7 @@ On Mac OS systems, the Apple menu does not have a number and cannot be
 enabled or disabled. Menu numbering starts with the menu to the right of
 the Apple menu.
 
-Since a LiveCode menu bar is implemented as a group of buttons (one
+Since a OpenXTalk menu bar is implemented as a group of buttons (one
 button per menu, with the menu items as lines in the button's text
 <property>), you can indicate a <menu> by specifying its <button>.
 <disabled|Disabled> <menu item|menu items> have an open parenthesis `(` 

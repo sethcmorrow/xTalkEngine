@@ -61,7 +61,7 @@ to assign it a name:
     end product
 
 
-LiveCode evaluates the parameters before passing them. So if you call
+OpenXTalk evaluates the parameters before passing them. So if you call
 myHandler with the following statement: 
 
      myHandler 1+1,"A","Hello" && "world" 

@@ -30,7 +30,7 @@ Use the playLoudness property to set the speaker volume.
 Setting the playLoudness to zero turns off sounds.
 
 If no audio clip, video clip, or player is specified, the setting of the
-playLoudness property applies to all sounds LiveCode makes, including
+playLoudness property applies to all sounds OpenXTalk makes, including
 those made with the <beep> and <play> commands.
 
 Users can manually set the playLoudness of a <player> using the slider

@@ -38,7 +38,7 @@ exceptions: <stacks> and <image(object)|images>.
 
 You can set the <ID> of an <image> to any positive <integer>. Be careful
 not to set an <image> <ID> to a number that's the <ID> of another
-<image> in the same <stack> : since LiveCode uses IDs to keep track of
+<image> in the same <stack> : since OpenXTalk uses IDs to keep track of
 <object|objects>, a conflict may result in the inability to access one
 or both <object|objects>. The following ID numbers are reserved and
 should not be used for <image> IDs:

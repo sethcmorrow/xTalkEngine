@@ -31,7 +31,7 @@ An iosScroller(UIScrollView) control is created using a control type of
 Rather than act as a container for other controls the iosScroller is
 intended to be used as an overlay on the part of the screen you wish to
 interact with the proper iOS scrollbars. By responding to the various
-iosScroller messages, you can move LiveCode controls or set the
+iosScroller messages, you can move OpenXTalk controls or set the
 appropriate scroll properties of groups and fields to get a native
 scrolling effect.
 

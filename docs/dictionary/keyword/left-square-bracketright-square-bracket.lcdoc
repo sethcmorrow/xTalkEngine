@@ -38,12 +38,12 @@ single square bracket does not cause an <error>, but the bracket is
 interpreted as part of the <variable> name, rather than as the marker
 for the <key> of an <array> reference.
 
->*Note:* Arrays in LiveCode are associative (also known as hash tables).
+>*Note:* Arrays in OpenXTalk are associative (also known as hash tables).
 > This means that when an array element is accessed using square bracket
 > notation, the value in between the brackets is used to "look up" the
 > element, and is not a numeric index as in C, Pascal and other
 > languages. Of course it is still possible to use numbers as array
-> keys, but LiveCode internally converts these to strings before
+> keys, but OpenXTalk internally converts these to strings before
 > retrieving the array elements.
 
 References: split (command), arrayEncode (function), array (glossary),

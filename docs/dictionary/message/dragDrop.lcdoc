@@ -32,10 +32,10 @@ dragged.
 >*Important:*  If the <acceptDrop> <property> is set to false at the
 > time the drop occurs, no <dragDrop> <message> is sent.
 
-LiveCode automatically handles the mechanics of dragging and dropping
+OpenXTalk automatically handles the mechanics of dragging and dropping
 text between and within unlocked fields. To support this type of drag
 and drop operation, you don't need to do any scripting: the text is
-dropped into the field automatically when LiveCode receives the
+dropped into the field automatically when OpenXTalk receives the
 <dragDrop> <message>.
 
 To prevent an unlocked field from accepting a drag and drop, trap the

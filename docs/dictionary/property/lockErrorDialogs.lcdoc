@@ -26,7 +26,7 @@ By default, the <lockErrorDialogs> <property> is set to false. It is
 Description:
 Use the <lockErrorDialogs> <property> to <handle> <execution
 error|execution errors> in a custom handler, rather than allowing
-LiveCode to display the standard error window.
+OpenXTalk to display the standard error window.
 
 If an execution error occurs while the <lockErrorDialogs> <property> is
 set to false, the error window appears. This is the <default>

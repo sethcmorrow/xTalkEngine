@@ -22,7 +22,7 @@ propertyName:
 The name of a custom property.
 
 statementList:
-The statementList consists of one or more LiveCode statements, and can
+The statementList consists of one or more OpenXTalk statements, and can
 also include if, switch, try, or repeat control structures.
 
 Description:

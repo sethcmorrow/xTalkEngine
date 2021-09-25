@@ -43,7 +43,7 @@ Use the <mobileBusyIndicatorStart> command to show a native busy
 indicator on iOS and Android.
 
 Use the <mobileBusyIndicatorStart> command to display a native busy
-indicator on the top of the LiveCode stack that is running.
+indicator on the top of the OpenXTalk stack that is running.
 
 You can turn the busy indicator off by calling
 <mobileBusyIndicatorStop>. 

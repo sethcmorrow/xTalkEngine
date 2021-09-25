@@ -33,7 +33,7 @@ specified by the <image(object)|image's> <filename> <property>.
 An image is contained in a card, group, or background. Images cannot 
 contain other objects.
 
->*Note:* Animated GIFs cannot be resized in LiveCode.
+>*Note:* Animated GIFs cannot be resized in OpenXTalk.
 
 References: property (glossary), paint tool (glossary), bitmap (glossary),
 command (glossary), object type (glossary), templateImage (keyword),

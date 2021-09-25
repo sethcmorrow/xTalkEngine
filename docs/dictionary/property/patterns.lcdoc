@@ -26,8 +26,8 @@ set the patterns of me to storedPatternsList
 Value:
 The <patterns> of an <object(glossary)> is a list of pattern specifiers,
 one per <line>. A pattern specifier is a built-in pattern number between
-1 and 164 (corresponding to LiveCode's built-in patterns 136 to 300), or
-the <ID> of an <image> to use for a pattern. LiveCode looks for the
+1 and 164 (corresponding to OpenXTalk's built-in patterns 136 to 300), or
+the <ID> of an <image> to use for a pattern. OpenXTalk looks for the
 specified <image> first in the <current stack>, then in other open
 <stacks>. The <patterns> of an <object(glossary)> consists of eight
 <lines>, some of which may be empty.

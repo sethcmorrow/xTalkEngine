@@ -6,7 +6,7 @@ Syntax: set the styledText of <field> to <styledArray>
 
 Summary:
 Specifies the contents of a field, with its text formatting represented
-as LiveCode styled text array.
+as OpenXTalk styled text array.
 
 Associations: field
 
@@ -28,7 +28,7 @@ The reference to the field.
 
 styledArray (array):
 An array containing the styled text. (Must be correctly constructed as a
-LiveCode styledText array, see comments)
+OpenXTalk styledText array, see comments)
 
 
 The result:

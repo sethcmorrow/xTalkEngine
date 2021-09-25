@@ -37,7 +37,7 @@ otherwise the result will be empty.
 
 Description:
 Use the <revZipReplaceItemWithData> command to put the contents of a
-variable in your LiveCode program into one of the items of an open zip
+variable in your OpenXTalk program into one of the items of an open zip
 archive. The archive must have first been opened with the
 <revZipOpenArchive> command.
 

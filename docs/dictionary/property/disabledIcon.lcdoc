@@ -21,7 +21,7 @@ set the disabledIcon of button "Boss Key" to "Innocent Spreadsheet"
 
 Value:
 The <disabledIcon> <property> is the <ID> or <name> of an <image> to use
-for an icon. LiveCode looks for the specified <image> first in the
+for an icon. OpenXTalk looks for the specified <image> first in the
 <current stack>, then in other open <stacks>. By default, the
 <disabledIcon> <property> of newly created <button|buttons> is set to
 zero. 

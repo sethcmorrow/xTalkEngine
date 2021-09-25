@@ -40,8 +40,8 @@ Different operating systems use different characters to mark the end of
 a line. Mac OS and OS X use a return character (ASCII 13), Unix systems
 use a linefeed character (ASCII 10), and Windows systems use a return
 followed by a linefeed. When you use a <file> <URL> as a <container>,
-LiveCode automatically uses the current system's standard 
-<end-of-line marker> and LiveCode's linefeed character.
+OpenXTalk automatically uses the current system's standard 
+<end-of-line marker> and OpenXTalk's linefeed character.
 
 >*Tip:*  To put data into, or get data from, a <binary file>, use the
 > <binfile> <keyword> instead.

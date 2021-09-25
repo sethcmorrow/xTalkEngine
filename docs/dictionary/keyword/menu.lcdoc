@@ -34,7 +34,7 @@ You can use the <menu> <keyword> to refer to one of the
 <button(object)|buttons> in the current <menu bar>. For example, if the
 first <menu> in the <menu bar> is called "File", the <expression> the
 name of menu 1 <evaluate|evaluates> to "button " File"". (Remember that
-in LiveCode, <menus> are usually implemented as
+in OpenXTalk, <menus> are usually implemented as
 <button(object)|buttons>: the <button(object)|button's> <style> and
 <menuMode> <properties> control how it is displayed, and the
 <button(object)|button's> <text> <property> is used as the list of <menu

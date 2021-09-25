@@ -114,7 +114,7 @@ variable, and the result of the operation is placed into
 <destinationArray> rather than mutating <targetArray>.
 
 Changes:
-The `into` clause was added in LiveCode 9.
+The `into` clause was added in OpenXTalk 9.
 
 References: add (command), intersect (command), keys (function),
 element (glossary), key (glossary), command (glossary), array (glossary),

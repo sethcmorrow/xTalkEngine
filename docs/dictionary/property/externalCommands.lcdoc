@@ -33,7 +33,7 @@ Use the <externalCommands> <property> to find out whether a particular
 or to list all the available <external|external commands>.
 
 You use an external command in a handler the same way you use one of
-LiveCode's built-in commands.
+OpenXTalk's built-in commands.
 
 Changes:
 Support for using the externalCommands property on OS X systems was

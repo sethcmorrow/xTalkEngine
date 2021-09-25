@@ -13,7 +13,7 @@ OS: mac,windows,linux
 Platforms: desktop
 
 Example:
-popup widget "com.livecode.widget.iconpicker" at the mouseloc
+popup widget "com.OpenXTalk.widget.iconpicker" at the mouseloc
 
 Example:
 local sColor = "1,1,0.5"

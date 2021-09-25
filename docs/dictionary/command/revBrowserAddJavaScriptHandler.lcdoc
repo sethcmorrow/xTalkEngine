@@ -5,7 +5,7 @@ Type: command
 Syntax: revBrowserAddJavaScriptHandler <instanceID>, <handlerName>
 
 Summary:
-Adds the named handler to the 'LiveCode' object within the current
+Adds the named handler to the 'OpenXTalk' object within the current
 JavaScript context of the browser.
 
 Introduced: 6.7
@@ -19,47 +19,47 @@ Security: network
 Example:
 local tBrowserID
 put revBrowserOpenCef(the windowId \
-      of this stack, "http://www.livecode.com" ) into tBrowserID
-revBrowserAddJavaScriptHandler tBrowserID, "myLiveCodeHandler"
+      of this stack, "http://www.OpenXTalk.com" ) into tBrowserID
+revBrowserAddJavaScriptHandler tBrowserID, "myOpenXTalkHandler"
 
 Parameters:
 instanceID:
 the ID of the browser instance returned by the <revBrowserOpen> function.
 
 handlerName:
-the name of a LiveCode handler in the script of the card / stack
+the name of a OpenXTalk handler in the script of the card / stack
 displaying the browser.
 
 Description:
 The <revBrowserAddJavaScriptHandler> adds the named handler to the
-'LiveCode' object within the current JavaScript context of the browser.
+'OpenXTalk' object within the current JavaScript context of the browser.
 
 The <revBrowserAddJavaScriptHandler> function will make the named
-LiveCode handler visible to JavaScript within the browser as a function
-belonging to the global JavaScript 'LiveCode' object. Calling this
-JavaScript function will result in a call to the LiveCode handler, which
+OpenXTalk handler visible to JavaScript within the browser as a function
+belonging to the global JavaScript 'OpenXTalk' object. Calling this
+JavaScript function will result in a call to the OpenXTalk handler, which
 will be passed the browser instance as the first parameter followed by
 any parameters given to the JavaScript function.
 
-A LiveCode card has the following handler:
+A OpenXTalk card has the following handler:
 
-    on myLiveCodeHandler pID, pArg1, pArg2
+    on myOpenXTalkHandler pID, pArg1, pArg2
         answer "Browser ID" && pID &&
-        "called myLiveCodeHandler with arguments" && pArg1 && "and" && pArg2
-    end myLiveCodeHandler
+        "called myOpenXTalkHandler with arguments" && pArg1 && "and" && pArg2
+    end myOpenXTalkHandler
 
 
 Registered within the JavaScript context with the following command:
 
-    revBrowserAddJavaScriptHandler tBrowserID, "myLiveCodeHandler"
+    revBrowserAddJavaScriptHandler tBrowserID, "myOpenXTalkHandler"
 
 
-The JavaScript code within the browser can then call the LiveCode
+The JavaScript code within the browser can then call the OpenXTalk
 handler via the registered function:
 
 
     if (tIsRevBrowser)
-        liveCode.myBrowserHandler(tValue1, tValue2);
+        OpenXTalk.myBrowserHandler(tValue1, tValue2);
 
 
 References: revBrowserStop (command), revBrowserPrint (command),

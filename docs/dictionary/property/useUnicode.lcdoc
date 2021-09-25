@@ -44,7 +44,7 @@ when the current handler finishes executing. It retains its value only
 for the current handler, and setting it in one handler does not affect
 its value in other handlers it calls.
 
->*Note:* The <useUnicode> property is deprecated. In LiveCode 7.0 the
+>*Note:* The <useUnicode> property is deprecated. In OpenXTalk 7.0 the
 language was changed to handle unicode transparently. This means that
 language functionality which previously aided unicode text manipulation
 is no longer required. This property should not be used in new code, as
@@ -52,7 +52,7 @@ it only affects the behaviour of <numToChar> and <charToNum>, which are
 themselves deprecated.
 
 Changes:
-As of LiveCode 7.0 the <useUnicode> property is deprecated.
+As of OpenXTalk 7.0 the <useUnicode> property is deprecated.
 
 References: charToNum (function), numToChar (function),
 allowInlineInput (property), unicodeText (property)

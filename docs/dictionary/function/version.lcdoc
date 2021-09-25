@@ -26,17 +26,17 @@ end if
 
 Returns:
 The <version> <function> <return|returns> a string describing the
-version of LiveCode running.
+version of OpenXTalk running.
 
 Description:
 Use the <version> function to determine whether the <application>
 supports a particular feature.
 
-The version number belongs to either the LiveCode application (if the
-stack is being used with LiveCode) or to the running standalone
+The version number belongs to either the OpenXTalk application (if the
+stack is being used with OpenXTalk) or to the running standalone
 application. The engine <version> of a <standalone
 application|standalone> is the same as the <engine> <version> of
-LiveCode that was used to create it.
+OpenXTalk that was used to create it.
 
 References: function (control structure), environment (function),
 libURLVersion (function), buildNumber (function), application (glossary),

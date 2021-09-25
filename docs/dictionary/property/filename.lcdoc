@@ -34,7 +34,7 @@ size as all display densities.
 Value:
 The <filename> of an image or player specifies either a file path or a
 URL. A file path specifies the name and location of the file. If you
-specify a name but not a location, LiveCode assumes the file or relative
+specify a name but not a location, OpenXTalk assumes the file or relative
 paths are from the defaultFolder or the folder the stack is saved in. A
 URL specifies the name and location of a file on your system or anywhere
 on the Internet. By default, the <filename> property of newly created
@@ -66,8 +66,8 @@ DirectShow on Windows.
     set the currentTime of player "My Player" to zero
 
 
-If you specify a URL for a streaming a movie file, LiveCode displays the
-movie sequentially as it downloads. Otherwise, LiveCode must download
+If you specify a URL for a streaming a movie file, OpenXTalk displays the
+movie sequentially as it downloads. Otherwise, OpenXTalk must download
 the entire file before you can play it. To pre-fetch a file from the
 Internet in order to speed up access to it, use the load command before
 visiting the card that holds the player or image that references the
@@ -109,13 +109,13 @@ not practical for a given image, you may need to design your apps to
 handle slightly different resulting image sizes.
 
 Changes:
-The use of <QuickTime> was deprecated in version 8.1 of LiveCode with
+The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk with
 new defaults for <dontUseQT> and <dontUseQTEffects> as true on all
-systems apart from pre OS X 10.8. The Windows build of LiveCode no
+systems apart from pre OS X 10.8. The Windows build of OpenXTalk no
 longer supports any <QuickTime> features and setting the <dontUseQT> and
 <dontUseQTEffects> will have no effect. Additionally <QuickTime> does 
 not include 64 bit support and therefore can not be supported on OS X 64
-bit builds of LiveCode.
+bit builds of OpenXTalk.
 
 Support for Density Mapped Images was introduced in version 6. In
 previous versions, the filename of an image would only be able to use

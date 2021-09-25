@@ -31,7 +31,7 @@ When the <pass> <control structure> is <execute|executed>, any remaining
 within an <if> <control structure>.
 
 Use the <pass> <control structure> at the end of a <handler> to make
-sure that <object|objects> further up the <message path>, or LiveCode
+sure that <object|objects> further up the <message path>, or OpenXTalk
 itself, receive the <message>. For example, if a <stack|stack's>
 <script> contains a <closeCard> <handler> that does housekeeping tasks,
 and a particular <card(keyword)> needs to perform additional tasks if
@@ -50,7 +50,7 @@ the idea:
 
 Built-in messages that perform a task, such as keyDown and
 <closeStackRequest>, must be received by the <engine> or the task will
-not be performed. For example, LiveCode enters a typed character into a
+not be performed. For example, OpenXTalk enters a typed character into a
 <field> when it receives the <keyDown> <message>, and starts closing a
 <stack> when it receives the <closeStackRequest> <message>. For this
 reason, if you create a <handler> for a <built-in message> that performs

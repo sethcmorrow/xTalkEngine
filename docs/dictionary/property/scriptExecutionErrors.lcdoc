@@ -5,7 +5,7 @@ Type: property
 Syntax: put the scriptExecutionErrors
 
 Summary:
-Reports a list of all possible LiveCode script execution errors.
+Reports a list of all possible OpenXTalk script execution errors.
 
 Introduced: 6.0
 
@@ -57,7 +57,7 @@ the script, on character 13, the token 'in'.
 The <scriptExecutionErrors> property is read-only and cannot be set.
 
 > *Note:* The <scriptExecutionErrors> property returns the list of 
-> errors only in the <IDE> and LiveCode Server. It returns empty in 
+> errors only in the <IDE> and OpenXTalk Server. It returns empty in 
 > <standalone application|standalones>.
 
 References: catch (keyword), error message (glossary), execute (glossary), 

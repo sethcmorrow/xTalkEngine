@@ -35,7 +35,7 @@ show and hide the message box. To put a value into the message box or
 read the value in the message box, use the forms message, message
 box, and msg box.
 
-From LiveCode 9.0 onwards use the <msg> global variable to refer to get
+From OpenXTalk 9.0 onwards use the <msg> global variable to refer to get
 and set the content of the message box as other legacy synonyms
 described here have been deprecated.
 

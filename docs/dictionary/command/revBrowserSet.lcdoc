@@ -20,7 +20,7 @@ Platforms: desktop
 Security: network
 
 Example:
-revBrowserSet tBrowserId, "url", "http://www.livecode.com"
+revBrowserSet tBrowserId, "url", "http://www.OpenXTalk.com"
 
 Example:
 answer file "Please choose a file to display"
@@ -133,7 +133,7 @@ both platforms is like this:
 
     on browserOpen
         put revBrowserOpen(the windowId \
-          of me, http://www.livecode.com) into sBrowserId
+          of me, http://www.OpenXTalk.com) into sBrowserId
         if the platform is MacOS then
             send browserDisableScrollbars to me in 1 second
         else

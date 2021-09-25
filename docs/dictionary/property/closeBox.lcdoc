@@ -41,7 +41,7 @@ briefly.
 
 Changes:
 The closeBox property was fully implemented in version 2.1. In previous
-versions, it was included in LiveCode for compatibility with imported
+versions, it was included in OpenXTalk for compatibility with imported
 SuperCard projects, but setting it had no effect.
 
 References: property (glossary), stack window (glossary),

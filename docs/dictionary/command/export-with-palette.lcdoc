@@ -60,7 +60,7 @@ The export with palette form exports an image in either PNG or GIF
 format with a specific size or type of palette.
 
 If the standard palette form is used, then the image will be
-color-matched to the default 256 color LiveCode palette before export.
+color-matched to the default 256 color OpenXTalk palette before export.
 
 If the optimized palette form is used, then a palette with the
 <colorCount> colors will be generated that does its best to approximate

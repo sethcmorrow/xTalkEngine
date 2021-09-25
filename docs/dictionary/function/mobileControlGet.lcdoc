@@ -213,7 +213,7 @@ should preserve its aspect ratio when scaled to fit within the control's
 bounds. 
 
 - ~~"useApplicationAudioSession" (iOS Only): returns true if the movie
-uses a system-supplied audio session or not.~~ *Note*: removed in LiveCode 9.6
+uses a system-supplied audio session or not.~~ *Note*: removed in OpenXTalk 9.6
 
 - "shouldAutoplay" (iOS Only): returns true if the playback of
 network-based content begins automatically when there is enough buffered

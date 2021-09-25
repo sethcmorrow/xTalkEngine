@@ -40,7 +40,7 @@ The type of clip to play.
 
 filePath:
 The location and name of the file you want to play. If you specify a
-name but not a location, LiveCode assumes the file is in the
+name but not a location, OpenXTalk assumes the file is in the
 defaultFolder. 
 
 clip:
@@ -92,7 +92,7 @@ the <current card>. You cannot play two sounds at the same time, nor can
 you queue a sound while another sound is playing.
 
 On Unix systems, the "xanim" program must be located in a directory in
-the PATH <environment variable>. You can set the PATH from within LiveCode
+the PATH <environment variable>. You can set the PATH from within OpenXTalk
 by using the put <command> :
 
     put newPath into $PATH
@@ -103,7 +103,7 @@ by using the put <command> :
 > use a <player> object.
 
 Changes:
-The use of <QuickTime> was deprecated in version 8.1 of LiveCode. As
+The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk. As
 the `play videoClip ..` form of the <play> command was relying on 
 <QuickTime>, it is no longer supported.
 

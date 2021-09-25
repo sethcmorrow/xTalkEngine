@@ -27,7 +27,7 @@ by a <handler> with the <throw> <control structure>.
 When one of the statements in a <try> <control structure> causes an
 <execution error>, the errorParameter is set to the error string, and
 the <statement|statements> after the <catch> <keyword> are
-<execute|executed>. If LiveCode generates the error (for example, an
+<execute|executed>. If OpenXTalk generates the error (for example, an
 <execution error> from a built-in <command>), the <errorParameter> is a
 positive number. An error string can also be returned from a <handler>
 by the <throw> <keyword>.

@@ -27,7 +27,7 @@ put the aliasReference of it into fileToOpen
 Parameters:
 aliasPath:
 The location and name of the alias whose referenced file or folder you
-want to get. If you specify a name but not a location, LiveCode assumes
+want to get. If you specify a name but not a location, OpenXTalk assumes
 the file is in the defaultFolder.
 
 Returns:

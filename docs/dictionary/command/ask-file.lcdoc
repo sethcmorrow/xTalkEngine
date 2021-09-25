@@ -88,7 +88,7 @@ systems. On other systems, the as sheet form has no effect and the
 dialog box appears normally. Attempting to open a sheet from within
 another sheet displays the second stack as a <modal dialog box> instead.
 
-If the systemFileSelector <property> is set to false, LiveCode's
+If the systemFileSelector <property> is set to false, OpenXTalk's
 built-in <dialog box> is used instead of the operating system's 
 <file dialog box|standard file dialog>.
 
@@ -96,7 +96,7 @@ built-in <dialog box> is used instead of the operating system's
 > Services is in use, if you don't specify a default file name, the file
 > name box contains "untitled". On Unix and Windows systems, the file
 > name box is empty when the <dialog box> appears. Unix systems
-> currently use LiveCode's built-in dialog box.
+> currently use OpenXTalk's built-in dialog box.
 
 Changes:
 The ask file...as sheet form was introduced in version 2.0.

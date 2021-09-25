@@ -28,8 +28,8 @@ The instanceId  is an integer that identifies a browser control opened
 by the revBrowserOpen function.
 
 url:
-Any url that the browser supports. Eg "http://www.livecode.com",
-"https://livecode.com". 
+Any url that the browser supports. Eg "http://www.OpenXTalk.com",
+"https://OpenXTalk.com". 
 
 The result:
 The <revBrowserNavigate> command places empty into the result.

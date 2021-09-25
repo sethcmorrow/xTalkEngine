@@ -20,7 +20,7 @@ Example:
 mobileControlCreate "browser", "web view"
 put the result into sBrowserID
 mobileControlSet sBrowserID, "visible", "true"
-mobileControlSet sBrowserID, "url", "http://www.livecode.com"
+mobileControlSet sBrowserID, "url", "http://www.OpenXTalk.com"
 
 Description:
 An iosBrowser control is created using a control type of

@@ -35,7 +35,7 @@ The parametersList consists of one or more parameter names, separated by
 commas. 
 
 statementList:
-The statementList consists of one or more LiveCode <statement|statements>. 
+The statementList consists of one or more OpenXTalk <statement|statements>. 
 The final <statement> is typically a <return(control structure)> <statement>, 
 which sends the value derived in the <function> <handler> back to the 
 <statement> that <caller|calls> the function.
@@ -66,7 +66,7 @@ it to the <handler> that called the function. The function's value is
 <return(glossary)|returned> by a <return(control structure)> 
 <control structure> within the <function> <handler>.
 
-A <function> <handler> can contain any set of LiveCode <statement|statements>.
+A <function> <handler> can contain any set of OpenXTalk <statement|statements>.
 Most functions contain a <return(control structure)> <statement>, which 
 <return(glossary)|returns> the value to the <caller|calling handler>. 
 This example of a custom function uses two <parameter|parameters> and 

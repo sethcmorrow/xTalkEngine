@@ -126,7 +126,7 @@ on the pickers.
 
 ### Android Behavior
 
->*Warning:* No support is provided in LiveCode for multi column pickers
+>*Warning:* No support is provided in OpenXTalk for multi column pickers
 > on Android. This currently a limitation of Android.
 
 References: mobilePickDate (command), mobilePickPhoto (command)

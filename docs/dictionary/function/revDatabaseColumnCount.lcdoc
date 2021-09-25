@@ -53,7 +53,7 @@ If the operation is not successful, the <revDatabaseColumnCount>
 >*Important:*  The <revDatabaseColumnCount> <function> is part of the 
 > <Database library>. To ensure that the <function> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure both the 
 > "Database" library checkbox and those of the database drivers you are 
@@ -64,7 +64,7 @@ The revDatabaseColumnCount synonym was added in version 2.0.
 
 References: function (control structure),
 revDatabaseColumnNames (function), revDatabaseColumnNumbered (function),
-LiveCode custom library (glossary), database field (glossary),
+OpenXTalk custom library (glossary), database field (glossary),
 Standalone Application Settings (glossary),
 standalone application (glossary),
 record set (glossary), return (glossary),

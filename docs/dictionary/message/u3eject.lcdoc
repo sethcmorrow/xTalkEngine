@@ -26,7 +26,7 @@ pType (enum): How the U3 drive was ejected.
 
 Description:
 When the U3 LaunchPad requests an application stops, it sends a stop
-message to the LiveCode engine. The engine will send a u3eject message
+message to the OpenXTalk engine. The engine will send a u3eject message
 to the first stack.
 
 References: startup (message)

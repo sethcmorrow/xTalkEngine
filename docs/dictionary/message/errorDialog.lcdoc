@@ -24,7 +24,7 @@ end errorDialog
 
 Parameters:
 pExecutionError: Describes the error that occurred in the form of a 
-standard LiveCode error backtrace: error-code,line-number,column-number[,
+standard OpenXTalk error backtrace: error-code,line-number,column-number[,
 hint] 
 
 pParseError: Deprecated
@@ -53,7 +53,7 @@ error. The <lockErrorDialogs> can be set to true either by setting the
 
 >*Note:* The <errorDialog> message is only sent while Script Debug mode
 > is turned off. To toggle Script Debug mode, click on the Development
-> menu of LiveCode's menubar.
+> menu of OpenXTalk's menubar.
 
 Changes:
 The <pExecutionError> parameter was introduced in version 1.1. In previous

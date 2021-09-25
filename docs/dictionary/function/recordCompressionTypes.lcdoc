@@ -45,7 +45,7 @@ The <recordCompressionTypes> <function> requires <QuickTime> to be
 installed. If <QuickTime> is not installed, the recordFormats <function>
 returns empty.
 
->*Tip:*  It can take LiveCode a second or two to load the code needed to
+>*Tip:*  It can take OpenXTalk a second or two to load the code needed to
 > use <QuickTime>, depending on the machine speed. Since this code is
 > only <loaded into memory> once per session, you can speed up the first
 > occurrence of a QuickTime-related action by calling the <QTVersion>
@@ -53,13 +53,13 @@ returns empty.
 > your application--to preload the code.
 
 Changes:
-The use of <QuickTime> was deprecated in version 8.1 of LiveCode with
+The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk with
 new defaults for <dontUseQT> and <dontUseQTEffects> as true on all
-systems apart from pre OS X 10.8. The Windows build of LiveCode no
+systems apart from pre OS X 10.8. The Windows build of OpenXTalk no
 longer supports any <QuickTime> features and setting the <dontUseQT> and
 <dontUseQTEffects> will have no effect. Additionally <QuickTime> does 
 not include 64 bit support and therefore can not be supported on OS X 64
-bit builds of LiveCode.
+bit builds of OpenXTalk.
 
 References: answer record (command), record sound (command),
 function (control structure), compress (function), qtVersion (function),

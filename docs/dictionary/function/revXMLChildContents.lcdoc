@@ -80,7 +80,7 @@ string "Text" when called with "root" as the <startNode> and 1 as the
 >*Important:*  The <revXMLChildContents> <function> is part of the 
 > <XML library>. To ensure that the <function> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the "XML" 
 > checkbox is checked.
@@ -88,7 +88,7 @@ string "Text" when called with "root" as the <startNode> and 1 as the
 References: revXMLAppend (command), function (control structure),
 revXMLAttributes (function), revXMLCreateTree (function),
 revXMLCreateTreeFromFile (function), revXMLNumberOfChildren (function),
-LiveCode custom library (glossary),
+OpenXTalk custom library (glossary),
 Standalone Application Settings (glossary), tag (glossary),
 standalone application (glossary), return (glossary), XML tree (glossary),
 string (keyword), XML library (library), nodes (property)

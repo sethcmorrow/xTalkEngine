@@ -34,7 +34,7 @@ languages, one per line.
 
 Description:
 Use the <alternateLanguages> <function> to find out what scripting
-languages (in addition to <LiveCode>) are available for use with the do
+languages (in addition to <OpenXTalk>) are available for use with the do
 command. 
 
 Mac OS and OS X systems support system-wide script languages (such as
@@ -50,5 +50,5 @@ HTML5 systems support executing JavaScript within the context of the
 browser host.
 
 References: do (command), function (control structure),
-LiveCode (glossary), return (glossary)
+OpenXTalk (glossary), return (glossary)
 

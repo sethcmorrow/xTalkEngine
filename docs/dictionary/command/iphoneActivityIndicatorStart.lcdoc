@@ -44,7 +44,7 @@ Description:
 The activity indicator displays an animated indicator on the screen.
 
 Use the <iphoneActivityIndicatorStart> command to display a native iOS
-activity indicator on the top of the LiveCode stack that is running.
+activity indicator on the top of the OpenXTalk stack that is running.
 
 The <iphoneActivityIndicatorStart> command allows you to select from
 three types of animation and position the animation at a defined

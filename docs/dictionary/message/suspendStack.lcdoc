@@ -27,7 +27,7 @@ when a <stack window> is made inactive.
 
 The <suspendStack> <message> is sent whenever a <stack window> is no
 longer the <active window>: when the <stack window> is closed, when
-another <stack> is brought to the front, when other LiveCode windows are
+another <stack> is brought to the front, when other OpenXTalk windows are
 brought to the front, and when switching to another program.
 
 The actual window deactivation process is not triggered by the

@@ -40,7 +40,7 @@ may have been passed as part of the URL.
 > URL is selected on a device. Your application registers any custom URL
 > schemes it wishes to be woken up by with the operating system when
 > first installed. These custom URL schemes can be set up in the
-> standalone applications settings pane of LiveCode.
+> standalone applications settings pane of OpenXTalk.
 
 When one of the URLs is clicked on in either the browser or from within
 another application installed on the device, your application is woken

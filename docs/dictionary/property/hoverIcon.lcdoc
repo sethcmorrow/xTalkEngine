@@ -21,7 +21,7 @@ set the hoverIcon of button "Play" to 210095
 
 Value:
 The <hoverIcon> property is the ID or name of an image to use for an
-icon. LiveCode looks for the specified image first in the current stack,
+icon. OpenXTalk looks for the specified image first in the current stack,
 then in other open stacks. By default the <hoverIcon> property is set to
 0 for newly created buttons.
 

@@ -5,7 +5,7 @@ Type: object
 Syntax: widget
 
 Summary:
-A custom <control> written in LiveCode Builder
+A custom <control> written in OpenXTalk Builder
 
 Introduced: 8.0
 
@@ -18,7 +18,7 @@ set the visible of widget 1 to false
 
 Example:
 on newWidget
-    if the kind of the target is "com.livecode.widget.colorswatch" then
+    if the kind of the target is "com.OpenXTalk.widget.colorswatch" then
         set the swatchColor of the target to "0,0,0,255"
     end if 
 end newWidget
@@ -26,13 +26,13 @@ end newWidget
 Description:
 Use the <widget> <object type> to create a <widget> control. 
 <widget|Widgets> are created from 
-<LiveCode Builder extension|LiveCode Builder extensions> that have 
+<OpenXTalk Builder extension|OpenXTalk Builder extensions> that have 
 previously been loaded into memory using the <load extension>
 <command>. For more details on how to create widgets, please consult the
-*Extending Livecode* guide.
+*Extending OpenXTalk* guide.
 
 References: load extension (command), object type (glossary),
-LiveCode Builder extension (glossary), command (glossary),
+OpenXTalk Builder extension (glossary), command (glossary),
 control (keyword)
 
 Tags: objects, extensions

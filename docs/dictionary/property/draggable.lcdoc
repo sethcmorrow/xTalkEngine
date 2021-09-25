@@ -16,13 +16,13 @@ OS: mac, windows, linux
 Platforms: desktop, server
 
 Description:
-The <draggable> <property> is included in <LiveCode> for compatibility
+The <draggable> <property> is included in <OpenXTalk> for compatibility
 with imported <SuperCard> projects.
 
 In SuperCard, the <draggable> <property> determines whether a window can
 be dragged by its <title bar>.
 
-In LiveCode, setting this property sets the stack's <decorations>
+In OpenXTalk, setting this property sets the stack's <decorations>
 <property> to "title". Setting the <stack|stack's> <draggable> back to
 false does not change the <stack|stack's> decorations.
 
@@ -30,7 +30,7 @@ Setting the <draggable> <property> causes the <stack window> to flash
 briefly. 
 
 References: property (glossary), title bar (glossary),
-SuperCard (glossary), LiveCode (glossary), stack window (glossary),
+SuperCard (glossary), OpenXTalk (glossary), stack window (glossary),
 title (keyword), stack (object), decorations (property),
 systemWindow (property), zoomBox (property)
 

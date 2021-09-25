@@ -30,7 +30,7 @@ specifying the <keyword> 'printer:' as the file to read from.
 To write data to the printer port, use the <write to file> <command>.
 
 To use the modem port on Mac OS systems, use the 'modem:' <keyword>.
-(LiveCode does not support additional serial <port|ports>.) To use
+(OpenXTalk does not support additional serial <port|ports>.) To use
 serial <port|ports> on <Windows|Windows systems>, use the <COMn:|COM1:>
 through <COMn:|COM9:> <keyword|keywords>.
 

@@ -16,13 +16,13 @@ OS: mac, windows, linux, ios, android
 Platforms: desktop, server, mobile
 
 Example:
-create widget "My Navbar" as "com.livecode.widget.navbar"
+create widget "My Navbar" as "com.OpenXTalk.widget.navbar"
 
 Example:
 create group "Swatches"
 repeat with x = 1 to 20
     create invisible widget ("Color Swatch" \
-          && x) as "com.livecode.widget.colorswatch" in group "Swatches"
+          && x) as "com.OpenXTalk.widget.colorswatch" in group "Swatches"
 end repeat
 
 Parameters:
@@ -64,11 +64,11 @@ chosen.
 
 >*Note:* The <LCB extension|extension> of the specified <kind> must have
 > been loaded using the <load extension> command. To see a list of the
-> currently loaded <LiveCode Builder extension|extensions>, use the
+> currently loaded <OpenXTalk Builder extension|extensions>, use the
 > <loadedExtensions> <function>.
 
 References: load extension (command), loadedExtensions (function),
-LiveCode Builder extension (glossary), it (keyword), widget (object),
+OpenXTalk Builder extension (glossary), it (keyword), widget (object),
 card (object), group (object), kind (property), visible (property)
 
 Tags: objects, extensions

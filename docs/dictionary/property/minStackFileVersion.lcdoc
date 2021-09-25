@@ -20,7 +20,7 @@ Example:
 save this stack with format (the minStackFileVersion of this stack)
 
 Value (string):
-The <minStackFileVersion> <property> of a <stack> is a LiveCode version
+The <minStackFileVersion> <property> of a <stack> is a OpenXTalk version
 string. The <minStackFileVersion> <property> is read only and determined
 by the content of the stack file.
 

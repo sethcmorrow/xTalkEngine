@@ -31,7 +31,7 @@ if 'the <errorMode> ' is <stderr> and the default error handler is
 triggered. 
 
 When you use the <write to file> <command> with the <stderr> <keyword>,
-LiveCode writes data to the <standard error> location.
+OpenXTalk writes data to the <standard error> location.
 
 Support for using <stderr> on Server was added in version 4.6.3.
 

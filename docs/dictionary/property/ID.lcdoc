@@ -41,8 +41,8 @@ greater number than its current <ID>.
 
 You can set the <ID> of an <image>. Be careful not to set an <image> ID
 to a number that's the <ID> of another <object(glossary)> in the same
-<stack> : since LiveCode uses IDs to keep track of <object|objects>, a
-conflict may prevent LiveCode from being able to access one or both
+<stack> : since OpenXTalk uses IDs to keep track of <object|objects>, a
+conflict may prevent OpenXTalk from being able to access one or both
 <object|objects>. The following ID numbers are reserved and should not
 be used for <image> IDs:
 
@@ -104,7 +104,7 @@ If an object's name is empty, getting its <name> yields its <ID>
 <property> instead.
 
 >*Important:* If a <stack> was originally created with <HyperCard> and
-> then imported into LiveCode, the <ID> of each <control> in the <stack>
+> then imported into OpenXTalk, the <ID> of each <control> in the <stack>
 > is guaranteed unique only within its <domain>. (You can check a
 > <stack|stack's> <HCStack> <property> to determine whether it began
 > life in <HyperCard>. )

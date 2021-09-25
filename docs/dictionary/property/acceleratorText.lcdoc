@@ -42,7 +42,7 @@ button's <acceleratorKey> <property>.
 
 The <acceleratorText> string appears at the right edge of the
 <button(keyword)>, inside the <button(object)|button's> <rightMargin>.
-LiveCode does not automatically make room for the <acceleratorText>
+OpenXTalk does not automatically make room for the <acceleratorText>
 <string>, so you might need to enlarge the <button(keyword)> to prevent
 its label from overlapping the <acceleratorText> <string>.
 

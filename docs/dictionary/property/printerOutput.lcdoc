@@ -42,7 +42,7 @@ depends on the printer driver
 -   preview: output to print preview (only supported on Mac OS X).
 -   system: output in a system-specific mode. This setting is read-only,
     and can occur if you configure an output in the answer printer
-    dialog that LiveCode does not recognise (e.g. WorkFlow output
+    dialog that OpenXTalk does not recognise (e.g. WorkFlow output
     options on Mac OS X 10.4 and above).
 
 

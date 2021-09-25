@@ -47,7 +47,7 @@ is that one is a <function call> and the other is a <command>.
 >*Important:*  The <revdb_execute> <function> is part of the 
 > <Database library>. To ensure that the <function> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure both the 
 > "Database" library checkbox and those of the database drivers you are 
@@ -58,7 +58,7 @@ execute (glossary), record (glossary),
 Standalone Application Settings (glossary),
 standalone application (glossary), function call (glossary),
 SQL query (glossary), command (glossary),
-LiveCode custom library (glossary), Database library (library)
+OpenXTalk custom library (glossary), Database library (library)
 
 Tags: database
 

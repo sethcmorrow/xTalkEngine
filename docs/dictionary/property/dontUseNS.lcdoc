@@ -5,7 +5,7 @@ Type: property
 Syntax: set the dontUseNS to {true | false}
 
 Summary:
-Specifies whether LiveCode uses old-style <file dialog box|file dialog
+Specifies whether OpenXTalk uses old-style <file dialog box|file dialog
 boxes> or Navigation Services <file dialog box|file dialog boxes> on
 <Mac OS|Mac OS systems>.
 
@@ -30,13 +30,13 @@ of <file dialog box|file dialog boxes>.
 
 On Mac OS systems with Navigation Services installed, applications can
 use a new implementation of the standard file dialog boxes. Navigation
-Services dialogs have a title bar and are movable. By default, LiveCode
+Services dialogs have a title bar and are movable. By default, OpenXTalk
 supports Navigation Services and uses the new dialog boxes. To disable
 this feature and use the old-style modal dialog boxes for file actions,
 set the <dontUseNS> <property> to true.
 
 The setting of this property affects all file dialog boxes used in
-LiveCode, including the dialogs displayed by the <ask file>, 
+OpenXTalk, including the dialogs displayed by the <ask file>, 
 <answer file>, and <answer folder> <command|commands>, as well as 
 <dialog box|dialog boxes> displayed by <menu item|menu items> such as 
 "Save" and "Open Stack". 
@@ -45,7 +45,7 @@ LiveCode, including the dialogs displayed by the <ask file>,
 > version 8.6 and later. Earlier versions may optionally be installed on
 > systems with <Mac OS> versions 8.1 and 8.5. Versions of Navigation
 > Services earlier than 1.1.2 may not display 
-> <file dialog box|file dialogs> correctly in LiveCode.
+> <file dialog box|file dialogs> correctly in OpenXTalk.
 
 References: ask file (command), ask file with type (command), 
 answer file (command), answer folder (command), property (glossary), 

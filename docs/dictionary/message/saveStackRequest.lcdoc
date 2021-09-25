@@ -32,7 +32,7 @@ creates temporary <object|objects> that should not be saved with the
 
 The save action is triggered by the <saveStackRequest> <message>. This
 means that <trap|trapping> the <saveStackRequest> <message> and not
-<pass|passing> it prevents the <stack> from being saved. The LiveCode
+<pass|passing> it prevents the <stack> from being saved. The OpenXTalk
 IDE locks messages when Save or Save As... are chosen from the File menu
 to ensure that the save occurs.
 

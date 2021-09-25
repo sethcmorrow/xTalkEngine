@@ -32,7 +32,7 @@ multiple <characters> and multiple <item|items> or <word|words>, but
 not multiple <line|lines>.
 
 >*Note:*  <segment|Segments> are delimited by <double quote|double quotes> ("), 
-> but not by curved quotes (“ or ”). LiveCode does not treat curved 
+> but not by curved quotes (“ or ”). OpenXTalk does not treat curved 
 > quotes as <quote|quotes>.
 
 References: number (function), segment (keyword), words (keyword),

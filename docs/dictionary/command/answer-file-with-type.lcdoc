@@ -26,7 +26,7 @@ Example:
 answer file "Input:" with "/Macintosh HD/"
 
 Example:
-answer file (field "Prompt") with type "LiveCode Stacks|rev|RSTK"
+answer file (field "Prompt") with type "OpenXTalk Stacks|rev|RSTK"
 
 Example:
 answer files "Select the images you wish to view:" with type "JPEG Images|jpg|JPEG"
@@ -84,7 +84,7 @@ To give a <dialog box> a prompt when using the as sheet form a non-empty
 title must be provided. This will cause the prompt to appear in the same
 place it would if as sheet was not being used.
 
-If the systemFileSelector <property> is set to false, LiveCode's
+If the systemFileSelector <property> is set to false, OpenXTalk's
 built-in <dialog box> is used instead of the operating system's 
 <file dialog box|standard file dialog>.
 

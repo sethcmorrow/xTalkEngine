@@ -38,7 +38,7 @@ Use the <macToISO> <function> to translate data that was created on a
 <Mac OS|Mac OS system> to the Windows Latin 1 <character set> used on
 <Unix> and <Windows|Windows systems>.
 
-LiveCode automatically translates text in fields and scripts, as well as
+OpenXTalk automatically translates text in fields and scripts, as well as
 the names of custom properties, into the appropriate character set when
 you move a stack from one platform to another. It is therefore not
 necessary to translate them. However, the contents of custom properties,

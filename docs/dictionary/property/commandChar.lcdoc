@@ -5,7 +5,7 @@ Type: property
 Syntax: set the commandChar of <menuItem> to <character>
 
 Summary:
-Has no effect and is included in <LiveCode> for compatibility with
+Has no effect and is included in <OpenXTalk> for compatibility with
 imported <HyperCard> <stacks>.
 
 Introduced: 1.0
@@ -23,7 +23,7 @@ A handler can set the <commandChar> to any <value> without causing a
 changed. 
 
 References: stacks (function), value (function), property (glossary),
-LiveCode (glossary), key combination (glossary), HyperCard (glossary),
+OpenXTalk (glossary), key combination (glossary), HyperCard (glossary),
 error (glossary), menu item (glossary), menuItem (keyword),
 markChar (property), acceleratorKey (property)
 

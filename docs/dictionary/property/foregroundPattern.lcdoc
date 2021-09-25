@@ -30,11 +30,11 @@ Value:
 The <foregroundPattern> of an <object(glossary)> is a pattern specifier.
 A <patternNumber> is a built-in pattern number between 1 and 164. These
 patterns are provided for compatibility with patterns available in
-MetaCard and correspond to LiveCode's built in image id 137 to 300. As
+MetaCard and correspond to OpenXTalk's built in image id 137 to 300. As
 with MetaCard pattern numbers 105 to 114 and 146 and above are 
 unavailable.
 
-An <imageID> is the ID of an <image> to use for a pattern. LiveCode
+An <imageID> is the ID of an <image> to use for a pattern. OpenXTalk
 looks for the specified <image> first in the <current stack>, then in
 other open <stacks>.
 

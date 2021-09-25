@@ -37,7 +37,7 @@ The list of process names is in the same order used by openProcessIDs
 <function>, which is the same order that the <process|processes> were
 opened. 
 
-Programs that were not started by LiveCode are not included in the list
+Programs that were not started by OpenXTalk are not included in the list
 returned by the <openProcesses> <function>.
 
 References: open process (command), kill (command),

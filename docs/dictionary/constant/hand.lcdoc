@@ -28,7 +28,7 @@ The following two statements are equivalent:
     
     set the cursor to 28
 
-However, the first is easier to read and understand in LiveCode.
+However, the first is easier to read and understand in OpenXTalk.
 
 >*Important:*  If you use the hand cursor or other standard cursors in
 > your application, you must include it when you create your standalone.

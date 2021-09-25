@@ -60,7 +60,7 @@ the <node|node's> start and end <tag|tags>.
 >*Important:*  The <revXMLPutIntoNode> <command> is part of the 
 > <XML library>. To ensure that the <command> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the "XML" 
 > checkbox is checked.
@@ -70,7 +70,7 @@ result (function), uniDecode (function), revXMLCreateTree (function),
 revXMLCreateTreeFromFile (function), XML tree (glossary),
 Standalone Application Settings (glossary), tag (glossary),
 standalone application (glossary), Unicode (glossary), node (glossary),
-command (glossary), LiveCode custom library (glossary),
+command (glossary), OpenXTalk custom library (glossary),
 XML library (library)
 
 Tags: text processing

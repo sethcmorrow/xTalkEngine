@@ -22,13 +22,13 @@ set the HCAddressing of stack nextImport to true
 
 Value (bool):
 The <HCAddressing> of a <stack> is true or false.
-By default, the <HCAddressing> of <stacks> you create in LiveCode is set
+By default, the <HCAddressing> of <stacks> you create in OpenXTalk is set
 to false.
 
 Description:
 Use the <HCAddressing> <property> for compatibility with <HyperCard>.
 
-When you open a HyperCard stack and convert it to a LiveCode stack, the
+When you open a HyperCard stack and convert it to a OpenXTalk stack, the
 new stack's <HCAddressing> <property> is set to true.
 
 If the <HCAddressing> <property> is set to true,

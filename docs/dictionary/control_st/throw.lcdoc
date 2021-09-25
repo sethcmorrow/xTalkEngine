@@ -34,7 +34,7 @@ within a <try> <control structure>.
 **Form:** The <throw> <statement> appears on a line by itself, anywhere 
 inside a <handler>.
 
-If LiveCode generates the error (for example, an execution error from a
+If OpenXTalk generates the error (for example, an execution error from a
 built-in command), it returns a positive number to the <try> 
 <control structure>. To avoid confusion, therefore, a <throw> 
 <control structure> should return a <negative> number, or a 

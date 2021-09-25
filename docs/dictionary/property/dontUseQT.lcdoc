@@ -52,7 +52,7 @@ if <dontUseQT> is false:
 * Using the <QTVersion> function
 
 
->*Tip:*  It may take LiveCode a second or two to load the code needed to
+>*Tip:*  It may take OpenXTalk a second or two to load the code needed to
 > use QuickTime, depending on the machine speed. Since this code is only
 > loaded into memory once per session, you can speed up the first
 > occurrence of an action listed above by calling the QTVersion func
@@ -62,15 +62,15 @@ if <dontUseQT> is false:
 The setting of this property has no effect on Unix and Windows systems.
 
 Changes:
-The use of <QuickTime> was deprecated in version 8.1 of LiveCode with
+The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk with
 new defaults for <dontUseQT> and <dontUseQTEffects> as true on all
-systems apart from pre OS X 10.8. The Windows build of LiveCode no
+systems apart from pre OS X 10.8. The Windows build of OpenXTalk no
 longer supports any <QuickTime> features and setting the <dontUseQT> and
 <dontUseQTEffects> will have no effect. Additionally <QuickTime> does 
 not include 64 bit support and therefore can not be supported on OS X 64
-bit builds of LiveCode.
+bit builds of OpenXTalk.
 
-In LiveCode 6.7.0 the default for <dontUseQT> was changed from false to
+In OpenXTalk 6.7.0 the default for <dontUseQT> was changed from false to
 true on OS X 10.8 and up because of the implementation of the 
 AVFoundation player on Windows.
 

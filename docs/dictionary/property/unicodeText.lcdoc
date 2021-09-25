@@ -36,7 +36,7 @@ Description:
 Use the <unicodeText> <property> to set or get the contents of a field 
 or button as UTF-16.
 
->*Important:* As of LiveCode 7.0 the unicodeText property has been 
+>*Important:* As of OpenXTalk 7.0 the unicodeText property has been 
 deprecated. It will continue to work as in previous versions but should 
 not be used in new code as the existing behaviour is incompatible with 
 the new, transparent Unicode handling (the resulting value will be 

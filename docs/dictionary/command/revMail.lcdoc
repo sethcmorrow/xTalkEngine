@@ -20,7 +20,7 @@ Example:
 revMail "help@example.com",,"Help!",field "Message"
 
 Example:
-revMail "support@livecode.com","me@example.org","Installation Help"
+revMail "support@OpenXTalk.com","me@example.org","Installation Help"
 
 Example:
 revMail the bugAddress of this stack,,"Auto Bug Report",myBugsList
@@ -59,7 +59,7 @@ Description:
 Use the <revMail> <command> to create an email message from within a
 <stack>. 
 
-When LiveCode executes the <revMail> <command>, the user's email program
+When OpenXTalk executes the <revMail> <command>, the user's email program
 is opened (if necessary) and a new email message with the specified
 <parameter|parameters> is created. The user can change any of the
 settings before sending the message, and the message is not 

@@ -28,7 +28,7 @@ A single <segment> can contain multiple <characters> and multiple <item|items>,
 but not multiple <line|lines>.
 
 >*Note:*  <segment|Segments> are <delimit|delimited> by <double quote|double quotes> ("), 
-> but not by curved quotes (“ or ”). LiveCode does not 
+> but not by curved quotes (“ or ”). OpenXTalk does not 
 > treat curved quotes as quotes.
 
 References: quoted (glossary), chunk expression (glossary), double quote (glossary), 

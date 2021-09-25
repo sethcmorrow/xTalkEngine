@@ -40,7 +40,7 @@ and the default rendering used instead.
 >*Note:* The required size of the <compositorCacheLimit> can be
 > determined by the objects whose <layerMode> property is set to
 > 'dynamic'. The compositorCacheLimit should be set to the amount of
-> memory the LiveCode engine needs to cache them. If you have 10 layers
+> memory the OpenXTalk engine needs to cache them. If you have 10 layers
 > all 400x400 pixels, you need roughly 10*400*400*4 bytes.
 > Experimentation is required to find the optimal value.
 

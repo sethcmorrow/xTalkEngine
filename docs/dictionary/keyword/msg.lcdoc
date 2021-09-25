@@ -29,7 +29,7 @@ to the object that modified it. If the <msgChanged> <message> is
 unhandled or passed then the value of <msg> will be written to the
 system log or in no ui mode (command line) to <stdout>.
 
-In LiveCode IDE <msg> and the <msgChanged> <message> are used to implement
+In OpenXTalk IDE <msg> and the <msgChanged> <message> are used to implement
 the message box.
 
 References: put (command), msgChanged (message), keyword (glossary),

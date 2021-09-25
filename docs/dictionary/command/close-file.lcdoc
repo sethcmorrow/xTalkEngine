@@ -30,7 +30,7 @@ close file (specialFolderPath("desktop") & "/text.txt")
 Parameters:
 filePath:
 The name and location of the file you want to close. If you specify a
-name but not a location, LiveCode assumes the file is in the
+name but not a location, OpenXTalk assumes the file is in the
 defaultFolder. 
 
 The result:

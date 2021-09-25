@@ -43,7 +43,7 @@ method is being called specifically within that resource.
 
 
 References: revXMLRPC_SetPath (command), revXMLRPC_GetMethod (command),
-result (function), LiveCode custom library (glossary),
+result (function), OpenXTalk custom library (glossary),
 Standalone Application Settings (glossary),
 standalone application (glossary), command (glossary),
 XML-RPC document (glossary), XML-RPC library (library),

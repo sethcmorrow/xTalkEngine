@@ -11,7 +11,7 @@ effective font attribute of the given object.
 Introduced: 6.5
 
 Deprecated:
-In LiveCode 7.0 the language was changed to handle unicode
+In OpenXTalk 7.0 the language was changed to handle unicode
 transparently. This means that language functionality which previously
 aided unicode text manipulation is no longer required. This function
 should not be used in new code. measureUnicodeText(tText) is equivalent

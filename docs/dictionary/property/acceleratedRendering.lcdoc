@@ -23,12 +23,12 @@ Stack:
 The name or ID of the stack.
 
 Description:
-Use the acceleratedRendering property to put LiveCode into accelerated
+Use the acceleratedRendering property to put OpenXTalk into accelerated
 rendering mode and set the compositor properties to recommended
 defaults. 
 
 The <acceleratedRendering> property has been added to help simplify the
-use of the accelerated rendering features. When set to true, LiveCode
+use of the accelerated rendering features. When set to true, OpenXTalk
 automatically configures the compositor properties to the best defaults
 for the current platform.
 

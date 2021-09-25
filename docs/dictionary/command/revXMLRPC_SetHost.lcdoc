@@ -18,7 +18,7 @@ Platforms: desktop, server, mobile
 Security: disk, process
 
 Example:
-revXMLRPC_SetHost theRequest,"www.livecode.com"
+revXMLRPC_SetHost theRequest,"www.OpenXTalk.com"
 
 Example:
 revXMLRPC_SetHost myRequest,"example.com",10000
@@ -47,7 +47,7 @@ port that is the target of the execution of an <XML-RPC> request.
 
 
 References: revXMLRPC_SetPort (command), result (function),
-revXMLRPC_GetHost (function), LiveCode custom library (glossary),
+revXMLRPC_GetHost (function), OpenXTalk custom library (glossary),
 Standalone Application Settings (glossary),
 standalone application (glossary), command (glossary),
 XML-RPC (glossary), XML-RPC library (library),

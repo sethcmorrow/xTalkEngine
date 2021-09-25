@@ -16,7 +16,7 @@ OS: mac, windows, linux
 Platforms: desktop, server
 
 Example:
-get the md5Digest of "LiveCode"
+get the md5Digest of "OpenXTalk"
 
 Example:
 put textEncode("Message to verify", "UTF-8") into tMessage

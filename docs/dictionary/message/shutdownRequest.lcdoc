@@ -37,7 +37,7 @@ most reliable approach is to install a library stack or backscript to
 handle the message when your application starts up.
 
 On OS X and Unix systems, if the operating system sends a SIGTERM signal
-to the application, LiveCode sends a <shutdownRequest> <message> to the
+to the application, OpenXTalk sends a <shutdownRequest> <message> to the
 <current stack>. <pass|Passing> the <message> causes the application to
 quit normally. If the <message> is <trap|trapped>, the signal is
 ignored. 

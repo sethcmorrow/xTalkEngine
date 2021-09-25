@@ -47,14 +47,14 @@ The first application started up (with the <open process> or <launch>
 <command>) during a session is assigned the number 1, the second is
 assigned the number 2, and so on. After an application quits, its
 <process> number is not re-used, so you can use the <openProcessIDs>
-<function> to determine how many times LiveCode has started up an
+<function> to determine how many times OpenXTalk has started up an
 application during the current session.
 
 The list of process IDs is in the same order used by openProcesses
 <function>, which is the same order that the <process|processes> were
 opened. 
 
-Programs that were not started by LiveCode are not included in the list
+Programs that were not started by OpenXTalk are not included in the list
 returned by the <openProcessIDs> <function>.
 
 References: launch (command), kill (command), open process (command),

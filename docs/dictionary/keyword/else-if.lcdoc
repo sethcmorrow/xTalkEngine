@@ -36,7 +36,7 @@ If the <condition> <evaluate|evaluates> to false, the <statement> or
 skipped.)
 
 statementList:
-Of one or more <LiveCode> <statement|statements>, and can also include
+Of one or more <OpenXTalk> <statement|statements>, and can also include
 <if>, <switch>, <try>, or <repeat> <control structure|control
 structures>. 
 

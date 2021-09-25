@@ -5,7 +5,7 @@ Type: property
 Syntax: set the printRotated to {true | false}
 
 Summary:
-Specifies whether LiveCode prints in <landscape|landscape mode> or
+Specifies whether OpenXTalk prints in <landscape|landscape mode> or
 <portrait|portrait mode>. Deprecated.
 
 Introduced: 1.0

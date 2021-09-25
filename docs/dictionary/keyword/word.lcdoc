@@ -35,7 +35,7 @@ but not multiple <line|lines>.
 
 >*Note:* <Words(keyword)> are <delimit|delimited> by 
 > <double quote|double quotes> ("), but not by curved quotes 
-> (&ldquo;&rdquo;). LiveCode does not treat curved quotes as 
+> (&ldquo;&rdquo;). OpenXTalk does not treat curved quotes as 
 > <double quote|quotes>.
 
 >*Note:* To refer to actual words in a chunk expression, i.e., words 

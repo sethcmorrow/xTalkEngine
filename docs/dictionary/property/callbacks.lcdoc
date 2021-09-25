@@ -32,7 +32,7 @@ Use the <callbacks> <property> to send <callback|callback messages> to a
 <player(keyword)> at certain points in the movie. This
 <synchronize|synchronizes> the <message|messages> with the playback.
 
-When an interval number is reached during playback, LiveCode sends the
+When an interval number is reached during playback, OpenXTalk sends the
 corresponding message to the player.
 
 The number of intervals per second is specified by the player's

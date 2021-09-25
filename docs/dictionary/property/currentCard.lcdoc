@@ -29,7 +29,7 @@ put the currentCard of this stack
 Example:
 -- The currentCard property can be retrieved or set for a
 -- stack that is not currently an opened file
-set currentCard of stack "~/Desktop/example.livecode" \
+set currentCard of stack "~/Desktop/example.OpenXTalk" \
       to "ExampleCardName"
 
 Value: The short name of a card in a stack

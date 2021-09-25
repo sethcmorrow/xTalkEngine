@@ -6,7 +6,7 @@ Syntax: revStopAnimation <animationName>
 
 Summary:
 No longer supported and included for backwards compatibility, halts an
-animation created with the Animation Builder in LiveCode versions older
+animation created with the Animation Builder in OpenXTalk versions older
 than 2.5.
 
 Associations: animation library
@@ -28,7 +28,7 @@ card.
 
 Description:
 The <revStopAnimation> command is no longer supported as the Animation
-Builder was removed in LiveCode 2.5, however it is included for
+Builder was removed in OpenXTalk 2.5, however it is included for
 backwards compatibility with older applications that used the Animation
 Builder. 
 
@@ -37,7 +37,7 @@ Use the <revStopAnimation> <command> from within a <handler> that's
 playing. 
 
 Animations were created using the Animation Builder in old versions of
-LiveCode. The Animation builder is no longer available.
+OpenXTalk. The Animation builder is no longer available.
 
 The <animationName> must be an animation that was created on the
 <current card> of the <defaultStack>.
@@ -45,7 +45,7 @@ The <animationName> must be an animation that was created on the
 >*Important:*  The <revStopAnimation> <command> is part of the 
 > <Animation library>. To ensure that the <command> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the "Animation" 
 > library checkbox is checked.
@@ -56,7 +56,7 @@ main stack (glossary), handler (glossary), key frame (glossary),
 Standalone Application Settings (glossary), group (glossary),
 standalone application (glossary), trigger (glossary), message (glossary),
 command (glossary), application (glossary),
-LiveCode custom library (glossary), Animation library (library),
+OpenXTalk custom library (glossary), Animation library (library),
 library (library), startup (message), openBackground (message),
 preOpenStack (message), openStack (message), defaultStack (property)
 

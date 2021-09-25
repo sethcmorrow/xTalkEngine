@@ -39,7 +39,7 @@ The <answer record> <command> displays a <dialog box> where the user can
 select a sound compression format, rate, sampling rate, and whether to
 record in mono or stereo. Depending on the compression format, other
 options may also be offered. (This <dialog box> is displayed by
-<QuickTime>, not by LiveCode.) The settings the user chooses will be
+<QuickTime>, not by OpenXTalk.) The settings the user chooses will be
 used the next time the <record sound> <command> is used.
 
 The <answer record> <command> sets the <recordCompression>,
@@ -50,13 +50,13 @@ re-displaying the <dialog box|dialog>, save the values of these
 <properties>, then restore them when you want to record sound.
 
 Changes:
-The use of <QuickTime> was deprecated in version 8.1 of LiveCode with
+The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk with
 new defaults for <dontUseQT> and <dontUseQTEffects> as true on all
-systems apart from pre OS X 10.8. The Windows build of LiveCode no
+systems apart from pre OS X 10.8. The Windows build of OpenXTalk no
 longer supports any <QuickTime> features and setting the <dontUseQT> and
 <dontUseQTEffects> will have no effect. Additionally <QuickTime> does 
 not include 64 bit support and therefore can not be supported on OS X 64
-bit builds of LiveCode.
+bit builds of OpenXTalk.
 
 References: answer effect (command), record sound (command),
 function (control structure), result (function),

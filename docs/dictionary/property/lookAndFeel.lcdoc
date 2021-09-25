@@ -66,7 +66,7 @@ up drawing of <control|controls>.
 
 Changes:
 The "Appearance Manager" option was introduced in version 1.1. In
-previous versions, LiveCode applications always used the Platinum
+previous versions, OpenXTalk applications always used the Platinum
 appearance on Mac OS systems, regardless of which theme was selected on
 the user's system.
 

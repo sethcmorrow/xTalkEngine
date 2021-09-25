@@ -8,7 +8,7 @@ Syntax: commandNames()
 
 Summary:
 <return|Returns> a list of all built-in <command|commands> in
-<LiveCode>. 
+<OpenXTalk>. 
 
 Introduced: 1.0
 
@@ -28,14 +28,14 @@ names, one per <line>.
 
 Description:
 Use the <commandNames> <function> to check whether a particular
-<command> already exists in <LiveCode>, to avoid using a <reserved word>
+<command> already exists in <OpenXTalk>, to avoid using a <reserved word>
 for your own custom <handler|handlers>.
 
 The <commandNames> <function> <return|returns> all the
-<command|commands> that can be used in <LiveCode>, including synonyms.
+<command|commands> that can be used in <OpenXTalk>, including synonyms.
 
 References: on (control structure), function (control structure),
 propertyNames (function), functionNames (function), handler (glossary),
-LiveCode (glossary), command (glossary), return (glossary),
+OpenXTalk (glossary), command (glossary), return (glossary),
 reserved word (glossary), line (keyword)
 

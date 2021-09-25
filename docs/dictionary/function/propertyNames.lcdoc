@@ -7,7 +7,7 @@ Syntax: the propertyNames
 Syntax: propertyNames()
 
 Summary:
-<return|Returns> a list of all built-in <properties> in <LiveCode>.
+<return|Returns> a list of all built-in <properties> in <OpenXTalk>.
 
 Introduced: 1.0
 
@@ -27,17 +27,17 @@ names, one per <line>.
 
 Description:
 Use the <propertyNames> <function> to check whether a particular
-<property> already exists in <LiveCode>, to avoid using a 
+<property> already exists in <OpenXTalk>, to avoid using a 
 <reserved word> for your own <custom property|custom properties>.
 
 The <propertyNames> <function> <return|returns> all the
-<property|properties> that can be used in <LiveCode>, including
+<property|properties> that can be used in <OpenXTalk>, including
 synonyms. 
 
 References: setProp (control structure), function (control structure),
 constantNames (function), functionNames (function),
 commandNames (function), colorNames (function), property (glossary),
-custom property (glossary), LiveCode (glossary), return (glossary),
+custom property (glossary), OpenXTalk (glossary), return (glossary),
 reserved word (glossary), line (keyword), properties (property),
 customProperties (property)
 

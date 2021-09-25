@@ -38,7 +38,7 @@ false, the <application> uses its own <file dialog box|file dialog
 boxes>. 
 
 The setting of this property affects all file dialog boxes used in
-LiveCode, including dialogs displayed by the <ask file>, <answer file>,
+OpenXTalk, including dialogs displayed by the <ask file>, <answer file>,
 and <answer folder> <command|commands>, as well as <dialog box|dialog
 boxes> displayed by <menu item|menu items> such as "Save" and
 "Open Stack". 

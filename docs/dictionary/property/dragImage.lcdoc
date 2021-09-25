@@ -32,7 +32,7 @@ operation. Typically, a control will want to use a pre-existing image
 object, or create a temporary object in <dragStart> that it deletes when
 it receives <dragEnd>.
 
-LiveCode looks for the specified image in the following order:
+OpenXTalk looks for the specified image in the following order:
 
 1. The stack of the current object's <behavior> (if applicable)
 2. The stack of the owner of the current object's <behavior> (if
@@ -44,7 +44,7 @@ applicable) ...
 7. The list of open stacks, in order they were loaded
 
 Changes:
-The order in which LiveCode searches for drag images was changed in
+The order in which OpenXTalk searches for drag images was changed in
 version 3.5. Previously, the current stack was searched first, followed
 by the list of open stacks.
 

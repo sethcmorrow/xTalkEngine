@@ -25,7 +25,7 @@ Description:
 Use the <frameRate> <property> to speed up or slow down a movie.
 
 The <frameRate> is the number of <milliseconds> to wait between
-<frame|frames>. If the <frameRate> is zero, LiveCode uses the frame rate
+<frame|frames>. If the <frameRate> is zero, OpenXTalk uses the frame rate
 built into the movie.
 
 The setting of this property has no effect on Windows systems.

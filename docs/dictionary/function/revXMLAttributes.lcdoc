@@ -54,7 +54,7 @@ If the <revXMLAttributes> <function> encounters an error, it
 >*Important:*  The <revXMLAttributes> <function> is part of the 
 > <XML library>. To ensure that the <function> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the "XML" 
 > checkbox is checked.
@@ -65,7 +65,7 @@ revXMLText (function), revXMLAttribute (function),
 revXMLMatchingNode (function), revXMLChildContents (function),
 node (glossary), Standalone Application Settings (glossary),
 loop (glossary), attribute (glossary), return (glossary),
-standalone application (glossary), LiveCode custom library (glossary),
+standalone application (glossary), OpenXTalk custom library (glossary),
 string (keyword), XML library (library)
 
 Tags: text processing

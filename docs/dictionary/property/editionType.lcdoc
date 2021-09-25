@@ -15,7 +15,7 @@ Platforms: desktop, server, mobile
 
 Example:
 if the editionType is "community" then
-   displayMessage "Built with LiveCode Community"
+   displayMessage "Built with OpenXTalk Community"
 end if
 
 Value:
@@ -30,11 +30,11 @@ The global property the editionType can be used to determine what
 edition of the engine is currently running.
 
 The editionType returns "community" if the currently running engine is
-the LiveCode Community IDE or a standalone built with LiveCode
+the OpenXTalk Community IDE or a standalone built with OpenXTalk
 Community. 
 
 The editionType returns "commercial" if the currently running engine is
-the LiveCode Commercial IDE or a standalone built with LiveCode
+the OpenXTalk Commercial IDE or a standalone built with OpenXTalk
 Commercial. 
 
 References: revLicenseType (function), version (function)

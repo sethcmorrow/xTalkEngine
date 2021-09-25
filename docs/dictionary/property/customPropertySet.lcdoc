@@ -50,7 +50,7 @@ property set named "myCustomSet" :
 
 If using arbitrary custom property names, be aware that it won't be
 possible to access them by changing the <customPropertySet> if they
-clash with LiveCode language keywords. Instead, either use the array
+clash with OpenXTalk language keywords. Instead, either use the array
 style notation above, or use a prefix to prevent name clashes (for
 example "uName" instead of "name" ).
 

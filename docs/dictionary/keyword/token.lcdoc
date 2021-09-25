@@ -5,7 +5,7 @@ Type: keyword
 Syntax: token
 
 Summary:
-Designates a <LiveCode> token as part of a <chunk expression>.
+Designates a <OpenXTalk> token as part of a <chunk expression>.
 
 Introduced: 1.0
 
@@ -26,7 +26,7 @@ Example:
 get token 3 of "a+b" -- yields b
 
 Description:
-Use the <token> keyword to parse a LiveCode statement.
+Use the <token> keyword to parse a OpenXTalk statement.
 
 A token is a string of characters delimited by certain punctuation
 marks. The rules for deciding what a token is are as follows:
@@ -42,10 +42,10 @@ marks. The rules for deciding what a token is are as follows:
 A single token can contain multiple characters, but not multiple words,
 items, or lines.
 
->*Note:* The token chunk is implemented for the LiveCode language, and
+>*Note:* The token chunk is implemented for the OpenXTalk language, and
 > probably isn't suitable for use in a general-purpose language parser.
 
-References: chunk expression (glossary), LiveCode (glossary),
+References: chunk expression (glossary), OpenXTalk (glossary),
 word (keyword), real8 (keyword)
 
 Tags: text processing

@@ -32,7 +32,7 @@ stacks> are currently available.
 
 Stacks that have not yet been saved are included in the list.
 
-The list includes stacks that are part of the LiveCode development
+The list includes stacks that are part of the OpenXTalk development
 environment (such as the message box and menu bar).
 
 References: function (control structure), stacks (function),

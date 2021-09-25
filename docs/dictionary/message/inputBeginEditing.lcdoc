@@ -23,7 +23,7 @@ Description:
 The <inputBeginEditing> message is sent when an mobile text input
 control has become focused and editing has commenced.
 
-Handle the <inputBeginEditing> message if you want to move LiveCode
+Handle the <inputBeginEditing> message if you want to move OpenXTalk
 controls, make changes to the interface or perform an action when the
 user starts editing text in an iosTextInput, iosMultiline,
 androidTextInput or androidMultiline control.

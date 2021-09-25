@@ -33,7 +33,7 @@ On Unix and Windows systems, <close process> closes the
 <process|process's> <standard input>. The <process> then finishes
 processing whatever data remains, and exits when done. On <Mac OS|Mac OS
 systems>, the <close process> <command> has no effect; you can use the
-<kill> <command> instead to quit an application that LiveCode launched.
+<kill> <command> instead to quit an application that OpenXTalk launched.
 
 The process takes a short time to exit after you issue the 
 <close process> <command>. Since two <process|processes> cannot have the

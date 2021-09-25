@@ -107,7 +107,7 @@ cursorType (enum):
     cursors are usually faster than scrollable static cursors, but using
     revMoveToPreviousRecord, revMoveToFirstRecord or revMoveToLastRecord
     will fail. Forward only is the default cursor type, and is what was
-    used in LiveCode 2.8.1 and earlier.
+    used in OpenXTalk 2.8.1 and earlier.
 -   "emulated static": This cursor has the same behavior as a static
     cursor, except it allows ODBC to emulate the cursor's behavior if
     the driver does not support it. ODBC can typically emulate static
@@ -126,7 +126,7 @@ order of the items in the options parameter is not important):
 
 -   "extensions": Enable loadable extensions for the connection.
 -   "binary": Places binary data into the database verbatim (without
-    LiveCode encoding).
+    OpenXTalk encoding).
 
 
 filePath (string):
@@ -251,7 +251,7 @@ only requires a minimum of 2.
 The version of the PostgreSQL library has been updated to 9.4.5.
 
 Changes:
-LiveCode 6.6
+OpenXTalk 6.6
 
 References: revSetDatabaseDriverPath (command), revExecuteSQL (command),
 revLicenseType (function), revDatabaseID (function),

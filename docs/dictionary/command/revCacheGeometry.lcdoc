@@ -32,14 +32,14 @@ internal settings for the controls on the current card, storing the
 baseline position that the automatic positioning and scaling uses as a
 starting point.
 
-The LiveCode development environment automatically executes the
+The OpenXTalk development environment automatically executes the
 <revCacheGeometry> <command> when a <resizeControl> or <moveControl>
 <message> is sent. This means that when you move or resize a <control>
 in the <development environment>, its stored Geometry baseline is
 normally updated automatically.
 
 Normally, you do not need to use the <revCacheGeometry> <command> at
-all, since LiveCode automatically updates the geometry settings when a
+all, since OpenXTalk automatically updates the geometry settings when a
 <control> is moved or resized. However, if you move or resize
 <control|controls> manually or in a <handler>, and the
 <resizeControl> or <moveControl> <message> is not sent, you may need to
@@ -54,13 +54,13 @@ message box, before changing cards or resizing the window:
 >*Important:*  The <revCacheGeometry> <command> is part of the 
 > <Geometry library>. To ensure that the <command> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the "Geometry" 
 > library checkbox is checked.
 
 References: lock messages (command), revUpdateGeometry (command),
-LiveCode custom library (glossary), application (glossary),
+OpenXTalk custom library (glossary), application (glossary),
 main stack (glossary), handler (glossary),
 development environment (glossary),
 Standalone Application Settings (glossary), message (glossary),
