@@ -1,5 +1,5 @@
 ## xTalkEngine
-`put URL "https:/forums.openxtalk.org` 
+`put URL "https:/forums.openxtalk.org"` 
 
 
 
