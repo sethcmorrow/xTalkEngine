@@ -26,7 +26,7 @@ widget:
 A widget reference.
 
 Description:
-Use the <go in widget> command to navigate within a widget. LiveCode
+Use the <go in widget> command to navigate within a widget. OpenXTalk
 sends a "OnGoBack" or "OnGoForward" message to the widget, which can
 then handle those messages to provide back / forward navigation.
 

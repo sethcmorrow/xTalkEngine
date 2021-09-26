@@ -5,7 +5,7 @@ Type: command
 Syntax: mobileAdRegister <appKey>
 
 Summary:
-Registers the application Inneractive identifier with LiveCode.
+Registers the application Inneractive identifier with OpenXTalk.
 
 Introduced: 5.5
 
@@ -23,10 +23,10 @@ Inneractive dashboard)
 
 Description:
 Use the <mobileAdRegister> command to register the application's
-Inneractive identifier with LiveCode.
+Inneractive identifier with OpenXTalk.
 
 The <mobileAdRegister> command registers the application's Inneractive
-identifier with LiveCode. All ad activity, including any revenue
+identifier with OpenXTalk. All ad activity, including any revenue
 generated, is logged against this id.
 
 This command must be called before any other ad handlers are invoked.

@@ -31,7 +31,7 @@ delete folder tChosenFolder
 Parameters:
 pathName:
 Specifies the name and location of the folder. If you specify a name but
-not a location, LiveCode assumes the folder is in the defaultFolder.
+not a location, OpenXTalk assumes the folder is in the defaultFolder.
 
 Description:
 Use the <delete folder> <command> to clean up by removing a <folder> you
@@ -57,7 +57,7 @@ without obtaining explicit confirmation from the user.
 > available as discrete files in the native filesystem. In order to
 > manage this the engine essentially 'virtualizes' the asset files you
 > include, allowing (read-only) manipulation with all the standard
-> LiveCode file and folder handling syntax.
+> OpenXTalk file and folder handling syntax.
 
 References: revDeleteFolder (command), delete URL (command),
 delete (command), revMoveFolder (command), specialFolderPath (function),

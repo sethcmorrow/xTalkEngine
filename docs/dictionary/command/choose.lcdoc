@@ -70,7 +70,7 @@ of button, field, or scrollbar by setting its style <property>.
 
 >*Note:* You must choose <tool(glossary)|tools> by name. The <HyperCard>
 > method of choosing <tool(glossary)|tools> by number is not supported
-> in LiveCode.
+> in OpenXTalk.
 
 References: select (command), palette (command), topLevel (command),
 reset cursors (command), rotate (command), drag (command), flip (command),

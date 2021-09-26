@@ -41,7 +41,7 @@ A constant cannot be defined as an array, only as a single value.
 > code. Use <constant(glossary)|constants> as substitutes for long or
 > convoluted <string|strings>. Use the prefix letter k for your constant
 > names to follow convention and make it easy to recognise. See the
-> Tips For Writing Good Code in the Livecode Script Guide.
+> Tips For Writing Good Code in the OpenXTalk Script Guide.
 
 If you place the <constant> <statement> in a <handler>, you can use the
 <constant(command)> anywhere in the <handler>. If you place the
@@ -52,14 +52,14 @@ the <constant(command)> anywhere in the <handler|handlers> of that
 Once you have defined a constant, you cannot redefine it in the same
 handler; doing so causes an execution error.
 
-You can use the <constant> <command> to redefine <LiveCode|LiveCode's>
+You can use the <constant> <command> to redefine <OpenXTalk|OpenXTalk's>
 built-in <constant(glossary)|constants> within a <script> or <handler>,
 but doing so makes your code harder to read and maintain. To find out
 whether a word is already defined as a built-in <constant(command)>, use
 the <constantNames> <function>.
 
 >*Tip:*  To see a list of built-in constants, open the Documentation
-> window, click LiveCode Dictionary, and choose "Constants" from the
+> window, click OpenXTalk Dictionary, and choose "Constants" from the
 > menu at the top of the window.
 
 References: constant (command), local (command), watch (constant),
@@ -70,7 +70,7 @@ zero (constant), seven (constant), eight (constant), CRLF (constant),
 quote (constant), empty (constant), space (constant), arrow (constant),
 six (constant), ten (constant), four (constant), two (constant),
 function (control structure), constantNames (function),
-LiveCode (glossary), value (glossary), handler (glossary),
+OpenXTalk (glossary), value (glossary), handler (glossary),
 string (glossary), statement (glossary), constant (glossary),
 keyword (glossary), command (glossary), script (property)
 

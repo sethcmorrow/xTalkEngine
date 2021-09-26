@@ -101,7 +101,7 @@ ink. You can take a snapshot of an object regardless of its visibility
 or open status - in particular, snapshots can be taken of objects that
 are not on the current card or in stacks that are not open.
 
-If you don't specify a <rectangle>, LiveCode displays a crosshairs
+If you don't specify a <rectangle>, OpenXTalk displays a crosshairs
 <cursor>. Click at one corner of the rectangle to be imported and drag
 to the opposite corner to <select> the area.
 

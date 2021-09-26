@@ -37,7 +37,7 @@ After headers have been output, the put header variant has no further
 effect. 
 
 When headers get sent, if there is not a 'Content-Type' header in the
-list, the LiveCode Server automatically sends: Content-Type: text/html.
+list, the OpenXTalk Server automatically sends: Content-Type: text/html.
 
 References: put content (command), put (command), put markup (command),
 put text (command), put binary (command), after (keyword),

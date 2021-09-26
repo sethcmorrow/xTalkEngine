@@ -53,7 +53,7 @@ message:
 Is an expression that evaluates to the name of a handler.
 
 target:
-A reference to any LiveCode object.
+A reference to any OpenXTalk object.
 
 argumentList:
 A comma separated list of expressions containing the arguments to send.

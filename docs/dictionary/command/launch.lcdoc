@@ -46,7 +46,7 @@ Description:
 Use the <launch> <command> to start an application for the user to use.
 
 When the <launch> command executes, the application being launched comes
-to the foreground. When the user quits, LiveCode comes to the
+to the foreground. When the user quits, OpenXTalk comes to the
 foreground. 
 
 If no <documentPath> is specified, the following two statements are

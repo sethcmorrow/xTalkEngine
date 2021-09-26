@@ -17,7 +17,7 @@ Example:
 do "document.location" as "JavaScript"
 
 Parameters:
-script (string): A script written in a non-LiveCode programming
+script (string): A script written in a non-OpenXTalk programming
 language.
 
 alternateLanguage (string): The name of one of the
@@ -28,7 +28,7 @@ the selected <alternateLanguage>.
 
 Description:
 Use the <do as alternateLanguage> variant of the <do> <command> to
-evaluate a <script> written in a non-LiveCode programming language.
+evaluate a <script> written in a non-OpenXTalk programming language.
 You can get a list of available languages by calling the
 <alternateLanguages> function.
 
@@ -51,7 +51,7 @@ The behavior of the <do as alternateLanguage> command is
       answer the result
 
   Any <script> which contains a reference to `WScript` will
-  fail to run, because `WScript` objects do not exist in the LiveCode
+  fail to run, because `WScript` objects do not exist in the OpenXTalk
   environment.  Put return values in a global `result` variable
   instead of using `WScript.Echo`.
 

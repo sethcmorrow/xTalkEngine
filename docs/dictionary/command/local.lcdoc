@@ -78,7 +78,7 @@ preservation turned off, script locals lose their values when the script
 is recompiled.
 
 It is recommended that naming conventions are followed for <variable>s in 
-Livecode <script>s. For handler <local variable>s prefix with a lowercase 't' 
+OpenXTalk <script>s. For handler <local variable>s prefix with a lowercase 't' 
 and for <script local variable>s prefix with a lowercase 's' (as in 
 tMyVariable and sMyVariable). This enables anyone reading the code to 
 identify the <scope> of a variable when it is used, without having to 

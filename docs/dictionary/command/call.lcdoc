@@ -27,7 +27,7 @@ any parameters that handler requires, separated by commas. The entire
 handler including parameters must be enclosed in quotes.
 
 objectRef:
-Any <object reference>. If no object is specified, LiveCode uses
+Any <object reference>. If no object is specified, OpenXTalk uses
 the current object.
 
 Description:

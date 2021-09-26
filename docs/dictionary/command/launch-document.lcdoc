@@ -17,7 +17,7 @@ Platforms: desktop
 Security: process
 
 Example:
-launch document "/myProjects/myLiveCodeProject/help.pdf"
+launch document "/myProjects/myOpenXTalkProject/help.pdf"
 
 Example:
 launch document (the cSampleImage of me)

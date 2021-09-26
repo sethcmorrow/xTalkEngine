@@ -25,7 +25,7 @@ is especially useful for checking to see whether <value|values> are
 staying in the correct <range> as the <handler> <execute|executes>.
 
 The <breakpoint> <command> has no effect unless the <stack> is running
-in the LiveCode <development environment>..
+in the OpenXTalk <development environment>..
 
 References: answer (command), do (command), value (glossary),
 handler (glossary), range (glossary), development environment (glossary),

@@ -20,9 +20,6 @@ Example:
 put specialFolderPath("engine") & "/intro_movie.mp4" into tVideoFile
 play video tVideoFile
 
-Example:
-play video "http://www.livecode.com/buildanapp.mp4"
-
 Returns:
 The <play video> command will not return until it is complete or the
 user dismisses it.

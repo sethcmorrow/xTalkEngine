@@ -26,7 +26,7 @@ delete file "My Test.rev"
 Parameters:
 pathName:
 Specifies the name and location of the file. If you specify a name but
-not a location, LiveCode assumes the file is in the defaultFolder.
+not a location, OpenXTalk assumes the file is in the defaultFolder.
 
 The result:
 If the file do not exist, is a folder, or for some other reason cannot
@@ -56,7 +56,7 @@ without obtaining explicit confirmation from the user.
 > available as discrete files in the native filesystem. In order to
 > manage this the engine essentially 'virtualizes' the asset files you
 > include, allowing (read-only) manipulation with all the standard
-> LiveCode file and folder handling syntax.
+> OpenXTalk file and folder handling syntax.
 
 References: revDeleteFolder (command), close file (command),
 delete URL (command), delete (command), command (glossary),

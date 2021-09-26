@@ -28,7 +28,7 @@ an exitCode, the exit status is 0. The exitCode must be an integer
 greater than or equal to 0.
 
 Description:
-Use the <quit> <command> to exit LiveCode (or a 
+Use the <quit> <command> to exit OpenXTalk (or a 
 <standalone application>). 
 
 Once issued, the <quit> <command> triggers a <shutdownRequest> <message>.

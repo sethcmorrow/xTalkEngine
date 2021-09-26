@@ -5,7 +5,7 @@ Type: command
 Syntax: iphoneSetRedrawInterval <frameInterval>
 
 Summary:
-Synchronizes LiveCode redraws with the device's refresh rate.
+Synchronizes OpenXTalk redraws with the device's refresh rate.
 
 Associations: stack
 
@@ -26,10 +26,10 @@ iphoneSetRedrawInterval 0 -- Don't use the redraw interval feature
 
 Parameters:
 frameInterval (enum):
-A number specifying how often LiveCode should update the screen in line
+A number specifying how often OpenXTalk should update the screen in line
 with the screen's refresh rate.
 
--   "0": Turn off synchronized redraws and revert to default LiveCode
+-   "0": Turn off synchronized redraws and revert to default OpenXTalk
     redrawing behavior.
 -   "1": Redraw every time iOS redraws.
 -   "2": Redraw on every other iOS redraw.
@@ -38,10 +38,10 @@ with the screen's refresh rate.
 
 Description:
 Use the <iphoneSetRedrawInterval> command to improve screen update
-performance and smoothness on iOS devices by tying LiveCode redraw calls
+performance and smoothness on iOS devices by tying OpenXTalk redraw calls
 to the device's refresh rate.
 
-By default, LiveCode updates the screen immediately after any command
+By default, OpenXTalk updates the screen immediately after any command
 that requires it. This means that several small screen updates may occur
 in quick succession when animation is combined with other dynamic screen
 elements. On mobile devices this can affect smoothness of animation
@@ -62,7 +62,7 @@ independently request redraws causing a build up which can lead to
 
 >*Warning:* This feature should not be used if your scripts prevent
 > system messages from being processed. For example, tight loops using
-> the wait command. Screen redraws are dependent on LiveCode receiving
+> the wait command. Screen redraws are dependent on OpenXTalk receiving
 > iOS redraw calls.
 
 References: compositorTileSize (property), layerMode (property),

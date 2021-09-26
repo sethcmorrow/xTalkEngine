@@ -52,13 +52,13 @@ data.
 
 The result:
 On failure encrypt/decrypt set the result to the appropriate
-ssl error message. To use OpenSSL functionality with LiveCode, make sure
+ssl error message. To use OpenSSL functionality with OpenXTalk, make sure
 that the openssl shared library is installed, and in a place where
-LiveCode can find it. It is pre-installed with OSX. You can download
+OpenXTalk can find it. It is pre-installed with OSX. You can download
 and build OpenSSL at www.openssl.org and distribute with your apps.
-LiveCode includes a prebuilt openssl dll which is required to use
+OpenXTalk includes a prebuilt openssl dll which is required to use
 OpenSSL for windows (libeay32.dll) which needs to be in the application,
-current, or system directory. If LiveCode cannot load SSL, it will
+current, or system directory. If OpenXTalk cannot load SSL, it will
 return the error in the result "ssl library not found".
 
 Description:

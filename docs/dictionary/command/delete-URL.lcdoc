@@ -67,7 +67,7 @@ name and password is valid, you will almost always need a user name and
 password to use the <delete URL> <command>.
 
 >*Note:*  When used with an <ftp> or <http> <URL>, the <delete URL>
-> <command> is <blocking>: that is, the <handler> pauses until LiveCode
+> <command> is <blocking>: that is, the <handler> pauses until OpenXTalk
 > is finished deleting the <URL>. Since deleting a file from a server
 > may take some time due to network lag, the <delete URL> <command> may
 > take long enough to be noticeable to the user.
@@ -75,7 +75,7 @@ password to use the <delete URL> <command>.
 >*Important:*  The <delete URL> <command> is part of the 
 > <Internet library> on desktop platforms. To ensure that the <command> 
 > works in a desktop <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the "Internet" 
 > script library is selected.
@@ -97,7 +97,7 @@ password to use the <delete URL> <command>.
 References: libURLSetFTPStopTime (command), post (command),
 delete file (command), delete folder (command),
 function (control structure), result (function),
-LiveCode custom library (glossary), application (glossary),
+OpenXTalk custom library (glossary), application (glossary),
 standalone application (glossary), statement (glossary),
 blocking (glossary),
 Standalone Application Settings (glossary), command (glossary),

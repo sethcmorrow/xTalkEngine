@@ -55,7 +55,7 @@ A <handler> may need to open a stack and then close it before the
 of objects on the screen. If the screen is locked before these changes 
 occur, the user does not see the changes happen on screen. Locking the 
 screen can prevent user confusion or unsightly screen flashing. It also 
-increases the speed of the handler, since LiveCode does not have to 
+increases the speed of the handler, since OpenXTalk does not have to 
 redraw all the intermediate states of the screen.
 
 The <lock screen> command sets the <lockScreen> property to true. When 

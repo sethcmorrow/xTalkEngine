@@ -22,11 +22,11 @@ debugDo commandsList
 
 Parameters:
 statementList:
-A LiveCode statement, a container with one or more statements, or a
+A OpenXTalk statement, a container with one or more statements, or a
 string that evaluates to a statement.
 
 Description:
-The <debugDo> <command> is used by LiveCode's <message box> and
+The <debugDo> <command> is used by OpenXTalk's <message box> and
 <debugger>. 
 
 Normally, you should use the <do> <command>; consider using <debugDo>

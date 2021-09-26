@@ -7,7 +7,7 @@ Syntax: reply <string> [with keyword <aeKeyword>]
 Syntax: reply error <string>
 
 Summary:
-<return|Returns> data to an application that sent LiveCode an 
+<return|Returns> data to an application that sent OpenXTalk an 
 <Apple Event>. 
 
 Introduced: 1.0

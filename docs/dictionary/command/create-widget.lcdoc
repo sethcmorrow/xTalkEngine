@@ -68,7 +68,7 @@ chosen.
 > <loadedExtensions> <function>.
 
 References: load extension (command), loadedExtensions (function),
-LiveCode Builder extension (glossary), it (keyword), widget (object),
+OpenXTalk Builder extension (glossary), it (keyword), widget (object),
 card (object), group (object), kind (property), visible (property)
 
 Tags: objects, extensions

@@ -33,11 +33,11 @@ iphoneUseDeviceResolution false
 
 Parameters:
 coordsInPixels(bool):
-When `true`, co-ordinates and sizes specified in LiveCode are treated as 
+When `true`, co-ordinates and sizes specified in OpenXTalk are treated as 
 being in pixels, rather than logical points.
 
 customCtrlsInPixels(bool):
-When `true`, co-ordinates and sizes specified in LiveCode for 
+When `true`, co-ordinates and sizes specified in OpenXTalk for 
 custom controls are treated as being in pixels, rather
 than logical points.
 
@@ -50,21 +50,21 @@ resolution of high-resolution devices should be used.
 
 The iPhone 4 has a display with double the resolution in both horizontal
 and vertical directions. By default, iOS handles this by mapping one
-logical 'point' to two physical 'pixels' with applications (LiveCode
+logical 'point' to two physical 'pixels' with applications (OpenXTalk
 included) interpreting everything in terms of logical points. This means
 that apps targetted for older devices can run identically on the newer
 iPhone 4 devices.
 
 If the <iphoneUseDeviceResolution> command is passed <true> as the first
-argument, LiveCode ensures that co-ordinates and sizes specified in
-LiveCode are treated as being in pixels, rather than logical points. In
+argument, OpenXTalk ensures that co-ordinates and sizes specified in
+OpenXTalk are treated as being in pixels, rather than logical points. In
 particular, when changed, a <resizeStack> message is sent notifying the
 size change of the current main-stack, and functions and properties
 (such as the screenRect) reflects co-ordinates in pixels.
 
 If the <iphoneUseDeviceResolution> command is passed <true> as the
-second argument, LiveCode ensures that co-ordinates and sizes specified
-in LiveCode for custom controls are treated as being in pixels, rather
+second argument, OpenXTalk ensures that co-ordinates and sizes specified
+in OpenXTalk for custom controls are treated as being in pixels, rather
 than logical points.
 
 >*Note:* The notion of pixel and logical point remains valid on older
