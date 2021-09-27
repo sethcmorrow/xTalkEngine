@@ -61,7 +61,7 @@ To give a <dialog box> a prompt when using the as sheet form a non-empty
 title must be provided. This will cause the prompt to appear in the same
 place it would if as sheet was not being used.
 
-If the systemFileSelector <property> is set to false, OpenXTalk's
+If the systemFileSelector <property> is set to false, OpenXtalk's
 built-in <dialog box> is used instead of the operating system's 
 <file dialog box|standard file dialog>.
 

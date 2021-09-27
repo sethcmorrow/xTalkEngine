@@ -26,9 +26,6 @@ Example:
 answer file "Input:" with "/Macintosh HD/"
 
 Example:
-answer file (field "Prompt") with type "OpenXTalk Stacks|rev|RSTK"
-
-Example:
 answer files "Select the images you wish to view:" with type "JPEG Images|jpg|JPEG"
 
 Parameters:

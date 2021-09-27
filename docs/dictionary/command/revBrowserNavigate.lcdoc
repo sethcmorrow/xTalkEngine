@@ -28,7 +28,7 @@ The instanceId  is an integer that identifies a browser control opened
 by the revBrowserOpen function.
 
 url:
-Any url that the browser supports. Eg "http://www.OpenXTalk.com",
+Any url that the browser supports. Eg "http://www.openxtalk.org/forum",
 "https://OpenXTalk.com". 
 
 The result:

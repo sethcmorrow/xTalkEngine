@@ -64,7 +64,7 @@ Video library (library), closeStack (message), shutdown (message),
 stack (object)
 
 Changes:
-Support for the "Video Grabber" library on Mac OS X ended in OpenXTalk
+Support for the "Video Grabber" library on Mac OS X ended in LiveCode
 9.0.
 
 Tags: multimedia

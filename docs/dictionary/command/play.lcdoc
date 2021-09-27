@@ -103,7 +103,7 @@ by using the put <command> :
 > use a <player> object.
 
 Changes:
-The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk. As
+The use of <QuickTime> was deprecated in version 8.1. As
 the `play videoClip ..` form of the <play> command was relying on 
 <QuickTime>, it is no longer supported.
 

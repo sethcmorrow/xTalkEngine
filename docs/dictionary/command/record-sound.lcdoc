@@ -62,7 +62,7 @@ the record sound command. These capabilities are now available using the
 answer record command and the recordRate and recordCompression
 properties. 
 
-The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk with
+The use of <QuickTime> was deprecated in version 8.1 with
 new defaults for <dontUseQT> and <dontUseQTEffects> as true on all
 systems apart from pre OS X 10.8. The Windows build of OpenXTalk no
 longer supports any <QuickTime> features and setting the <dontUseQT> and

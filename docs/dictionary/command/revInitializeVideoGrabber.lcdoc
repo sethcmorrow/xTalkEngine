@@ -73,13 +73,13 @@ the <revCloseVideoGrabber> <command> when you're done with
 > "Video Grabber" library checkbox is checked.
 
 Changes:
-The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk with
+The use of <QuickTime> was deprecated in version 8.1 with
 new defaults for <dontUseQT> and <dontUseQTEffects> as true on all
 systems apart from pre OS X 10.8. The Windows build of OpenXTalk no
 longer supports any <QuickTime> features and setting the <dontUseQT> and
 <dontUseQTEffects> will have no effect.
 
-Support for the "Video Grabber" library on Mac OS X ended in OpenXTalk
+Support for the "Video Grabber" library on Mac OS X ended in LiveCode
 9.0.
 
 References: revCloseVideoGrabber (command),

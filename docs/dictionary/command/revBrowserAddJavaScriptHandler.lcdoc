@@ -19,7 +19,7 @@ Security: network
 Example:
 local tBrowserID
 put revBrowserOpenCef(the windowId \
-      of this stack, "http://www.OpenXTalk.com" ) into tBrowserID
+      of this stack, "http://www.openxtalk.org/forum" ) into tBrowserID
 revBrowserAddJavaScriptHandler tBrowserID, "myOpenXTalkHandler"
 
 Parameters:

@@ -50,13 +50,13 @@ re-displaying the <dialog box|dialog>, save the values of these
 <properties>, then restore them when you want to record sound.
 
 Changes:
-The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk with
+The use of <QuickTime> was deprecated in version 8.1 with
 new defaults for <dontUseQT> and <dontUseQTEffects> as true on all
 systems apart from pre OS X 10.8. The Windows build of OpenXTalk no
 longer supports any <QuickTime> features and setting the <dontUseQT> and
 <dontUseQTEffects> will have no effect. Additionally <QuickTime> does 
 not include 64 bit support and therefore can not be supported on OS X 64
-bit builds of OpenXTalk.
+bit builds of OpenXtalk.
 
 References: answer effect (command), record sound (command),
 function (control structure), result (function),

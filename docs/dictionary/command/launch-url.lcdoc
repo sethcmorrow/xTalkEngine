@@ -16,7 +16,7 @@ Platforms: desktop, mobile
 Security: process
 
 Example:
-launch url "http://www.OpenXTalk.com"
+launch url "http://www.OpenXTalk.org/forum"
 
 Example:
 launch url "file:/Users/ben/Desktop/test.pdf"
