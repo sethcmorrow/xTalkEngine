@@ -42,7 +42,7 @@ you're working with.
 >*Important:*  The <revXMLDeleteNode> <command> is part of the 
 > <XML library>. To ensure that the <command> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure the "XML" 
 > checkbox is checked.
@@ -52,7 +52,7 @@ revXMLPutIntoNode (command), revXMLRootNode (function),
 revXMLNodeContents (function), result (function), node (glossary),
 Standalone Application Settings (glossary),
 standalone application (glossary), XML tree (glossary),
-command (glossary), LiveCode custom library (glossary),
+command (glossary), OpenXTalk custom library (glossary),
 XML library (library), revEndXMLNode (message), revStartXMLNode (message)
 
 Tags: text processing

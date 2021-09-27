@@ -64,7 +64,7 @@ OpenXTalk Builder extension (glossary), command (glossary)
 
 Changes:
 The ability to load multiple modules in a single <load extension>
-command was added in LiveCode 9.0.
+command was added in version 9.0.
 
 Tags: extensions
 

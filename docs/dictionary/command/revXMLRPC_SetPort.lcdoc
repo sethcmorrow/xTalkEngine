@@ -38,7 +38,7 @@ of the execution of an <XML-RPC> request.
 
 References: revXMLRPC_SetHost (command), revXMLRPC_GetPort (function),
 result (function), revXMLRPC_CreateRequest (function),
-LiveCode custom library (glossary), XML-RPC document(glossary),
+OpenXTalk custom library (glossary), XML-RPC document(glossary),
 Standalone Application Settings (glossary),
 standalone application (glossary), command (glossary),
 XML-RPC (glossary), XML-RPC library (library)

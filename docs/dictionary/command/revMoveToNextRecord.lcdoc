@@ -38,14 +38,14 @@ Use the <revMoveToNextRecord> <command> to move around within the
 selected set of <record|records>.
 
 >*Note:* Not all <database|databases> support the <revMoveToNextRecord>
-> <command>. All the major database types that LiveCode can connect to
+> <command>. All the major database types that OpenXTalk can connect to
 > do support this, however certain ODBC data sources may not, if in
 > doubt, refer to the documentation for your ODBC data source driver.
 
 >*Important:*  The <revMoveToNextRecord> <command> is part of the 
 > <Database library>. To ensure that the <command> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure both the 
 > "Database" library checkbox and those of the database drivers you are 
@@ -61,7 +61,7 @@ revNumberOfRecords (function), revDatabaseColumnNumbered (function),
 revdb_movenext (function), Standalone Application Settings (glossary),
 record (glossary), command (glossary), record set (glossary),
 standalone application (glossary), database (glossary),
-LiveCode custom library (glossary), Database library (library)
+OpenXTalk custom library (glossary), Database library (library)
 
 Tags: database
 

@@ -79,9 +79,7 @@ systems apart from pre OS X 10.8. The Windows build of OpenXTalk no
 longer supports any <QuickTime> features and setting the <dontUseQT> and
 <dontUseQTEffects> will have no effect.
 
-Support for the "Video Grabber" library on Mac OS X ended in LiveCode
-9.0.
-
+Support for the "Video Grabber" library on Mac OS X is deprecated
 References: revCloseVideoGrabber (command),
 revSetVideoGrabberRect (command), revRecordVideo (command),
 revPreviewVideo (command), revVideoGrabIdle (command),

@@ -41,6 +41,6 @@ method is being called specifically within that resource.
 References: revXMLRPC_SetMethod (command), revXMLRPC_GetPath (function),
 Standalone Application Settings (glossary),
 standalone application (glossary), return (glossary), function (glossary),
-XML-RPC document (glossary), LiveCode custom library (glossary),
+XML-RPC document (glossary), OpenXTalk custom library (glossary),
 XML-RPC library (library), revXMLRPC_CreateRequest (function),
 XML-RPC (glossary)

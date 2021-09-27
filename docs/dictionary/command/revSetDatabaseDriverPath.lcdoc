@@ -38,7 +38,7 @@ To use an external SQL database, the Database library needs to
 communicate via a database driver for the database you're using. By
 default, the Database library looks for drivers in the same folder as
 the application. If you try to work with the Database library, and the
-database driver is not where LiveCode expects it to be, a script error
+database driver is not where OpenXTalk expects it to be, a script error
 will result.
 
 If the database drivers your application needs are installed in a
@@ -53,14 +53,14 @@ place for this <command> is in your <stack|stack's> <startup> or
 >*Important:*  The <revSetDatabaseDriverPath> <command> is part of the 
 > <Database library>. To ensure that the <command> works in a 
 > <standalone application>, you must include this 
-> <LiveCode custom library|custom library> when you create your 
+> <OpenXTalk custom library|custom library> when you create your 
 > <standalone application|standalone>. In the Inclusions pane of the 
 > <Standalone Application Settings> window, make sure both the 
 > "Database" library checkbox and those of the database drivers you are 
 > using are checked.
 
 References: specialFolderPath (function), revOpenDatabase (function),
-revGetDatabaseDriverPath (function), LiveCode custom library (glossary),
+revGetDatabaseDriverPath (function), OpenXTalk custom library (glossary),
 property inspector (glossary), handler (glossary), database (glossary),
 Standalone Application Settings (glossary),
 standalone application (glossary), database driver (glossary),

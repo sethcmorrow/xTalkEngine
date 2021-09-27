@@ -41,7 +41,7 @@ References: result (function), revXMLRPC_GetProtocol (function),
 revXMLRPC_CreateRequest (function),
 Standalone Application Settings (glossary),
 standalone application (glossary), command (glossary),
-XML-RPC (glossary), LiveCode custom library (glossary),
+XML-RPC (glossary), OpenXTalk custom library (glossary),
 XML-RPC library (library)
 
 Tags: networking

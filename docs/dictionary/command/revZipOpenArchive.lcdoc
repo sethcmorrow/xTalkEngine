@@ -5,7 +5,7 @@ Type: command
 Syntax: revZipOpenArchive <archivePath>, <mode>
 
 Summary:
-Opens a zip archive for processing in LiveCode.
+Opens a zip archive for processing in OpenXTalk.
 
 Introduced: 2.7.3
 

@@ -63,7 +63,7 @@ Description:
 Use the <send> <command> to override the normal <message path>, or to
 delay a <command> until a specified time.
 
-The <message> can be either the name of a <handler> or a <LiveCode>
+The <message> can be either the name of a <handler> or a <OpenXTalk>
 <statement>. If the <message> is a <literal string> containing more than
 one <word> (for example, if it includes <parameter|parameters>, or if it
 is a multi-word command), it must be enclosed in <double quote|double
@@ -126,7 +126,7 @@ References: debugDo (command), dispatch (command), call (command),
 cancel (command), function (control structure), result (function),
 pendingMessages (function), object (glossary), literal string (glossary),
 return (glossary), evaluate (glossary), execute (glossary),
-command (glossary), LiveCode (glossary), double quote (glossary),
+command (glossary), OpenXTalk (glossary), double quote (glossary),
 trigger (glossary), message path (glossary), message (glossary),
 parameter (glossary), statement (glossary), handler (glossary),
 word (keyword), mouseUp (message), callbacks (property),

@@ -92,7 +92,7 @@ revXMLRPC_GetParam (function), result (function),
 revXMLRPC_GetParamCount (function), revXMLRPC_CreateRequest (function),
 Standalone Application Settings (glossary),
 standalone application (glossary), command (glossary),
-XML-RPC document (glossary), LiveCode custom library (glossary),
+XML-RPC document (glossary), OpenXTalk custom library (glossary),
 XML-RPC library (library), XML-RPC (glossary)
 
 Tags: networking
