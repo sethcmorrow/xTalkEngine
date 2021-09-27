@@ -48,7 +48,7 @@ Pattern images can be color or black-and-white.
 
 >*Cross-platform note:*  To be used as a pattern on <Mac OS|Mac OS systems>,
 > an <image> must be 128x128 <pixels> or less, and both its
-> <height> and <width> must be a power of 2, however, in OpenXTalk
+> <height> and <width> must be a power of 2, however, in
 > version 2.7, this restriction was partially lifted and the engine will
 > tile rectangular regions correctly with arbitrarily sized background
 > patterns.To be used on <Windows> and <Unix|Unix systems>, <height> and
