@@ -18,7 +18,7 @@ set the visible of widget 1 to false
 
 Example:
 on newWidget
-    if the kind of the target is "com.OpenXTalk.widget.colorswatch" then
+    if the kind of the target is "com.livecode.widget.colorswatch" then
         set the swatchColor of the target to "0,0,0,255"
     end if 
 end newWidget
