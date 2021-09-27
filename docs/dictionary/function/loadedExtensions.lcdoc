@@ -19,8 +19,8 @@ Example:
 put the loadedExtensions
 
 Example:
-if "com.OpenXTalk.extensions.OpenXTalk.switchButton" is among the lines of the loadedExtensions then
-    create widget as "com.OpenXTalk.extensions.OpenXTalk.switchButton"
+if "com.livecode.extensions.livecode.switchButton" is among the lines of the loadedExtensions then
+    create widget as "com.livecode.extensions.livecode.switchButton"
 end if    
 
 Returns:

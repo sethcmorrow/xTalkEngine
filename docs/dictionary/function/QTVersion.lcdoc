@@ -43,7 +43,7 @@ On Mac OS and Windows systems, if <QuickTime> is not installed, the
 > your application--to preload the code.
 
 Changes:
-The use of <QuickTime> was deprecated in version 8.1 of OpenXTalk with
+The use of <QuickTime> was deprecated in version 8.1 with
 new defaults for <dontUseQT> and <dontUseQTEffects> as true on all
 systems apart from pre OS X 10.8. The Windows build of OpenXTalk no
 longer supports any <QuickTime> features and setting the <dontUseQT> and

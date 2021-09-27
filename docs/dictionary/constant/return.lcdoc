@@ -64,7 +64,7 @@ carriage return (<ASCII> 13), and the end-of-line <delimiter> for
 > from it, end-of-line translation is performed, but not if you put data 
 > into or get data from a <binfile> <URL>.
 
->*Note:* Starting with OpenXTalk v. 7, all text is stored as <Unicode>.
+>*Note:* Starting with version 7, all text is stored as <Unicode>.
 > If you send text outside OpenXTalk you should convert it to the desired 
 > encoding using <textEncode>. If you receive text into OpenXTalk you 
 > should convert it to Unicode using <textDecode>.

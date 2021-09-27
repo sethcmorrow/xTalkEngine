@@ -68,7 +68,7 @@ Description:
 Use the <uniEncode> <function(control structure)> to convert single-byte
 characters to double-byte characters.
 
->*Important:* As of OpenXTalk 7.0 the <uniEncode> function has been 
+>*Important:* As of version 7.0 the <uniEncode> function has been 
 > deprecated. It will continue to work as in previous versions but 
 > should not be used in newcode as the existing behaviour is
 > incompatible with the new, transparent Unicode handling (the resulting 

@@ -72,7 +72,7 @@ resource ID of the original <resource> in the <file>; it only affects
 the copy in the <destinationFile>.
 
 Changes:
-The <copyResource> function was deprecated in OpenXTalk 8.1, since the
+The <copyResource> function was deprecated in version 8.1, since the
 versions of MacOS supported by OpenXTalk no longer support resource
 forks.  It should not be used in any new code.
 
