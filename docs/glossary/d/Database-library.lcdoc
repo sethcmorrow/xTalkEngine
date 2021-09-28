@@ -6,9 +6,7 @@ Type: library
 
 Description:
 The <OpenXTalk custom library|OpenXTalk custom library> that supports
-connections to MySQL, PostgreSQL, <ODBC>, Valentina, and Oracle 
-(OpenXTalk Enterprise only) databases. 
-
+connections to MySQL, PostgreSQL, <ODBC>, and Valentina.
 References: ODBC (glossary),
 OpenXTalk custom library (glossary)
 
